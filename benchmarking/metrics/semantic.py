@@ -35,10 +35,10 @@ class SemanticMetrics:
                        - 'all-mpnet-base-v2': Slower, 768-dim, better quality
                        - 'multi-qa-MiniLM-L6-cos-v1': Optimized for Q&A
         """
-        print(f"🔄 Loading SentenceTransformer model: {model_name}...")
+        # print(f"Loading SentenceTransformer model: {model_name}...")
         self.model = SentenceTransformer(model_name)
         self.model_name = model_name
-        print(f"✅ Model loaded: {model_name}")
+        # print(f"Model loaded: {model_name}")
     
     def semantic_similarity(self, predicted: str, reference: str) -> float:
         """
