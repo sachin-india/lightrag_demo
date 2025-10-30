@@ -11,21 +11,28 @@ Key Features:
 - Multi-mode query execution (Naive, Local, Global, Hybrid)
 - Result tracking with timing and metadata
 - Entity/relation mapping for evaluation
+
+Replaced Intel Alloy integration with standard OpenAI-based LightRAG.
 """
 
 import asyncio
 import time
+import os
 from pathlib import Path
 from typing import List, Dict, Any, Optional, Tuple
 import json
 import xml.etree.ElementTree as ET
 
 from lightrag import LightRAG, QueryParam
-from lightrag_intel.adapter import create_alloy_lightrag_async
+from lightrag.llm.openai import gpt_4o_mini_complete, openai_embed
+from dotenv import load_dotenv
 
 from ..utils.logging import get_logger
 from ..utils.errors import EvaluationError, handle_error
 from ..metrics.efficiency import EfficiencyMetrics
+
+# Load environment variables
+load_dotenv()
 
 logger = get_logger("lightrag_evaluator")
 
@@ -71,11 +78,14 @@ class LightRAGEvaluator:
             logger.info("Cleared existing benchmark storage")
     
     async def initialize(self):
-        """Initialize LightRAG instance"""
+        """Initialize LightRAG instance with OpenAI"""
         with logger.operation("initialize_lightrag"):
             try:
-                self.rag = await create_alloy_lightrag_async(
-                    working_dir=str(self.working_dir)
+                # Create LightRAG instance with OpenAI functions
+                self.rag = LightRAG(
+                    working_dir=str(self.working_dir),
+                    llm_model_func=gpt_4o_mini_complete,
+                    embedding_func=openai_embed
                 )
                 
                 # Check if graph exists
