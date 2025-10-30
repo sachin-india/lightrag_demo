@@ -1,0 +1,1991 @@
+{
+  "timestamp": "2025-10-30T09:34:28.638838",
+  "dataset_samples": [
+    {
+      "id": "hotpot_qa_0",
+      "query_id": "5a8b57f25542995d1e6f1371",
+      "query": "Were Scott Derrickson and Ed Wood of the same nationality?",
+      "answer": "yes",
+      "all_answers": [
+        "yes"
+      ],
+      "passages": [
+        {
+          "id": "hotpot_passage_0_0",
+          "title": "Adam Collis",
+          "text": "Adam Collis is an American filmmaker and actor.  He attended the Duke University from 1986 to 1990 and the University of California, Los Angeles from 2007 to 2010.  He also studied cinema at the University of Southern California from 1991 to 1997.  Collis first work was the assistant director for the Scott Derrickson's short \"Love in the Ruins\" (1995).  In 1998, he played \"Crankshaft\" in Eric Koyanagi's \"Hundred Percent\"."
+        },
+        {
+          "id": "hotpot_passage_0_1",
+          "title": "Ed Wood (film)",
+          "text": "Ed Wood is a 1994 American biographical period comedy-drama film directed and produced by Tim Burton, and starring Johnny Depp as cult filmmaker Ed Wood.  The film concerns the period in Wood's life when he made his best-known films as well as his relationship with actor Bela Lugosi, played by Martin Landau.  Sarah Jessica Parker, Patricia Arquette, Jeffrey Jones, Lisa Marie, and Bill Murray are among the supporting cast."
+        },
+        {
+          "id": "hotpot_passage_0_2",
+          "title": "Tyler Bates",
+          "text": "Tyler Bates (born June 5, 1965) is an American musician, music producer, and composer for films, television, and video games.  Much of his work is in the action and horror film genres, with films like \"Dawn of the Dead, 300, Sucker Punch,\" and \"John Wick.\"  He has collaborated with directors like Zack Snyder, Rob Zombie, Neil Marshall, William Friedkin, Scott Derrickson, and James Gunn.  With Gunn, he has scored every one of the director's films; including \"Guardians of the Galaxy\", which became one of the highest grossing domestic movies of 2014, and its 2017 sequel.  In addition, he is also the lead guitarist of the American rock band Marilyn Manson, and produced its albums \"The Pale Emperor\" and \"Heaven Upside Down\"."
+        },
+        {
+          "id": "hotpot_passage_0_3",
+          "title": "Doctor Strange (2016 film)",
+          "text": "Doctor Strange is a 2016 American superhero film based on the Marvel Comics character of the same name, produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures.  It is the fourteenth film of the Marvel Cinematic Universe (MCU).  The film was directed by Scott Derrickson, who wrote it with Jon Spaihts and C. Robert Cargill, and stars Benedict Cumberbatch as Stephen Strange, along with Chiwetel Ejiofor, Rachel McAdams, Benedict Wong, Michael Stuhlbarg, Benjamin Bratt, Scott Adkins, Mads Mikkelsen, and Tilda Swinton.  In \"Doctor Strange\", surgeon Strange learns the mystic arts after a career-ending car accident."
+        },
+        {
+          "id": "hotpot_passage_0_4",
+          "title": "Hellraiser: Inferno",
+          "text": "Hellraiser: Inferno (also known as Hellraiser V: Inferno) is a 2000 American horror film.  It is the fifth installment in the \"Hellraiser\" series and the first \"Hellraiser\" film to go straight-to-DVD.  It was directed by Scott Derrickson and released on October 3, 2000.  The film concerns a corrupt detective who discovers Lemarchand's box at a crime scene.  The film's reviews were mixed."
+        },
+        {
+          "id": "hotpot_passage_0_5",
+          "title": "Sinister (film)",
+          "text": "Sinister is a 2012 supernatural horror film directed by Scott Derrickson and written by Derrickson and C. Robert Cargill.  It stars Ethan Hawke as fictional true-crime writer Ellison Oswalt who discovers a box of home movies in his attic that puts his family in danger."
+        },
+        {
+          "id": "hotpot_passage_0_6",
+          "title": "Deliver Us from Evil (2014 film)",
+          "text": "Deliver Us from Evil is a 2014 American supernatural horror film directed by Scott Derrickson and produced by Jerry Bruckheimer.  The film is officially based on a 2001 non-fiction book entitled \"Beware the Night\" by Ralph Sarchie and Lisa Collier Cool, and its marketing campaign highlighted that it was \"inspired by actual accounts\".  The film stars Eric Bana, Édgar Ramírez, Sean Harris, Olivia Munn, and Joel McHale in the main roles and was released on July 2, 2014."
+        },
+        {
+          "id": "hotpot_passage_0_7",
+          "title": "Woodson, Arkansas",
+          "text": "Woodson is a census-designated place (CDP) in Pulaski County, Arkansas, in the United States.  Its population was 403 at the 2010 census.  It is part of the Little Rock–North Little Rock–Conway Metropolitan Statistical Area.  Woodson and its accompanying Woodson Lake and Wood Hollow are the namesake for Ed Wood Sr., a prominent plantation owner, trader, and businessman at the turn of the 20th century.  Woodson is adjacent to the Wood Plantation, the largest of the plantations own by Ed Wood Sr."
+        },
+        {
+          "id": "hotpot_passage_0_8",
+          "title": "Conrad Brooks",
+          "text": "Conrad Brooks (born Conrad Biedrzycki on January 3, 1931 in Baltimore, Maryland) is an American actor.  He moved to Hollywood, California in 1948 to pursue a career in acting.  He got his start in movies appearing in Ed Wood films such as \"Plan 9 from Outer Space\", \"Glen or Glenda\", and \"Jail Bait.\"  He took a break from acting during the 1960s and 1970s but due to the ongoing interest in the films of Ed Wood, he reemerged in the 1980s and has become a prolific actor.  He also has since gone on to write, produce and direct several films."
+        },
+        {
+          "id": "hotpot_passage_0_9",
+          "title": "The Exorcism of Emily Rose",
+          "text": "The Exorcism of Emily Rose is a 2005 American legal drama horror film directed by Scott Derrickson and starring Laura Linney and Tom Wilkinson.  The film is loosely based on the story of Anneliese Michel and follows a self-proclaimed agnostic who acts as defense counsel (Linney) representing a parish priest (Wilkinson), accused by the state of negligent homicide after he performed an exorcism."
+        }
+      ],
+      "source_type": "hotpot_qa",
+      "metadata": {
+        "original_id": "5a8b57f25542995d1e6f1371",
+        "level": "hard",
+        "type": "comparison",
+        "supporting_facts": {
+          "title": [
+            "Scott Derrickson",
+            "Ed Wood"
+          ],
+          "sent_id": [
+            0,
+            0
+          ]
+        },
+        "num_passages": 10
+      }
+    },
+    {
+      "id": "hotpot_qa_1",
+      "query_id": "5a8c7595554299585d9e36b6",
+      "query": "What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?",
+      "answer": "Chief of Protocol",
+      "all_answers": [
+        "Chief of Protocol"
+      ],
+      "passages": [
+        {
+          "id": "hotpot_passage_1_0",
+          "title": "A Kiss for Corliss",
+          "text": "A Kiss for Corliss is a 1949 American comedy film directed by Richard Wallace and written by Howard Dimsdale.  It stars Shirley Temple in her final starring role as well as her final film appearance.  It is a sequel to the 1945 film \"Kiss and Tell\".  \"A Kiss for Corliss\" was retitled \"Almost a Bride\" before release and this title appears in the title sequence.  The film was released on November 25, 1949, by United Artists."
+        },
+        {
+          "id": "hotpot_passage_1_1",
+          "title": "Lord High Treasurer",
+          "text": "The post of Lord High Treasurer or Lord Treasurer was an English government position and has been a British government position since the Acts of Union of 1707.  A holder of the post would be the third-highest-ranked Great Officer of State, below the Lord High Steward and the Lord High Chancellor."
+        },
+        {
+          "id": "hotpot_passage_1_2",
+          "title": "Meet Corliss Archer (TV series)",
+          "text": "Meet Corliss Archer is an American television sitcom that aired on CBS (July 13, 1951 - August 10, 1951) and in syndication via the Ziv Company from April to December 1954.  The program was an adaptation of the radio series of the same name, which was based on a series of short stories by F. Hugh Herbert."
+        },
+        {
+          "id": "hotpot_passage_1_3",
+          "title": "Village accountant",
+          "text": "The Village Accountant (variously known as \"Patwari\", \"Talati\", \"Patel\", \"Karnam\", \"Adhikari\", \"Shanbogaru\",\"Patnaik\" etc.) is an administrative government position found in rural parts of the Indian sub-continent.  The office and the officeholder are called the \"patwari\" in Telangana, Bengal, North India and in Pakistan while in Sindh it is called \"tapedar\".  The position is known as the \"karnam\" in Andhra Pradesh, \"patnaik\" in Orissa or \"adhikari\" in Tamil Nadu, while it is commonly known as the \"talati\" in Karnataka, Gujarat and Maharashtra.  The position was known as the \"kulkarni\" in Northern Karnataka and Maharashtra.  The position was known as the \"shanbogaru\" in South Karnataka."
+        },
+        {
+          "id": "hotpot_passage_1_4",
+          "title": "Joseph Kalite",
+          "text": "Joseph Kalite (died 24 January 2014) was a Central African politician.  As a government minister he either held the housing or health portfolio.  Kalite, a Muslim, was reported to be killed by anti-balaka outside the Central Mosque in the capital Bangui during the Central African Republic conflict.  He was killed with machetes on the day in Bangui after interim president Catherine Samba-Panza took power.  At the time of the attack Kalite held no government position, nor did he under the Séléka rule.  He was reported to have supported the rule of Séléka leader Michel Djotodia."
+        },
+        {
+          "id": "hotpot_passage_1_5",
+          "title": "Charles Craft",
+          "text": "Charles Craft (May 9, 1902 – September 19, 1968) was an English-born American film and television editor.  Born in the county of Hampshire in England on May 9, 1902, Craft would enter the film industry in Hollywood in 1927.  The first film he edited was the Universal Pictures silent film, \"Painting the Town\".  Over the next 25 years, Craft would edit 90 feature-length films.  In the early 1950s he would switch his focus to the small screen, his first show being \"Racket Squad\", from 1951–53, for which he was the main editor, editing 93 of the 98 episodes.  He would work on several other series during the 1950s, including \"Meet Corliss Archer\" (1954), \"Science Fiction Theatre\" (1955–56), and \"Highway Patrol\" (1955–57).  In the late 1950s and early 1960s he was one of the main editors on \"Sea Hunt\", starring Lloyd Bridges, editing over half of the episodes.  His final film work would be editing \"Flipper's New Adventure\" (1964, the sequel to 1963's \"Flipper\".  When the film was made into a television series, Craft would begin the editing duties on that show, editing the first 28 episodes before he retired in 1966.  Craft died on September 19, 1968 in Los Angeles, California."
+        },
+        {
+          "id": "hotpot_passage_1_6",
+          "title": "Meet Corliss Archer",
+          "text": "Meet Corliss Archer, a program from radio's Golden Age, ran from January 7, 1943 to September 30, 1956.  Although it was CBS's answer to NBC's popular \"A Date with Judy\", it was also broadcast by NBC in 1948 as a summer replacement for \"The Bob Hope Show\".  From October 3, 1952 to June 26, 1953, it aired on ABC, finally returning to CBS.  Despite the program's long run, fewer than 24 episodes are known to exist."
+        },
+        {
+          "id": "hotpot_passage_1_7",
+          "title": "Janet Waldo",
+          "text": "Janet Marie Waldo (February 4, 1920 – June 12, 2016) was an American radio and voice actress.  She is best known in animation for voicing Judy Jetson, Nancy in \"Shazzan\", Penelope Pitstop, and Josie in \"Josie and the Pussycats\", and on radio as the title character in \"Meet Corliss Archer\"."
+        },
+        {
+          "id": "hotpot_passage_1_8",
+          "title": "Kiss and Tell (1945 film)",
+          "text": "Kiss and Tell is a 1945 American comedy film starring then 17-year-old Shirley Temple as Corliss Archer.  In the film, two teenage girls cause their respective parents much concern when they start to become interested in boys.  The parents' bickering about which girl is the worse influence causes more problems than it solves."
+        },
+        {
+          "id": "hotpot_passage_1_9",
+          "title": "Secretary of State for Constitutional Affairs",
+          "text": "The office of Secretary of State for Constitutional Affairs was a British Government position, created in 2003.  Certain functions of the Lord Chancellor which related to the Lord Chancellor's Department were transferred to the Secretary of State.  At a later date further functions were also transferred to the Secretary of State for Constitutional Affairs from the First Secretary of State, a position within the government held by the Deputy Prime Minister."
+        }
+      ],
+      "source_type": "hotpot_qa",
+      "metadata": {
+        "original_id": "5a8c7595554299585d9e36b6",
+        "level": "hard",
+        "type": "bridge",
+        "supporting_facts": {
+          "title": [
+            "Kiss and Tell (1945 film)",
+            "Shirley Temple",
+            "Shirley Temple"
+          ],
+          "sent_id": [
+            0,
+            0,
+            1
+          ]
+        },
+        "num_passages": 10
+      }
+    },
+    {
+      "id": "hotpot_qa_2",
+      "query_id": "5a85ea095542994775f606a8",
+      "query": "What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?",
+      "answer": "Animorphs",
+      "all_answers": [
+        "Animorphs"
+      ],
+      "passages": [
+        {
+          "id": "hotpot_passage_2_0",
+          "title": "Animorphs",
+          "text": "Animorphs is a science fantasy series of young adult books written by Katherine Applegate and her husband Michael Grant, writing together under the name K. A. Applegate, and published by Scholastic.  It is told in first person, with all six main characters taking turns narrating the books through their own perspectives.  Horror, war, dehumanization, sanity, morality, innocence, leadership, freedom and growing up are the core themes of the series."
+        },
+        {
+          "id": "hotpot_passage_2_1",
+          "title": "Science Fantasy (magazine)",
+          "text": "Science Fantasy, which also appeared under the titles Impulse and SF Impulse, was a British fantasy and science fiction magazine, launched in 1950 by Nova Publications as a companion to Nova's \"New Worlds\".  Walter Gillings was editor for the first two issues, and was then replaced by John Carnell, the editor of \"New Worlds\", as a cost-saving measure.  Carnell edited both magazines until Nova went out of business in early 1964.  The titles were acquired by Roberts & Vinter, who hired Kyril Bonfiglioli to edit \"Science Fantasy\"; Bonfiglioli changed the title to \"Impulse\" in early 1966, but the new title led to confusion with the distributors and sales fell, though the magazine remained profitable.  The title was changed again to \"SF Impulse\" for the last few issues.  \"Science Fantasy\" ceased publication the following year, when Roberts & Vinter came under financial pressure after their printer went bankrupt."
+        },
+        {
+          "id": "hotpot_passage_2_2",
+          "title": "The Divide trilogy",
+          "text": "The Divide trilogy is a fantasy young adult novel trilogy by Elizabeth Kay, which takes place in an alternate universe.  The three books are \"The Divide\" (2002), \"Back to The Divide\" (2005), and \"Jinx on The Divide\" (2006).  The first novel was originally published by the small press publisher Chicken House (now a division of Scholastic), with subsequent volumes published by Scholastic, which also reprinted the first novel.  The books have been translated into French, German, Spanish, Finnish, Chinese, Japanese, Portuguese, Italian, Romanian and Dutch.  Interior illustrations are by Ted Dewan."
+        },
+        {
+          "id": "hotpot_passage_2_3",
+          "title": "Kazon",
+          "text": "The Kazon are a fictional alien race in the \"Star Trek\" franchise.  Developed by \"\" series' co-creators Rick Berman, Michael Piller, and Jeri Taylor, the Kazon serve as the primary antagonists during the show's first two seasons.  They are represented as a nomadic species divided into eighteen separate sects, and characterized by their reliance on violence.  A patriarchal society, the Kazon have a low opinion of women, and place pride in men becoming warriors and proving themselves in battle.  The Kazon storylines frequently revolve around the attempts of Jal Culluh and his Kazon sect to steal technology from the USS \"Voyager\", with the assistance of former \"Voyager\" ensign Seska.  During the second season, the \"Voyager\" crew uncover more about the alien species' history and culture through a temporary truce.  In their final appearance, the Kazon successfully commandeer \"Voyager\", but are eventually forced to surrender and retreat.  The alien species have minor cameo appearances and references in the show's subsequent seasons, and have also been included in \"Star Trek Online\" and novels set in the \"Star Trek\" universe."
+        },
+        {
+          "id": "hotpot_passage_2_4",
+          "title": "Victoria Hanley",
+          "text": "Victoria Hanley is an American young adult fantasy novelist.  Her first three books, \"The Seer And The Sword\", \"The Healer's Keep\" and \"The Light Of The Oracle\" are companion books to one another.  Her newest book (released March 2012) is the sequel of a series, called \"Indigo Magic\", published by Egmont USA.  She's also published two non-fiction books through Cotton Wood Press; called \"Seize the Story: A Handbook For Teens Who Like To Write\", and \"Wild Ink: A Grownups Guide To Writing Fiction For Teens\"."
+        },
+        {
+          "id": "hotpot_passage_2_5",
+          "title": "Shadowshaper",
+          "text": "Shadowshaper is a 2015 American urban fantasy young adult novel written by Daniel José Older.  It follows Sierra Santiago, an Afro-Boricua teenager living in Brooklyn.  She is the granddaughter of a \"shadowshaper\", or a person who infuses art with ancestral spirits.  As forces of gentrification invade their community and a mysterious being who appropriates their magic begins to hunt the aging shadowshapers, Sierra must learn about her artistic and spiritual heritage to foil the killer."
+        },
+        {
+          "id": "hotpot_passage_2_6",
+          "title": "Andre Norton Award",
+          "text": "The Andre Norton Award for Young Adult Science Fiction and Fantasy is an annual award presented by the Science Fiction and Fantasy Writers of America (SFWA) to the author of the best young adult or middle grade science fiction or fantasy book published in the United States in the preceding year.  It is named to honor prolific science fiction and fantasy author Andre Norton (1912–2005), and it was established by then SFWA president Catherine Asaro and the SFWA Young Adult Fiction committee and announced on February 20, 2005.  Any published young adult or middle grade science fiction or fantasy novel is eligible for the prize, including graphic novels.  There is no limit on word count.  The award is presented along with the Nebula Awards and follows the same rules for nominations and voting; as the awards are separate, works may be simultaneously nominated for both the Andre Norton award and a Nebula Award."
+        },
+        {
+          "id": "hotpot_passage_2_7",
+          "title": "Etiquette &amp; Espionage",
+          "text": "Etiquette & Espionage is a young adult steampunk novel by Gail Carriger.  It is her first young adult novel, and is set in the same universe as her bestselling Parasol Protectorate adult series."
+        },
+        {
+          "id": "hotpot_passage_2_8",
+          "title": "List of Square Enix companion books",
+          "text": "Dozens of Square Enix companion books have been produced since 1998, when video game developer Square began to produce books that focused on artwork, developer interviews, and background information on the fictional worlds and characters in its games rather than on gameplay details.  The first series of these books was the \"Perfect Works\" series, written and published by Square subsidiary DigiCube.  They produced three books between 1998 and 1999 before the line was stopped in favor of the \"Ultimania\" (アルティマニア , Arutimania ) series, a portmanteau of ultimate and mania.  This series of books is written by Studio BentStuff, which had previously written game guides for Square for \"Final Fantasy VII\".  They were published by DigiCube until the company was dissolved in 2003.  Square merged with video game publisher Enix on April 1, 2003 to form Square Enix, which resumed publication of the companion books."
+        },
+        {
+          "id": "hotpot_passage_2_9",
+          "title": "Left Behind: The Kids",
+          "text": "\"Left Behind: The Kids (stylized as LEFT BEHIND >THE KIDS<)\" is a series written by Jerry B. Jenkins, Tim LaHaye, and Chris Fabry.  The series consists of 40 short novels aimed primarily at the young adult market based on the adult series Left Behind also written by Jerry B. Jenkins.  It follows a core group of teenagers as they experience the rapture and tribulation, based on scriptures found in the Bible, and background plots introduced in the adult novels.  Like the adult series, the books were published by Tyndale House Publishing, and released over the 7 year period of 1997-2004.  The series has sold over 11 million copies worldwide."
+        }
+      ],
+      "source_type": "hotpot_qa",
+      "metadata": {
+        "original_id": "5a85ea095542994775f606a8",
+        "level": "hard",
+        "type": "bridge",
+        "supporting_facts": {
+          "title": [
+            "The Hork-Bajir Chronicles",
+            "The Hork-Bajir Chronicles",
+            "The Hork-Bajir Chronicles",
+            "Animorphs",
+            "Animorphs"
+          ],
+          "sent_id": [
+            0,
+            1,
+            2,
+            0,
+            1
+          ]
+        },
+        "num_passages": 10
+      }
+    },
+    {
+      "id": "hotpot_qa_3",
+      "query_id": "5adbf0a255429947ff17385a",
+      "query": "Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?",
+      "answer": "no",
+      "all_answers": [
+        "no"
+      ],
+      "passages": [
+        {
+          "id": "hotpot_passage_3_0",
+          "title": "Esma Sultan",
+          "text": "Esma Sultan is the name of three daughters of three Ottoman Sultans:"
+        },
+        {
+          "id": "hotpot_passage_3_1",
+          "title": "Esma Sultan (daughter of Abdul Hamid I)",
+          "text": "Esma Sultan (17 July 1778 – 4 June 1848) was an Ottoman princess, daughter of Sultan Abdul Hamid I, sister of Sultan Mustafa IV and Sultan Mahmud II.  She was the adoptive mother of Bezmiâlem Sultan and Rahime Perestu Sultan."
+        },
+        {
+          "id": "hotpot_passage_3_2",
+          "title": "Laleli Mosque",
+          "text": "The Laleli Mosque (Turkish: \"Laleli Camii, or Tulip Mosque\" ) is an 18th-century Ottoman imperial mosque located in Laleli, Fatih, Istanbul, Turkey."
+        },
+        {
+          "id": "hotpot_passage_3_3",
+          "title": "Gevheri Kadın",
+          "text": "Gevheri Kadın (8 July 1856 – 6 September 1884) was the fifth wife of 32nd Ottoman Sultan Abdülaziz.  She was the mother of Şehzade Mehmed Seyfeddin and Esma Sultan of the Ottoman Empire."
+        },
+        {
+          "id": "hotpot_passage_3_4",
+          "title": "Esma Sultan (daughter of Ahmed III)",
+          "text": "Esma Sultan (14 March 1726 – 13 August 1788) was an Ottoman princess, daughter of Sultan Ahmed III and his consort Zeynep Kadın.  She was the half-sister of Sultan Mustafa III and Abdul Hamid I."
+        },
+        {
+          "id": "hotpot_passage_3_5",
+          "title": "Djamaâ el Kebir",
+          "text": "The Great Mosque of Algiers (Arabic: الجامع الكبير‎ ‎ , \"Jemaa Kebir\") or “Djama’a al-Kebir” (meaning Great Mosque) is a mosque in Algiers, Algeria, located very close to Algiers Harbor.  An inscription on the minbar (منبر) or the pulpit testifies to fact that the mosque was built in 1097.  It is also known by several other names such as Grand Mosque d'Alger, Djamaa al-Kebir, El Kebir Mosque and Jami Masjid.  It is one of the few remaining examples of Almoravid architecture.  It is the oldest mosque in Algiers and is said to be the oldest mosque in Algeria after Sidi Okba Mosque.  It was built under sultan Ali ibn Yusuf.  Its minaret dates from 1332 (1324 in some sources) and was built by the Ziyyanid Sultan of Tlemcen.  The gallery at the outside of the mosque was built in 1840.  Its construction was a consequence of a complete reconstruction of the street by the French."
+        },
+        {
+          "id": "hotpot_passage_3_6",
+          "title": "Sultan Ahmed Mosque",
+          "text": "The Sultan Ahmed Mosque or Sultan Ahmet Mosque (Turkish: \"Sultan Ahmet Camii\" ) is a historic mosque located in Istanbul, Turkey.  A popular tourist site, the Sultan Ahmed Mosque continues to function as a mosque today; men still kneel in prayer on the mosque's lush red carpet after the call to prayer.  The Blue Mosque, as it is popularly known, was constructed between 1609 and 1616 during the rule of Ahmed I.  Its Külliye contains Ahmed's tomb, a madrasah and a hospice.  Hand-painted blue tiles adorn the mosque’s interior walls, and at night the mosque is bathed in blue as lights frame the mosque’s five main domes, six minarets and eight secondary domes.  It sits next to the Hagia Sophia, another popular tourist site."
+        },
+        {
+          "id": "hotpot_passage_3_7",
+          "title": "Esma Sultan (daughter of Abdülaziz)",
+          "text": "Esma Sultan (21 March 1873 – 7 May 1899) was an Ottoman princess, the daughter of Sultan Abdülaziz and his wife Gevheri Kadın, herself the daughter of Salih Bey Svatnba.  She was the half-sister of Abdülmecid II, the last Caliph of the Muslim world."
+        },
+        {
+          "id": "hotpot_passage_3_8",
+          "title": "Küçük Hüseyin Pasha",
+          "text": "Küçük Hüseyin Pasha (1757 – 7 December 1803), also known as Tayazade Damat Küçük Hüseyin Pasha, was an Ottoman statesman and admiral who was Kapudan Pasha (Grand Admiral of the Ottoman Navy) from 11 March 1792 to 7 December 1803.  He was a \"damat\" (\"bridegroom\") to the Ottoman dynasty after he married an Ottoman princess, Esma Sultan."
+        },
+        {
+          "id": "hotpot_passage_3_9",
+          "title": "Esma Sultan Mansion",
+          "text": "The Esma Sultan Mansion (Turkish: \"Esma Sultan Yalısı\" ), a historical yalı (English: waterside mansion ) located at Bosphorus in Ortaköy neighborhood of Istanbul, Turkey and named after its original owner Esma Sultan, is used today as a cultural center after being redeveloped."
+        }
+      ],
+      "source_type": "hotpot_qa",
+      "metadata": {
+        "original_id": "5adbf0a255429947ff17385a",
+        "level": "hard",
+        "type": "comparison",
+        "supporting_facts": {
+          "title": [
+            "Laleli Mosque",
+            "Esma Sultan Mansion"
+          ],
+          "sent_id": [
+            0,
+            0
+          ]
+        },
+        "num_passages": 10
+      }
+    },
+    {
+      "id": "hotpot_qa_4",
+      "query_id": "5a8e3ea95542995a26add48d",
+      "query": "The director of the romantic comedy \"Big Stone Gap\" is based in what New York city?",
+      "answer": "Greenwich Village, New York City",
+      "all_answers": [
+        "Greenwich Village, New York City"
+      ],
+      "passages": [
+        {
+          "id": "hotpot_passage_4_0",
+          "title": "Great Eastern Conventions",
+          "text": "Great Eastern Conventions, Inc. was an entertainment company which produced comic book conventions, most actively during the years 1987-1996.  In New York City, the Great Eastern shows filled the gap between the mid-1980s demise of the annual Comic Art Convention and Creation Conventions, and the establishment of promoter Michael Carbonaro's annual Big Apple Comic Con in 1996.  From 1993–1995, Great Eastern hosted two New York City shows annually at the Jacob K. Javits Convention Center.  Great Eastern also ran shows in New Jersey, Pennsylvania, Massachusetts, Oregon, Minnesota, and Texas."
+        },
+        {
+          "id": "hotpot_passage_4_1",
+          "title": "Big Stone Gap (film)",
+          "text": "Big Stone Gap is a 2014 American drama romantic comedy film written and directed by Adriana Trigiani and produced by Donna Gigliotti for Altar Identity Studios, a subsidiary of Media Society.  Based on Trigiani's 2000 best-selling novel of the same name, the story is set in the actual Virginia town of Big Stone Gap circa 1970s.  The film had its world premiere at the Virginia Film Festival on November 6, 2014."
+        },
+        {
+          "id": "hotpot_passage_4_2",
+          "title": "I Love NY (2015 film)",
+          "text": "I Love NY, also known as I Love New Year, is an Indian romantic comedy film directed by Radhika Rao and Vinay Sapru starring Sunny Deol and Kangana Ranaut in lead roles.  The film is produced by Bhushan Kumar and Krishan Kumar under the banner of Super Cassettes Industries Ltd.  The film was extensively shot in Mumbai, New York City and Bangkok.  The main plot was taken from the Russian romantic comedy \"The Irony of Fate\" (1976).  After numerous delays, the film released on 10 July 2015."
+        },
+        {
+          "id": "hotpot_passage_4_3",
+          "title": "Just Another Romantic Wrestling Comedy",
+          "text": "Just Another Romantic Wrestling Comedy is a 2006 film starring April Hunter and Joanie Laurer.  This Romantic comedy film was premiered at New Jersey and New York City on December 1, 2006 and was released on DVD in the United States and the United Kingdom on April 17, 2007.  After the film's DVD release \"Just Another Romantic Wrestling Comedy\" won an \"Honorable Mention\" award at the New Jersey International Festival awards.  The release is being handled by \"Victory Multimedia\"."
+        },
+        {
+          "id": "hotpot_passage_4_4",
+          "title": "Hamish and Andy's Gap Year",
+          "text": "Hamish & Andy's Gap Year is a Logie Award winning comedy series following Hamish Blake and Andy Lee, a pair of Australian comedians, on their trips to various international locations.  The first season saw the boys visiting America for ten episodes and broadcast their show weekly from New York City.  In its second season in 2012, the show was titled \"Hamish & Andy's Euro Gap Year\" and seven episodes were broadcast from The Lord Stanley, a disused pub in East London, England.  The third season known as \"Hamish and Andy's Gap Year Asia\" in 2013 was broadcast from a bar in Bangkok, Thailand, called 'The Raintree'."
+        },
+        {
+          "id": "hotpot_passage_4_5",
+          "title": "Sex and the City (film)",
+          "text": "Sex and the City (advertised as Sex and the City: The Movie) is a 2008 American romantic comedy film written and directed by Michael Patrick King in his feature film directorial debut, and a sequel to the 1998-2004 HBO comedy series of the same name (itself based on the book of the same name by Candace Bushnell) about four female friends: Carrie Bradshaw (Sarah Jessica Parker), Samantha Jones (Kim Cattrall), Charlotte York Goldenblatt (Kristin Davis), and Miranda Hobbes (Cynthia Nixon), dealing with their lives as single women in New York City.  The series often portrayed frank discussions about romance and sexuality."
+        },
+        {
+          "id": "hotpot_passage_4_6",
+          "title": "Nola (film)",
+          "text": "Nola is a 2003 American romantic comedy film written and directed by Alan Hruska.  It depicts the struggle of a young woman trying to survive in New York City while looking for her birth father.  It premiered in New York City on July 23, 2004."
+        },
+        {
+          "id": "hotpot_passage_4_7",
+          "title": "Kingston Morning",
+          "text": "Kingston Morning is Dave Eggar's 4th solo release recorded in Brooklyn, New York; Kingston, Jamaica; and Big Stone Gap, Virginia; and released by Domo Records.  \"Itsbynne Reel\" was nominated at the 53rd Grammy Awards for \"Best Instrumental Arrangement\"."
+        },
+        {
+          "id": "hotpot_passage_4_8",
+          "title": "Clinton, Minnesota",
+          "text": "Clinton is a city in Big Stone County, Minnesota, United States.  The city was named for New York Governor DeWitt Clinton.  The population was 449 at the 2010 census."
+        },
+        {
+          "id": "hotpot_passage_4_9",
+          "title": "New York Society of Model Engineers",
+          "text": "The New York Society of Model Engineers (NYSME) was originally incorporated in 1926 in New York City.  There are published records that show the Society existed as early as 1905.  In its early years, the organization moved to and from various locations throughout Manhattan.  AT that time it was basically a gentlemen's club of members who were interested in all types of model building.  In 1926 the Society was formalized and incorporated under the laws of the State of New York.  This was done so that the Society could obtain a permit to use a lake in New York City's Central Park for model motor boat races.  It was also at this time that the Society began construction of its first Model Railroad \" The Union Connecting\".  Over the next twenty years, the Society moved from its original location to two other locations.  Each move doubling the size of the previous location and of course doubling the size of the model train layout.  During WW2 many Society members were called to service in the Armed Forces.  Regrettably, the largest of the layouts had to be dismantled.  The location of the layout in the basement of the Astor Building was requested for the war effort.  The dismantling was done with care, with salvaged usable materials going into scrap drives for the War effort.  As members returned after the War a new location was searched for.  This led to an invitation from the Lackawanna Railroad to move into their Passenger Terminal in Hoboken,NJ.  They had the space for what would become the largest model railroad in the world at that time.  The space?  Only the ornate waiting room for the recently discontinued ferry boats to 23rd Street in New York City.  Here the layout was built.  It was based on the Lackawanna Railroad from Hoboken to Scranton, Pa.  It was magnificent; from the scale model of the Hoboken Terminal to the soaring Delaware Water Gap.  During the early-1950s the organization moved to its current location in Carlstadt, New Jersey."
+        }
+      ],
+      "source_type": "hotpot_qa",
+      "metadata": {
+        "original_id": "5a8e3ea95542995a26add48d",
+        "level": "hard",
+        "type": "bridge",
+        "supporting_facts": {
+          "title": [
+            "Big Stone Gap (film)",
+            "Adriana Trigiani"
+          ],
+          "sent_id": [
+            0,
+            0
+          ]
+        },
+        "num_passages": 10
+      }
+    }
+  ],
+  "query_results": [
+    {
+      "query_id": "5a8b57f25542995d1e6f1371",
+      "query": "Were Scott Derrickson and Ed Wood of the same nationality?",
+      "reference_answer": "yes",
+      "mode_results": {
+        "naive": {
+          "query_id": "5a8b57f25542995d1e6f1371_naive",
+          "query": "Were Scott Derrickson and Ed Wood of the same nationality?",
+          "mode": "naive",
+          "top_k": 10,
+          "response": "Scott Derrickson and Ed Wood were not of the same nationality. \n\nEd Wood was an American filmmaker known for his cult films, while Scott Derrickson is also an American director and writer primarily recognized for his work in the horror genre. Both individuals are from the United States, indicating that they share the same nationality.\n\n### References\n\n- [1] Ed Wood is a 1994 American biographical period comedy-drama film directed and produced by Tim Burton, and starring Johnny Depp as cult filmmaker Ed Wood. \n- [2] Deliver Us from Evil is a 2014 American supernatural horror film directed by Scott Derrickson. \n- [3] Doctor Strange is a 2016 American superhero film based on the Marvel Comics character of the same name, produced by Marvel Studios and directed by Scott Derrickson.",
+          "duration_seconds": 4.06660532951355,
+          "timestamp": 1761841939.9614437,
+          "graph_stats": {
+            "num_nodes": 359,
+            "num_edges": 285,
+            "avg_degree": 1.5877437325905293,
+            "density": 0.004435038359191423,
+            "num_entities": 94,
+            "num_relations": 94
+          }
+        },
+        "local": {
+          "query_id": "5a8b57f25542995d1e6f1371_local",
+          "query": "Were Scott Derrickson and Ed Wood of the same nationality?",
+          "mode": "local",
+          "top_k": 10,
+          "response": "Scott Derrickson and Ed Wood were not of the same nationality. Scott Derrickson is an American filmmaker and director. In contrast, Ed Wood was also American; he is best known as a filmmaker. Therefore, they share the same nationality of being American.\n\n### References\n\n- [1] Ed Wood is a 1994 American biographical period comedy-drama film directed and produced by Tim Burton, and starring Johnny Depp as cult filmmaker Ed Wood.  The film concerns the period in Wood's life when he made his best-known films as well as his relationship with actor Bela Lugosi, played by Martin Landau.  Sarah Jessica Parker, Patricia Arquette, Jeffrey Jones, Lisa Marie, and Bill Murray are among the supporting cast.\n- [2] Deliver Us from Evil is a 2014 American supernatural horror film directed by Scott Derrickson and produced by Jerry Bruckheimer.  The film is officially based on a 2001 non-fiction book entitled \"Beware the Night\" by Ralph Sarchie and Lisa Collier Cool, and its marketing campaign highlighted that it was \"inspired by actual accounts\".  The film stars Eric Bana, Édgar Ramírez, Sean Harris, Olivia Munn, and Joel McHale in the main roles and was released on July 2, 2014.\n- [3] Adam Collis is an American filmmaker and actor.  He attended the Duke University from 1986 to 1990 and the University of California, Los Angeles from 2007 to 2010.  He also studied cinema at the University of Southern California from 1991 to 1997.  Collis first work was the assistant director for the Scott Derrickson's short \"Love in the Ruins\" (1995).  In 1998, he played \"Crankshaft\" in Eric Koyanagi's \"Hundred Percent\".",
+          "duration_seconds": 11.544073104858398,
+          "timestamp": 1761841951.5055168,
+          "graph_stats": {
+            "num_nodes": 359,
+            "num_edges": 285,
+            "avg_degree": 1.5877437325905293,
+            "density": 0.004435038359191423,
+            "num_entities": 94,
+            "num_relations": 94
+          }
+        },
+        "global": {
+          "query_id": "5a8b57f25542995d1e6f1371_global",
+          "query": "Were Scott Derrickson and Ed Wood of the same nationality?",
+          "mode": "global",
+          "top_k": 10,
+          "response": "Scott Derrickson is an American filmmaker known for his work in horror and supernatural films, while Ed Wood, the cult filmmaker whose life is depicted in the film \"Ed Wood,\" is also American. Therefore, both Scott Derrickson and Ed Wood share the same nationality, which is American.\n\n### References\n* [1] Sinister\n* [2] Ed Wood (Film)\n* [3] Doctor Strange\n* [4] The Exorcism of Emily Rose\n* [5] Deliver Us from Evil",
+          "duration_seconds": 5.674671649932861,
+          "timestamp": 1761841957.1801884,
+          "graph_stats": {
+            "num_nodes": 359,
+            "num_edges": 285,
+            "avg_degree": 1.5877437325905293,
+            "density": 0.004435038359191423,
+            "num_entities": 94,
+            "num_relations": 94
+          }
+        },
+        "hybrid": {
+          "query_id": "5a8b57f25542995d1e6f1371_hybrid",
+          "query": "Were Scott Derrickson and Ed Wood of the same nationality?",
+          "mode": "hybrid",
+          "top_k": 10,
+          "response": "Scott Derrickson is an American filmmaker, while Ed Wood is also associated with America, as he was an American cult filmmaker. Therefore, both Scott Derrickson and Ed Wood share the same nationality of American.\n\n### References\n\n- [1] Ed Wood\n- [2] Scott Derrickson",
+          "duration_seconds": 4.641620874404907,
+          "timestamp": 1761841961.8218093,
+          "graph_stats": {
+            "num_nodes": 359,
+            "num_edges": 285,
+            "avg_degree": 1.5877437325905293,
+            "density": 0.004435038359191423,
+            "num_entities": 94,
+            "num_relations": 94
+          }
+        }
+      },
+      "metadata": {
+        "original_id": "5a8b57f25542995d1e6f1371",
+        "level": "hard",
+        "type": "comparison",
+        "supporting_facts": {
+          "title": [
+            "Scott Derrickson",
+            "Ed Wood"
+          ],
+          "sent_id": [
+            0,
+            0
+          ]
+        },
+        "num_passages": 10
+      }
+    },
+    {
+      "query_id": "5a8c7595554299585d9e36b6",
+      "query": "What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?",
+      "reference_answer": "Chief of Protocol",
+      "mode_results": {
+        "naive": {
+          "query_id": "5a8c7595554299585d9e36b6_naive",
+          "query": "What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?",
+          "mode": "naive",
+          "top_k": 10,
+          "response": "The woman who portrayed Corliss Archer in the film \"Kiss and Tell\" is Shirley Temple. However, the provided context does not contain any information regarding any government position held by Shirley Temple. Therefore, I do not have enough information to answer your query.",
+          "duration_seconds": 2.261925220489502,
+          "timestamp": 1761841964.0847826,
+          "graph_stats": {
+            "num_nodes": 359,
+            "num_edges": 285,
+            "avg_degree": 1.5877437325905293,
+            "density": 0.004435038359191423,
+            "num_entities": 94,
+            "num_relations": 94
+          }
+        },
+        "local": {
+          "query_id": "5a8c7595554299585d9e36b6_local",
+          "query": "What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?",
+          "mode": "local",
+          "top_k": 10,
+          "response": "I do not have enough information to answer.",
+          "duration_seconds": 3.578949213027954,
+          "timestamp": 1761841967.6637318,
+          "graph_stats": {
+            "num_nodes": 359,
+            "num_edges": 285,
+            "avg_degree": 1.5877437325905293,
+            "density": 0.004435038359191423,
+            "num_entities": 94,
+            "num_relations": 94
+          }
+        },
+        "global": {
+          "query_id": "5a8c7595554299585d9e36b6_global",
+          "query": "What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?",
+          "mode": "global",
+          "top_k": 10,
+          "response": "The woman who portrayed Corliss Archer in the film \"Kiss and Tell\" is Shirley Temple. She later held the position of a United States Ambassador to Ghana and Czechoslovakia, along with serving as a delegate to the United Nations. \n\nUnfortunately, I do not have specific information linking to your query about her government position directly from the provided context.",
+          "duration_seconds": 7.642690420150757,
+          "timestamp": 1761841975.3064222,
+          "graph_stats": {
+            "num_nodes": 359,
+            "num_edges": 285,
+            "avg_degree": 1.5877437325905293,
+            "density": 0.004435038359191423,
+            "num_entities": 94,
+            "num_relations": 94
+          }
+        },
+        "hybrid": {
+          "query_id": "5a8c7595554299585d9e36b6_hybrid",
+          "query": "What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?",
+          "mode": "hybrid",
+          "top_k": 10,
+          "response": "The character Corliss Archer in the film \"Kiss and Tell\" was portrayed by Shirley Temple. After her acting career, Shirley Temple served in a government position as the United States Ambassador to Czechoslovakia from 1989 to 1992. \n\nThis position allowed her to represent the United States and engage in diplomatic relations on behalf of the U.S. government.\n\n### References\n\n- [1] Kiss and Tell is a 1945 American comedy film starring then 17-year-old Shirley Temple as Corliss Archer.  In the film, two teenage girls cause their respective parents much concern when they start to become interested in boys.  The parents' bickering about which girl is the worse influence causes more problems than it solves.\n- [2] A Kiss for Corliss is a 1949 American comedy film directed by Richard Wallace and written by Howard Dimsdale.  It stars Shirley Temple in her final starring role as well as her final film appearance.  It is a sequel to the 1945 film \"Kiss and Tell\".  \"A Kiss for Corliss\" was retitled \"Almost a Bride\" before release and this title appears in the title sequence.  The film was released on November 25, 1949, by United Artists.",
+          "duration_seconds": 13.943507671356201,
+          "timestamp": 1761841989.24993,
+          "graph_stats": {
+            "num_nodes": 359,
+            "num_edges": 285,
+            "avg_degree": 1.5877437325905293,
+            "density": 0.004435038359191423,
+            "num_entities": 94,
+            "num_relations": 94
+          }
+        }
+      },
+      "metadata": {
+        "original_id": "5a8c7595554299585d9e36b6",
+        "level": "hard",
+        "type": "bridge",
+        "supporting_facts": {
+          "title": [
+            "Kiss and Tell (1945 film)",
+            "Shirley Temple",
+            "Shirley Temple"
+          ],
+          "sent_id": [
+            0,
+            0,
+            1
+          ]
+        },
+        "num_passages": 10
+      }
+    },
+    {
+      "query_id": "5a85ea095542994775f606a8",
+      "query": "What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?",
+      "reference_answer": "Animorphs",
+      "mode_results": {
+        "naive": {
+          "query_id": "5a85ea095542994775f606a8_naive",
+          "query": "What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?",
+          "mode": "naive",
+          "top_k": 10,
+          "response": "I do not have enough information to answer your query.",
+          "duration_seconds": 0.9897029399871826,
+          "timestamp": 1761841990.2396328,
+          "graph_stats": {
+            "num_nodes": 359,
+            "num_edges": 285,
+            "avg_degree": 1.5877437325905293,
+            "density": 0.004435038359191423,
+            "num_entities": 94,
+            "num_relations": 94
+          }
+        },
+        "local": {
+          "query_id": "5a85ea095542994775f606a8_local",
+          "query": "What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?",
+          "mode": "local",
+          "top_k": 10,
+          "response": "I do not have enough information to answer.",
+          "duration_seconds": 3.138005495071411,
+          "timestamp": 1761841993.3776383,
+          "graph_stats": {
+            "num_nodes": 359,
+            "num_edges": 285,
+            "avg_degree": 1.5877437325905293,
+            "density": 0.004435038359191423,
+            "num_entities": 94,
+            "num_relations": 94
+          }
+        },
+        "global": {
+          "query_id": "5a85ea095542994775f606a8_global",
+          "query": "What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?",
+          "mode": "global",
+          "top_k": 10,
+          "response": "I do not have enough information to answer.",
+          "duration_seconds": 4.0614659786224365,
+          "timestamp": 1761841997.4391043,
+          "graph_stats": {
+            "num_nodes": 359,
+            "num_edges": 285,
+            "avg_degree": 1.5877437325905293,
+            "density": 0.004435038359191423,
+            "num_entities": 94,
+            "num_relations": 94
+          }
+        },
+        "hybrid": {
+          "query_id": "5a85ea095542994775f606a8_hybrid",
+          "query": "What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?",
+          "mode": "hybrid",
+          "top_k": 10,
+          "response": "I do not have enough information to answer.",
+          "duration_seconds": 3.621809959411621,
+          "timestamp": 1761842001.0609143,
+          "graph_stats": {
+            "num_nodes": 359,
+            "num_edges": 285,
+            "avg_degree": 1.5877437325905293,
+            "density": 0.004435038359191423,
+            "num_entities": 94,
+            "num_relations": 94
+          }
+        }
+      },
+      "metadata": {
+        "original_id": "5a85ea095542994775f606a8",
+        "level": "hard",
+        "type": "bridge",
+        "supporting_facts": {
+          "title": [
+            "The Hork-Bajir Chronicles",
+            "The Hork-Bajir Chronicles",
+            "The Hork-Bajir Chronicles",
+            "Animorphs",
+            "Animorphs"
+          ],
+          "sent_id": [
+            0,
+            1,
+            2,
+            0,
+            1
+          ]
+        },
+        "num_passages": 10
+      }
+    },
+    {
+      "query_id": "5adbf0a255429947ff17385a",
+      "query": "Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?",
+      "reference_answer": "no",
+      "mode_results": {
+        "naive": {
+          "query_id": "5adbf0a255429947ff17385a_naive",
+          "query": "Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?",
+          "mode": "naive",
+          "top_k": 10,
+          "response": "No, the Laleli Mosque and Esma Sultan Mansion are not located in the same neighborhood. The Laleli Mosque is situated in Laleli, Fatih, Istanbul, whereas the Esma Sultan Mansion is located in the Ortaköy neighborhood of Istanbul. Thus, they are in different areas of the city.\n\n### References\n\n- [1] The Laleli Mosque (Turkish: \"Laleli Camii, or Tulip Mosque\") is an 18th-century Ottoman imperial mosque located in Laleli, Fatih, Istanbul, Turkey.\n- [2] The Esma Sultan Mansion (Turkish: \"Esma Sultan Yalısı\"), a historical yalı (English: waterside mansion) located at Bosphorus in Ortaköy neighborhood of Istanbul, Turkey and named after its original owner Esma Sultan, is used today as a cultural center after being redeveloped.",
+          "duration_seconds": 5.402602910995483,
+          "timestamp": 1761842006.4635172,
+          "graph_stats": {
+            "num_nodes": 359,
+            "num_edges": 285,
+            "avg_degree": 1.5877437325905293,
+            "density": 0.004435038359191423,
+            "num_entities": 94,
+            "num_relations": 94
+          }
+        },
+        "local": {
+          "query_id": "5adbf0a255429947ff17385a_local",
+          "query": "Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?",
+          "mode": "local",
+          "top_k": 10,
+          "response": "No, the Laleli Mosque and Esma Sultan Mansion are not located in the same neighborhood. \n\n- **Laleli Mosque** is situated in the Laleli neighborhood, which is part of the Fatih district of Istanbul.\n- **Esma Sultan Mansion**, on the other hand, is located in the Ortaköy neighborhood of Istanbul.\n\nThus, they are in different neighborhoods of the city. \n\n### References\n- [1] The Laleli Mosque (Turkish: \"Laleli Camii, or Tulip Mosque\") is an 18th-century Ottoman imperial mosque located in Laleli, Fatih, Istanbul, Turkey.\n- [2] The Esma Sultan Mansion (Turkish: \"Esma Sultan Yalısı\") is a historical yalı located at Bosphorus in Ortaköy neighborhood of Istanbul, Turkey.",
+          "duration_seconds": 7.568046808242798,
+          "timestamp": 1761842014.031564,
+          "graph_stats": {
+            "num_nodes": 359,
+            "num_edges": 285,
+            "avg_degree": 1.5877437325905293,
+            "density": 0.004435038359191423,
+            "num_entities": 94,
+            "num_relations": 94
+          }
+        },
+        "global": {
+          "query_id": "5adbf0a255429947ff17385a_global",
+          "query": "Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?",
+          "mode": "global",
+          "top_k": 10,
+          "response": "No, the Laleli Mosque and Esma Sultan Mansion are not located in the same neighborhood. \n\n- The **Laleli Mosque** is situated in the **Fatih** district of Istanbul.\n- The **Esma Sultan Mansion** is located in the **Ortaköy** neighborhood of Istanbul.\n\nTherefore, they belong to different neighborhoods within the city. \n\n### References\n\n- [1] The Laleli Mosque (Turkish: \"Laleli Camii, or Tulip Mosque\") is an 18th-century Ottoman imperial mosque located in Laleli, Fatih, Istanbul, Turkey.\n- [2] The Esma Sultan Mansion (Turkish: \"Esma Sultan Yalısı\"), a historical yalı, is located at Bosphorus in Ortaköy neighborhood of Istanbul, Turkey.",
+          "duration_seconds": 10.550575256347656,
+          "timestamp": 1761842024.5821393,
+          "graph_stats": {
+            "num_nodes": 359,
+            "num_edges": 285,
+            "avg_degree": 1.5877437325905293,
+            "density": 0.004435038359191423,
+            "num_entities": 94,
+            "num_relations": 94
+          }
+        },
+        "hybrid": {
+          "query_id": "5adbf0a255429947ff17385a_hybrid",
+          "query": "Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?",
+          "mode": "hybrid",
+          "top_k": 10,
+          "response": "No, the Laleli Mosque and Esma Sultan Mansion are not located in the same neighborhood. The Laleli Mosque is situated in the Laleli neighborhood of Fatih in Istanbul, while the Esma Sultan Mansion is located in the Ortaköy neighborhood. Therefore, they are in different areas of the city.\n\n### References\n* [1] The Laleli Mosque (Turkish: \"Laleli Camii, or Tulip Mosque\") is an 18th-century Ottoman imperial mosque located in Laleli, Fatih, Istanbul, Turkey.\n* [2] The Esma Sultan Mansion (Turkish: \"Esma Sultan Yalısı\") is a historical yalı located at Bosphorus in Ortaköy neighborhood of Istanbul, Turkey and named after its original owner Esma Sultan, is used today as a cultural center after being redeveloped.",
+          "duration_seconds": 6.594790458679199,
+          "timestamp": 1761842031.1769297,
+          "graph_stats": {
+            "num_nodes": 359,
+            "num_edges": 285,
+            "avg_degree": 1.5877437325905293,
+            "density": 0.004435038359191423,
+            "num_entities": 94,
+            "num_relations": 94
+          }
+        }
+      },
+      "metadata": {
+        "original_id": "5adbf0a255429947ff17385a",
+        "level": "hard",
+        "type": "comparison",
+        "supporting_facts": {
+          "title": [
+            "Laleli Mosque",
+            "Esma Sultan Mansion"
+          ],
+          "sent_id": [
+            0,
+            0
+          ]
+        },
+        "num_passages": 10
+      }
+    },
+    {
+      "query_id": "5a8e3ea95542995a26add48d",
+      "query": "The director of the romantic comedy \"Big Stone Gap\" is based in what New York city?",
+      "reference_answer": "Greenwich Village, New York City",
+      "mode_results": {
+        "naive": {
+          "query_id": "5a8e3ea95542995a26add48d_naive",
+          "query": "The director of the romantic comedy \"Big Stone Gap\" is based in what New York city?",
+          "mode": "naive",
+          "top_k": 10,
+          "response": "The director of the romantic comedy \"Big Stone Gap,\" Adriana Trigiani, is associated with New York City, as the film was produced by Donna Gigliotti for Altar Identity Studios, which is a subsidiary of Media Society based in New York. However, the specific city location for Trigiani is not provided in the context.\n\n### References\n\n- [1] Big Stone Gap",
+          "duration_seconds": 2.657836437225342,
+          "timestamp": 1761842033.8355913,
+          "graph_stats": {
+            "num_nodes": 359,
+            "num_edges": 285,
+            "avg_degree": 1.5877437325905293,
+            "density": 0.004435038359191423,
+            "num_entities": 94,
+            "num_relations": 94
+          }
+        },
+        "local": {
+          "query_id": "5a8e3ea95542995a26add48d_local",
+          "query": "The director of the romantic comedy \"Big Stone Gap\" is based in what New York city?",
+          "mode": "local",
+          "top_k": 10,
+          "response": "The director of the romantic comedy \"Big Stone Gap,\" Adriana Trigiani, is associated with the New York City of Brooklyn. This information can be inferred from the context mentioning that part of the album Kingston Morning, linked back to the film, was recorded in Brooklyn, New York. \n\nHowever, specific information about Adriana Trigiani's exact residence or primary base is not provided in the context.\n\n### References\n\n- [1] Big Stone Gap is a 2014 American drama romantic comedy film written and directed by Adriana Trigiani and produced by Donna Gigliotti for Altar Identity Studios, a subsidiary of Media Society. Based on Trigiani's 2000 best-selling novel of the same name, the story is set in the actual Virginia town of Big Stone Gap circa 1970s. The film had its world premiere at the Virginia Film Festival on November 6, 2014.\n- [3] Kingston Morning is Dave Eggar's 4th solo release recorded in Brooklyn, New York; Kingston, Jamaica; and Big Stone Gap, Virginia; and released by Domo Records. \"Itsbynne Reel\" was nominated at the 53rd Grammy Awards for \"Best Instrumental Arrangement.\"",
+          "duration_seconds": 8.062042951583862,
+          "timestamp": 1761842041.8976343,
+          "graph_stats": {
+            "num_nodes": 359,
+            "num_edges": 285,
+            "avg_degree": 1.5877437325905293,
+            "density": 0.004435038359191423,
+            "num_entities": 94,
+            "num_relations": 94
+          }
+        },
+        "global": {
+          "query_id": "5a8e3ea95542995a26add48d_global",
+          "query": "The director of the romantic comedy \"Big Stone Gap\" is based in what New York city?",
+          "mode": "global",
+          "top_k": 10,
+          "response": "I do not have enough information to answer your query.",
+          "duration_seconds": 3.4759185314178467,
+          "timestamp": 1761842045.3735528,
+          "graph_stats": {
+            "num_nodes": 359,
+            "num_edges": 285,
+            "avg_degree": 1.5877437325905293,
+            "density": 0.004435038359191423,
+            "num_entities": 94,
+            "num_relations": 94
+          }
+        },
+        "hybrid": {
+          "query_id": "5a8e3ea95542995a26add48d_hybrid",
+          "query": "The director of the romantic comedy \"Big Stone Gap\" is based in what New York city?",
+          "mode": "hybrid",
+          "top_k": 10,
+          "response": "The director of the romantic comedy \"Big Stone Gap,\" Adriana Trigiani, is not specifically mentioned as being based in New York City in the provided context. Therefore, I do not have enough information to answer your question regarding her location. \n\nIf you have other queries or need more information, feel free to ask!",
+          "duration_seconds": 4.058707237243652,
+          "timestamp": 1761842049.43226,
+          "graph_stats": {
+            "num_nodes": 359,
+            "num_edges": 285,
+            "avg_degree": 1.5877437325905293,
+            "density": 0.004435038359191423,
+            "num_entities": 94,
+            "num_relations": 94
+          }
+        }
+      },
+      "metadata": {
+        "original_id": "5a8e3ea95542995a26add48d",
+        "level": "hard",
+        "type": "bridge",
+        "supporting_facts": {
+          "title": [
+            "Big Stone Gap (film)",
+            "Adriana Trigiani"
+          ],
+          "sent_id": [
+            0,
+            0
+          ]
+        },
+        "num_passages": 10
+      }
+    }
+  ],
+  "metrics": {
+    "traditional": {
+      "5a8b57f25542995d1e6f1371_naive": {
+        "rouge": {
+          "rouge-1": {
+            "p": 0.0,
+            "r": 0.0,
+            "f": 0.0
+          },
+          "rouge-2": {
+            "p": 0.0,
+            "r": 0.0,
+            "f": 0.0
+          },
+          "rouge-l": {
+            "p": 0.0,
+            "r": 0.0,
+            "f": 0.0
+          }
+        },
+        "bleu": 0.0,
+        "f1": 0.0,
+        "exact_match": 0.0,
+        "containment": {
+          "exact_substring": 0.0,
+          "normalized_substring": 0.0,
+          "token_overlap_ratio": 0.0,
+          "all_tokens_present": 0.0
+        }
+      },
+      "5a8b57f25542995d1e6f1371_local": {
+        "rouge": {
+          "rouge-1": {
+            "p": 0.0,
+            "r": 0.0,
+            "f": 0.0
+          },
+          "rouge-2": {
+            "p": 0.0,
+            "r": 0.0,
+            "f": 0.0
+          },
+          "rouge-l": {
+            "p": 0.0,
+            "r": 0.0,
+            "f": 0.0
+          }
+        },
+        "bleu": 0.0,
+        "f1": 0.0,
+        "exact_match": 0.0,
+        "containment": {
+          "exact_substring": 0.0,
+          "normalized_substring": 0.0,
+          "token_overlap_ratio": 0.0,
+          "all_tokens_present": 0.0
+        }
+      },
+      "5a8b57f25542995d1e6f1371_global": {
+        "rouge": {
+          "rouge-1": {
+            "p": 0.0,
+            "r": 0.0,
+            "f": 0.0
+          },
+          "rouge-2": {
+            "p": 0.0,
+            "r": 0.0,
+            "f": 0.0
+          },
+          "rouge-l": {
+            "p": 0.0,
+            "r": 0.0,
+            "f": 0.0
+          }
+        },
+        "bleu": 0.0,
+        "f1": 0.0,
+        "exact_match": 0.0,
+        "containment": {
+          "exact_substring": 0.0,
+          "normalized_substring": 0.0,
+          "token_overlap_ratio": 0.0,
+          "all_tokens_present": 0.0
+        }
+      },
+      "5a8b57f25542995d1e6f1371_hybrid": {
+        "rouge": {
+          "rouge-1": {
+            "p": 0.0,
+            "r": 0.0,
+            "f": 0.0
+          },
+          "rouge-2": {
+            "p": 0.0,
+            "r": 0.0,
+            "f": 0.0
+          },
+          "rouge-l": {
+            "p": 0.0,
+            "r": 0.0,
+            "f": 0.0
+          }
+        },
+        "bleu": 0.0,
+        "f1": 0.0,
+        "exact_match": 0.0,
+        "containment": {
+          "exact_substring": 0.0,
+          "normalized_substring": 0.0,
+          "token_overlap_ratio": 0.0,
+          "all_tokens_present": 0.0
+        }
+      },
+      "5a8c7595554299585d9e36b6_naive": {
+        "rouge": {
+          "rouge-1": {
+            "p": 0.0,
+            "r": 0.0,
+            "f": 0.0
+          },
+          "rouge-2": {
+            "p": 0.0,
+            "r": 0.0,
+            "f": 0.0
+          },
+          "rouge-l": {
+            "p": 0.0,
+            "r": 0.0,
+            "f": 0.0
+          }
+        },
+        "bleu": 0.0,
+        "f1": 0.0,
+        "exact_match": 0.0,
+        "containment": {
+          "exact_substring": 0.0,
+          "normalized_substring": 0.0,
+          "token_overlap_ratio": 0.0,
+          "all_tokens_present": 0.0
+        }
+      },
+      "5a8c7595554299585d9e36b6_local": {
+        "rouge": {
+          "rouge-1": {
+            "p": 0.0,
+            "r": 0.0,
+            "f": 0.0
+          },
+          "rouge-2": {
+            "p": 0.0,
+            "r": 0.0,
+            "f": 0.0
+          },
+          "rouge-l": {
+            "p": 0.0,
+            "r": 0.0,
+            "f": 0.0
+          }
+        },
+        "bleu": 0.0,
+        "f1": 0.0,
+        "exact_match": 0.0,
+        "containment": {
+          "exact_substring": 0.0,
+          "normalized_substring": 0.0,
+          "token_overlap_ratio": 0.0,
+          "all_tokens_present": 0.0
+        }
+      },
+      "5a8c7595554299585d9e36b6_global": {
+        "rouge": {
+          "rouge-1": {
+            "p": 0.02127659574468085,
+            "r": 0.3333333333333333,
+            "f": 0.04
+          },
+          "rouge-2": {
+            "p": 0.0,
+            "r": 0.0,
+            "f": 0.0
+          },
+          "rouge-l": {
+            "p": 0.019230769230769232,
+            "r": 0.3333333333333333,
+            "f": 0.03636363636363637
+          }
+        },
+        "bleu": 0.019230769230769232,
+        "f1": 0.03636363636363637,
+        "exact_match": 0.0,
+        "containment": {
+          "exact_substring": 0.0,
+          "normalized_substring": 0.0,
+          "token_overlap_ratio": 0.3333333333333333,
+          "all_tokens_present": 0.0
+        }
+      },
+      "5a8c7595554299585d9e36b6_hybrid": {
+        "rouge": {
+          "rouge-1": {
+            "p": 0.00980392156862745,
+            "r": 0.3333333333333333,
+            "f": 0.019047619047619046
+          },
+          "rouge-2": {
+            "p": 0.0,
+            "r": 0.0,
+            "f": 0.0
+          },
+          "rouge-l": {
+            "p": 0.005847953216374269,
+            "r": 0.3333333333333333,
+            "f": 0.011494252873563218
+          }
+        },
+        "bleu": 0.005847953216374269,
+        "f1": 0.011494252873563218,
+        "exact_match": 0.0,
+        "containment": {
+          "exact_substring": 0.0,
+          "normalized_substring": 0.0,
+          "token_overlap_ratio": 0.3333333333333333,
+          "all_tokens_present": 0.0
+        }
+      },
+      "5a85ea095542994775f606a8_naive": {
+        "rouge": {
+          "rouge-1": {
+            "p": 0.0,
+            "r": 0.0,
+            "f": 0.0
+          },
+          "rouge-2": {
+            "p": 0.0,
+            "r": 0.0,
+            "f": 0.0
+          },
+          "rouge-l": {
+            "p": 0.0,
+            "r": 0.0,
+            "f": 0.0
+          }
+        },
+        "bleu": 0.0,
+        "f1": 0.0,
+        "exact_match": 0.0,
+        "containment": {
+          "exact_substring": 0.0,
+          "normalized_substring": 0.0,
+          "token_overlap_ratio": 0.0,
+          "all_tokens_present": 0.0
+        }
+      },
+      "5a85ea095542994775f606a8_local": {
+        "rouge": {
+          "rouge-1": {
+            "p": 0.0,
+            "r": 0.0,
+            "f": 0.0
+          },
+          "rouge-2": {
+            "p": 0.0,
+            "r": 0.0,
+            "f": 0.0
+          },
+          "rouge-l": {
+            "p": 0.0,
+            "r": 0.0,
+            "f": 0.0
+          }
+        },
+        "bleu": 0.0,
+        "f1": 0.0,
+        "exact_match": 0.0,
+        "containment": {
+          "exact_substring": 0.0,
+          "normalized_substring": 0.0,
+          "token_overlap_ratio": 0.0,
+          "all_tokens_present": 0.0
+        }
+      },
+      "5a85ea095542994775f606a8_global": {
+        "rouge": {
+          "rouge-1": {
+            "p": 0.0,
+            "r": 0.0,
+            "f": 0.0
+          },
+          "rouge-2": {
+            "p": 0.0,
+            "r": 0.0,
+            "f": 0.0
+          },
+          "rouge-l": {
+            "p": 0.0,
+            "r": 0.0,
+            "f": 0.0
+          }
+        },
+        "bleu": 0.0,
+        "f1": 0.0,
+        "exact_match": 0.0,
+        "containment": {
+          "exact_substring": 0.0,
+          "normalized_substring": 0.0,
+          "token_overlap_ratio": 0.0,
+          "all_tokens_present": 0.0
+        }
+      },
+      "5a85ea095542994775f606a8_hybrid": {
+        "rouge": {
+          "rouge-1": {
+            "p": 0.0,
+            "r": 0.0,
+            "f": 0.0
+          },
+          "rouge-2": {
+            "p": 0.0,
+            "r": 0.0,
+            "f": 0.0
+          },
+          "rouge-l": {
+            "p": 0.0,
+            "r": 0.0,
+            "f": 0.0
+          }
+        },
+        "bleu": 0.0,
+        "f1": 0.0,
+        "exact_match": 0.0,
+        "containment": {
+          "exact_substring": 0.0,
+          "normalized_substring": 0.0,
+          "token_overlap_ratio": 0.0,
+          "all_tokens_present": 0.0
+        }
+      },
+      "5adbf0a255429947ff17385a_naive": {
+        "rouge": {
+          "rouge-1": {
+            "p": 0.01818181818181818,
+            "r": 1.0,
+            "f": 0.03571428571428572
+          },
+          "rouge-2": {
+            "p": 0.0,
+            "r": 0.0,
+            "f": 0.0
+          },
+          "rouge-l": {
+            "p": 0.01,
+            "r": 1.0,
+            "f": 0.019801980198019802
+          }
+        },
+        "bleu": 0.01,
+        "f1": 0.019801980198019802,
+        "exact_match": 0.0,
+        "containment": {
+          "exact_substring": 1.0,
+          "normalized_substring": 1.0,
+          "token_overlap_ratio": 1.0,
+          "all_tokens_present": 1.0
+        }
+      },
+      "5adbf0a255429947ff17385a_local": {
+        "rouge": {
+          "rouge-1": {
+            "p": 0.021739130434782608,
+            "r": 1.0,
+            "f": 0.042553191489361694
+          },
+          "rouge-2": {
+            "p": 0.0,
+            "r": 0.0,
+            "f": 0.0
+          },
+          "rouge-l": {
+            "p": 0.011111111111111112,
+            "r": 1.0,
+            "f": 0.02197802197802198
+          }
+        },
+        "bleu": 0.011111111111111112,
+        "f1": 0.02197802197802198,
+        "exact_match": 0.0,
+        "containment": {
+          "exact_substring": 1.0,
+          "normalized_substring": 1.0,
+          "token_overlap_ratio": 1.0,
+          "all_tokens_present": 1.0
+        }
+      },
+      "5adbf0a255429947ff17385a_global": {
+        "rouge": {
+          "rouge-1": {
+            "p": 0.022727272727272728,
+            "r": 1.0,
+            "f": 0.044444444444444446
+          },
+          "rouge-2": {
+            "p": 0.0,
+            "r": 0.0,
+            "f": 0.0
+          },
+          "rouge-l": {
+            "p": 0.012345679012345678,
+            "r": 1.0,
+            "f": 0.024390243902439022
+          }
+        },
+        "bleu": 0.012345679012345678,
+        "f1": 0.024390243902439022,
+        "exact_match": 0.0,
+        "containment": {
+          "exact_substring": 1.0,
+          "normalized_substring": 1.0,
+          "token_overlap_ratio": 1.0,
+          "all_tokens_present": 1.0
+        }
+      },
+      "5adbf0a255429947ff17385a_hybrid": {
+        "rouge": {
+          "rouge-1": {
+            "p": 0.018867924528301886,
+            "r": 1.0,
+            "f": 0.037037037037037035
+          },
+          "rouge-2": {
+            "p": 0.0,
+            "r": 0.0,
+            "f": 0.0
+          },
+          "rouge-l": {
+            "p": 0.010101010101010102,
+            "r": 1.0,
+            "f": 0.02
+          }
+        },
+        "bleu": 0.010101010101010102,
+        "f1": 0.02,
+        "exact_match": 0.0,
+        "containment": {
+          "exact_substring": 1.0,
+          "normalized_substring": 1.0,
+          "token_overlap_ratio": 1.0,
+          "all_tokens_present": 1.0
+        }
+      },
+      "5a8e3ea95542995a26add48d_naive": {
+        "rouge": {
+          "rouge-1": {
+            "p": 0.075,
+            "r": 0.6,
+            "f": 0.13333333333333333
+          },
+          "rouge-2": {
+            "p": 0.0425531914893617,
+            "r": 0.5,
+            "f": 0.0784313725490196
+          },
+          "rouge-l": {
+            "p": 0.057692307692307696,
+            "r": 0.6,
+            "f": 0.10526315789473685
+          }
+        },
+        "bleu": 0.057692307692307696,
+        "f1": 0.10526315789473685,
+        "exact_match": 0.0,
+        "containment": {
+          "exact_substring": 0.0,
+          "normalized_substring": 0.0,
+          "token_overlap_ratio": 0.6,
+          "all_tokens_present": 0.0
+        }
+      },
+      "5a8e3ea95542995a26add48d_local": {
+        "rouge": {
+          "rouge-1": {
+            "p": 0.028037383177570093,
+            "r": 0.6,
+            "f": 0.053571428571428575
+          },
+          "rouge-2": {
+            "p": 0.0136986301369863,
+            "r": 0.5,
+            "f": 0.02666666666666666
+          },
+          "rouge-l": {
+            "p": 0.018633540372670808,
+            "r": 0.6,
+            "f": 0.03614457831325301
+          }
+        },
+        "bleu": 0.018633540372670808,
+        "f1": 0.03614457831325301,
+        "exact_match": 0.0,
+        "containment": {
+          "exact_substring": 0.0,
+          "normalized_substring": 0.0,
+          "token_overlap_ratio": 0.6,
+          "all_tokens_present": 0.0
+        }
+      },
+      "5a8e3ea95542995a26add48d_global": {
+        "rouge": {
+          "rouge-1": {
+            "p": 0.0,
+            "r": 0.0,
+            "f": 0.0
+          },
+          "rouge-2": {
+            "p": 0.0,
+            "r": 0.0,
+            "f": 0.0
+          },
+          "rouge-l": {
+            "p": 0.0,
+            "r": 0.0,
+            "f": 0.0
+          }
+        },
+        "bleu": 0.0,
+        "f1": 0.0,
+        "exact_match": 0.0,
+        "containment": {
+          "exact_substring": 0.0,
+          "normalized_substring": 0.0,
+          "token_overlap_ratio": 0.0,
+          "all_tokens_present": 0.0
+        }
+      },
+      "5a8e3ea95542995a26add48d_hybrid": {
+        "rouge": {
+          "rouge-1": {
+            "p": 0.06666666666666667,
+            "r": 0.6,
+            "f": 0.12000000000000001
+          },
+          "rouge-2": {
+            "p": 0.04081632653061224,
+            "r": 0.5,
+            "f": 0.07547169811320753
+          },
+          "rouge-l": {
+            "p": 0.06,
+            "r": 0.6,
+            "f": 0.1090909090909091
+          }
+        },
+        "bleu": 0.06,
+        "f1": 0.1090909090909091,
+        "exact_match": 0.0,
+        "containment": {
+          "exact_substring": 0.0,
+          "normalized_substring": 0.0,
+          "token_overlap_ratio": 0.6,
+          "all_tokens_present": 0.0
+        }
+      }
+    },
+    "retrieval": {},
+    "efficiency": {
+      "5a8b57f25542995d1e6f1371_naive": {
+        "latency_seconds": 4.06660532951355,
+        "mode": "naive"
+      },
+      "5a8b57f25542995d1e6f1371_local": {
+        "latency_seconds": 11.544073104858398,
+        "mode": "local"
+      },
+      "5a8b57f25542995d1e6f1371_global": {
+        "latency_seconds": 5.674671649932861,
+        "mode": "global"
+      },
+      "5a8b57f25542995d1e6f1371_hybrid": {
+        "latency_seconds": 4.641620874404907,
+        "mode": "hybrid"
+      },
+      "5a8c7595554299585d9e36b6_naive": {
+        "latency_seconds": 2.261925220489502,
+        "mode": "naive"
+      },
+      "5a8c7595554299585d9e36b6_local": {
+        "latency_seconds": 3.578949213027954,
+        "mode": "local"
+      },
+      "5a8c7595554299585d9e36b6_global": {
+        "latency_seconds": 7.642690420150757,
+        "mode": "global"
+      },
+      "5a8c7595554299585d9e36b6_hybrid": {
+        "latency_seconds": 13.943507671356201,
+        "mode": "hybrid"
+      },
+      "5a85ea095542994775f606a8_naive": {
+        "latency_seconds": 0.9897029399871826,
+        "mode": "naive"
+      },
+      "5a85ea095542994775f606a8_local": {
+        "latency_seconds": 3.138005495071411,
+        "mode": "local"
+      },
+      "5a85ea095542994775f606a8_global": {
+        "latency_seconds": 4.0614659786224365,
+        "mode": "global"
+      },
+      "5a85ea095542994775f606a8_hybrid": {
+        "latency_seconds": 3.621809959411621,
+        "mode": "hybrid"
+      },
+      "5adbf0a255429947ff17385a_naive": {
+        "latency_seconds": 5.402602910995483,
+        "mode": "naive"
+      },
+      "5adbf0a255429947ff17385a_local": {
+        "latency_seconds": 7.568046808242798,
+        "mode": "local"
+      },
+      "5adbf0a255429947ff17385a_global": {
+        "latency_seconds": 10.550575256347656,
+        "mode": "global"
+      },
+      "5adbf0a255429947ff17385a_hybrid": {
+        "latency_seconds": 6.594790458679199,
+        "mode": "hybrid"
+      },
+      "5a8e3ea95542995a26add48d_naive": {
+        "latency_seconds": 2.657836437225342,
+        "mode": "naive"
+      },
+      "5a8e3ea95542995a26add48d_local": {
+        "latency_seconds": 8.062042951583862,
+        "mode": "local"
+      },
+      "5a8e3ea95542995a26add48d_global": {
+        "latency_seconds": 3.4759185314178467,
+        "mode": "global"
+      },
+      "5a8e3ea95542995a26add48d_hybrid": {
+        "latency_seconds": 4.058707237243652,
+        "mode": "hybrid"
+      }
+    },
+    "graph": {
+      "5a8b57f25542995d1e6f1371_naive": {
+        "has_references": true,
+        "reference_count": 3,
+        "entity_density": 0.2923076923076923,
+        "unique_token_ratio": 0.6153846153846154
+      },
+      "5a8b57f25542995d1e6f1371_local": {
+        "has_references": true,
+        "reference_count": 3,
+        "entity_density": 0.33458646616541354,
+        "unique_token_ratio": 0.6390977443609023
+      },
+      "5a8b57f25542995d1e6f1371_global": {
+        "has_references": true,
+        "reference_count": 5,
+        "entity_density": 0.35135135135135137,
+        "unique_token_ratio": 0.7432432432432432
+      },
+      "5a8b57f25542995d1e6f1371_hybrid": {
+        "has_references": true,
+        "reference_count": 2,
+        "entity_density": 0.4090909090909091,
+        "unique_token_ratio": 0.7272727272727273
+      },
+      "5a8c7595554299585d9e36b6_naive": {
+        "has_references": false,
+        "reference_count": 0,
+        "entity_density": 0.23255813953488372,
+        "unique_token_ratio": 0.8372093023255814
+      },
+      "5a8c7595554299585d9e36b6_local": {
+        "has_references": false,
+        "reference_count": 0,
+        "entity_density": 0.0,
+        "unique_token_ratio": 1.0
+      },
+      "5a8c7595554299585d9e36b6_global": {
+        "has_references": false,
+        "reference_count": 0,
+        "entity_density": 0.2542372881355932,
+        "unique_token_ratio": 0.8305084745762712
+      },
+      "5a8c7595554299585d9e36b6_hybrid": {
+        "has_references": true,
+        "reference_count": 2,
+        "entity_density": 0.23958333333333334,
+        "unique_token_ratio": 0.609375
+      },
+      "5a85ea095542994775f606a8_naive": {
+        "has_references": false,
+        "reference_count": 0,
+        "entity_density": 0.0,
+        "unique_token_ratio": 1.0
+      },
+      "5a85ea095542994775f606a8_local": {
+        "has_references": false,
+        "reference_count": 0,
+        "entity_density": 0.0,
+        "unique_token_ratio": 1.0
+      },
+      "5a85ea095542994775f606a8_global": {
+        "has_references": false,
+        "reference_count": 0,
+        "entity_density": 0.0,
+        "unique_token_ratio": 1.0
+      },
+      "5a85ea095542994775f606a8_hybrid": {
+        "has_references": false,
+        "reference_count": 0,
+        "entity_density": 0.0,
+        "unique_token_ratio": 1.0
+      },
+      "5adbf0a255429947ff17385a_naive": {
+        "has_references": true,
+        "reference_count": 2,
+        "entity_density": 0.3684210526315789,
+        "unique_token_ratio": 0.6052631578947368
+      },
+      "5adbf0a255429947ff17385a_local": {
+        "has_references": true,
+        "reference_count": 2,
+        "entity_density": 0.3490566037735849,
+        "unique_token_ratio": 0.5943396226415094
+      },
+      "5adbf0a255429947ff17385a_global": {
+        "has_references": true,
+        "reference_count": 2,
+        "entity_density": 0.3711340206185567,
+        "unique_token_ratio": 0.6288659793814433
+      },
+      "5adbf0a255429947ff17385a_hybrid": {
+        "has_references": true,
+        "reference_count": 2,
+        "entity_density": 0.35964912280701755,
+        "unique_token_ratio": 0.5789473684210527
+      },
+      "5a8e3ea95542995a26add48d_naive": {
+        "has_references": true,
+        "reference_count": 1,
+        "entity_density": 0.38333333333333336,
+        "unique_token_ratio": 0.8166666666666667
+      },
+      "5a8e3ea95542995a26add48d_local": {
+        "has_references": true,
+        "reference_count": 2,
+        "entity_density": 0.35195530726256985,
+        "unique_token_ratio": 0.6927374301675978
+      },
+      "5a8e3ea95542995a26add48d_global": {
+        "has_references": false,
+        "reference_count": 0,
+        "entity_density": 0.0,
+        "unique_token_ratio": 1.0
+      },
+      "5a8e3ea95542995a26add48d_hybrid": {
+        "has_references": false,
+        "reference_count": 0,
+        "entity_density": 0.18867924528301888,
+        "unique_token_ratio": 0.8867924528301887
+      },
+      "_global_stats": {
+        "num_nodes": 359,
+        "num_edges": 285,
+        "num_entities": 94,
+        "num_relations": 94,
+        "avg_degree": 1.5877437325905293,
+        "density": 0.004435038359191423
+      }
+    },
+    "semantic": {
+      "5a8b57f25542995d1e6f1371_naive": {
+        "similarity": 0.032059211283922195
+      },
+      "5a8b57f25542995d1e6f1371_local": {
+        "similarity": 0.013164732605218887
+      },
+      "5a8b57f25542995d1e6f1371_global": {
+        "similarity": 0.05108006298542023
+      },
+      "5a8b57f25542995d1e6f1371_hybrid": {
+        "similarity": 0.020259106531739235
+      },
+      "5a8c7595554299585d9e36b6_naive": {
+        "similarity": 0.22058728337287903
+      },
+      "5a8c7595554299585d9e36b6_local": {
+        "similarity": 0.19057697057724
+      },
+      "5a8c7595554299585d9e36b6_global": {
+        "similarity": 0.2519409656524658
+      },
+      "5a8c7595554299585d9e36b6_hybrid": {
+        "similarity": 0.05946047976613045
+      },
+      "5a85ea095542994775f606a8_naive": {
+        "similarity": 0.14572462439537048
+      },
+      "5a85ea095542994775f606a8_local": {
+        "similarity": 0.16434338688850403
+      },
+      "5a85ea095542994775f606a8_global": {
+        "similarity": 0.16434338688850403
+      },
+      "5a85ea095542994775f606a8_hybrid": {
+        "similarity": 0.16434338688850403
+      },
+      "5adbf0a255429947ff17385a_naive": {
+        "similarity": 0.03882694989442825
+      },
+      "5adbf0a255429947ff17385a_local": {
+        "similarity": 0.04969901219010353
+      },
+      "5adbf0a255429947ff17385a_global": {
+        "similarity": 0.048579663038253784
+      },
+      "5adbf0a255429947ff17385a_hybrid": {
+        "similarity": 0.03610564395785332
+      },
+      "5a8e3ea95542995a26add48d_naive": {
+        "similarity": 0.25331738591194153
+      },
+      "5a8e3ea95542995a26add48d_local": {
+        "similarity": 0.12829871475696564
+      },
+      "5a8e3ea95542995a26add48d_global": {
+        "similarity": 0.03788973391056061
+      },
+      "5a8e3ea95542995a26add48d_hybrid": {
+        "similarity": 0.4237724244594574
+      }
+    },
+    "llm_judge": {
+      "5a8b57f25542995d1e6f1371_naive": {
+        "correctness": 1,
+        "completeness": 1,
+        "faithfulness": 1,
+        "conciseness": 3,
+        "explanation": "The predicted answer is completely incorrect as it states that Scott Derrickson and Ed Wood are not of the same nationality, while both are American. It fails to address the question accurately and is misleading.",
+        "error": false
+      },
+      "5a8b57f25542995d1e6f1371_local": {
+        "correctness": 5,
+        "completeness": 5,
+        "faithfulness": 5,
+        "conciseness": 4,
+        "explanation": "The predicted answer accurately states that both Scott Derrickson and Ed Wood are American, fully addressing the question. It is slightly verbose but maintains clarity and relevance.",
+        "error": false
+      },
+      "5a8b57f25542995d1e6f1371_global": {
+        "correctness": 5,
+        "completeness": 5,
+        "faithfulness": 5,
+        "conciseness": 4,
+        "explanation": "The answer accurately states that both Scott Derrickson and Ed Wood are American, fully addressing the question. It is mostly concise, though slightly verbose in its explanation.",
+        "error": false
+      },
+      "5a8b57f25542995d1e6f1371_hybrid": {
+        "correctness": 5,
+        "completeness": 5,
+        "faithfulness": 5,
+        "conciseness": 4,
+        "explanation": "The answer accurately states that both Scott Derrickson and Ed Wood are American, fully addressing the question. It is mostly concise, though slightly verbose in its explanation.",
+        "error": false
+      },
+      "5a8c7595554299585d9e36b6_naive": {
+        "correctness": 1,
+        "completeness": 1,
+        "faithfulness": 5,
+        "conciseness": 3,
+        "explanation": "The predicted answer incorrectly identifies Shirley Temple as the actress and fails to mention her government position, which is critical to the question.",
+        "error": false
+      },
+      "5a8c7595554299585d9e36b6_local": {
+        "correctness": 1,
+        "completeness": 1,
+        "faithfulness": 1,
+        "conciseness": 5,
+        "explanation": "The predicted answer is completely incorrect as it does not provide any relevant information about the government position held by the actress, thus failing to address the question.",
+        "error": false
+      },
+      "5a8c7595554299585d9e36b6_global": {
+        "correctness": 3,
+        "completeness": 3,
+        "faithfulness": 3,
+        "conciseness": 3,
+        "explanation": "The predicted answer contains some accurate information about Shirley Temple's roles but incorrectly identifies her government position, which was Chief of Protocol, not ambassador. It partially addresses the question but lacks the specific position asked for.",
+        "error": false
+      },
+      "5a8c7595554299585d9e36b6_hybrid": {
+        "correctness": 3,
+        "completeness": 3,
+        "faithfulness": 3,
+        "conciseness": 4,
+        "explanation": "The predicted answer contains some accurate information about Shirley Temple's government role but incorrectly identifies her position as Ambassador instead of Chief of Protocol, leading to partial correctness and completeness.",
+        "error": false
+      },
+      "5a85ea095542994775f606a8_naive": {
+        "correctness": 1,
+        "completeness": 1,
+        "faithfulness": 1,
+        "conciseness": 5,
+        "explanation": "The predicted answer does not provide any relevant information regarding the question and fails to identify the correct series, resulting in a score of 1 for correctness, completeness, and faithfulness.",
+        "error": false
+      },
+      "5a85ea095542994775f606a8_local": {
+        "correctness": 1,
+        "completeness": 1,
+        "faithfulness": 1,
+        "conciseness": 5,
+        "explanation": "The predicted answer does not provide any relevant information regarding the question and fails to identify the correct series, resulting in a score of 1 for correctness, completeness, and faithfulness, while being concise.",
+        "error": false
+      },
+      "5a85ea095542994775f606a8_global": {
+        "correctness": 1,
+        "completeness": 1,
+        "faithfulness": 1,
+        "conciseness": 5,
+        "explanation": "The predicted answer does not provide any relevant information and fails to address the question, resulting in a score of 1 across all dimensions except conciseness, where it is appropriately brief.",
+        "error": false
+      },
+      "5a85ea095542994775f606a8_hybrid": {
+        "correctness": 1,
+        "completeness": 1,
+        "faithfulness": 1,
+        "conciseness": 5,
+        "explanation": "The predicted answer does not provide any relevant information and fails to address the question, resulting in a score of 1 across all dimensions except conciseness, where it is appropriately brief.",
+        "error": false
+      },
+      "5adbf0a255429947ff17385a_naive": {
+        "correctness": 5,
+        "completeness": 5,
+        "faithfulness": 5,
+        "conciseness": 5,
+        "explanation": "The predicted answer accurately states that the Laleli Mosque and Esma Sultan Mansion are in different neighborhoods, providing correct details about their locations without unnecessary information.",
+        "error": false
+      },
+      "5adbf0a255429947ff17385a_local": {
+        "correctness": 5,
+        "completeness": 5,
+        "faithfulness": 5,
+        "conciseness": 4,
+        "explanation": "The answer is factually accurate, fully addresses the question, and is grounded in the provided context. It is slightly verbose but maintains a good level of detail.",
+        "error": false
+      },
+      "5adbf0a255429947ff17385a_global": {
+        "correctness": 5,
+        "completeness": 5,
+        "faithfulness": 5,
+        "conciseness": 5,
+        "explanation": "The predicted answer accurately states that the Laleli Mosque and Esma Sultan Mansion are in different neighborhoods, provides correct details about their locations, and does so in a concise manner.",
+        "error": false
+      },
+      "5adbf0a255429947ff17385a_hybrid": {
+        "correctness": 5,
+        "completeness": 5,
+        "faithfulness": 5,
+        "conciseness": 5,
+        "explanation": "The predicted answer accurately states that the Laleli Mosque and Esma Sultan Mansion are in different neighborhoods, providing correct details about their locations without unnecessary information.",
+        "error": false
+      },
+      "5a8e3ea95542995a26add48d_naive": {
+        "correctness": 3,
+        "completeness": 3,
+        "faithfulness": 4,
+        "conciseness": 3,
+        "explanation": "The answer correctly identifies Adriana Trigiani as the director but fails to specify that she is based in Greenwich Village, which is critical to fully answering the question.",
+        "error": false
+      },
+      "5a8e3ea95542995a26add48d_local": {
+        "correctness": 2,
+        "completeness": 2,
+        "faithfulness": 3,
+        "conciseness": 3,
+        "explanation": "The predicted answer incorrectly states that Adriana Trigiani is associated with Brooklyn instead of Greenwich Village, which is the correct location. It partially addresses the question but lacks critical information about her actual base.",
+        "error": false
+      },
+      "5a8e3ea95542995a26add48d_global": {
+        "correctness": 1,
+        "completeness": 1,
+        "faithfulness": 1,
+        "conciseness": 5,
+        "explanation": "The predicted answer is completely incorrect as it does not provide the correct information about the director's location, thus failing to address the question.",
+        "error": false
+      },
+      "5a8e3ea95542995a26add48d_hybrid": {
+        "correctness": 1,
+        "completeness": 1,
+        "faithfulness": 5,
+        "conciseness": 3,
+        "explanation": "The predicted answer is factually incorrect as it fails to provide the correct location of the director, which is Greenwich Village, New York City. However, it accurately states that the information is not provided in the context.",
+        "error": false
+      }
+    },
+    "aggregated": {
+      "naive": {
+        "rouge-1": 0.03380952380952381,
+        "rouge-2": 0.01568627450980392,
+        "rouge-l": 0.025013027618551332,
+        "bleu": 0.013538461538461537,
+        "f1": 0.025013027618551332,
+        "exact_match_rate": 0.0,
+        "containment": {
+          "exact_substring": 0.2,
+          "normalized_substring": 0.2,
+          "token_overlap_ratio": 0.32,
+          "all_tokens_present": 0.2
+        },
+        "count": 5,
+        "semantic_similarity": 0.1381030909717083,
+        "graph_quality": {
+          "avg_references": 1.2,
+          "entity_density": 0.2553240435614977,
+          "unique_token_ratio": 0.7749047484543201,
+          "reference_usage_rate": 0.6
+        },
+        "llm_judge": {
+          "correctness": 2.2,
+          "completeness": 2.2,
+          "faithfulness": 3.2,
+          "conciseness": 3.8,
+          "overall": 2.85
+        },
+        "avg_latency_seconds": 3.075734567642212
+      },
+      "local": {
+        "rouge-1": 0.019224924012158053,
+        "rouge-2": 0.005333333333333332,
+        "rouge-l": 0.011624520058254997,
+        "bleu": 0.005948930296756384,
+        "f1": 0.011624520058254997,
+        "exact_match_rate": 0.0,
+        "containment": {
+          "exact_substring": 0.2,
+          "normalized_substring": 0.2,
+          "token_overlap_ratio": 0.32,
+          "all_tokens_present": 0.2
+        },
+        "count": 5,
+        "semantic_similarity": 0.10921656340360641,
+        "graph_quality": {
+          "avg_references": 1.4,
+          "entity_density": 0.20711967544031365,
+          "unique_token_ratio": 0.7852349594340019,
+          "reference_usage_rate": 0.6
+        },
+        "llm_judge": {
+          "correctness": 2.8,
+          "completeness": 2.8,
+          "faithfulness": 3.0,
+          "conciseness": 4.2,
+          "overall": 3.2
+        },
+        "avg_latency_seconds": 6.778223514556885
+      },
+      "global": {
+        "rouge-1": 0.01688888888888889,
+        "rouge-2": 0.0,
+        "rouge-l": 0.012150776053215078,
+        "bleu": 0.006315289648622982,
+        "f1": 0.012150776053215078,
+        "exact_match_rate": 0.0,
+        "containment": {
+          "exact_substring": 0.2,
+          "normalized_substring": 0.2,
+          "token_overlap_ratio": 0.26666666666666666,
+          "all_tokens_present": 0.2
+        },
+        "count": 5,
+        "semantic_similarity": 0.11076676249504089,
+        "graph_quality": {
+          "avg_references": 1.4,
+          "entity_density": 0.19534453202110025,
+          "unique_token_ratio": 0.8405235394401916,
+          "reference_usage_rate": 0.4
+        },
+        "llm_judge": {
+          "correctness": 3.0,
+          "completeness": 3.0,
+          "faithfulness": 3.0,
+          "conciseness": 4.4,
+          "overall": 3.35
+        },
+        "avg_latency_seconds": 6.281064367294311
+      },
+      "hybrid": {
+        "rouge-1": 0.035216931216931216,
+        "rouge-2": 0.015094339622641506,
+        "rouge-l": 0.028117032392894464,
+        "bleu": 0.015189792663476875,
+        "f1": 0.028117032392894464,
+        "exact_match_rate": 0.0,
+        "containment": {
+          "exact_substring": 0.2,
+          "normalized_substring": 0.2,
+          "token_overlap_ratio": 0.3866666666666666,
+          "all_tokens_present": 0.2
+        },
+        "count": 5,
+        "semantic_similarity": 0.14078820832073688,
+        "graph_quality": {
+          "avg_references": 1.2,
+          "entity_density": 0.23940052210285576,
+          "unique_token_ratio": 0.7604775097047938,
+          "reference_usage_rate": 0.6
+        },
+        "llm_judge": {
+          "correctness": 3.0,
+          "completeness": 3.0,
+          "faithfulness": 3.8,
+          "conciseness": 4.2,
+          "overall": 3.5
+        },
+        "avg_latency_seconds": 6.572087240219116
+      }
+    }
+  }
+}

@@ -15,9 +15,9 @@ import json
 # Add project root to path
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
-from benchmarks.runner.benchmark_runner import BenchmarkRunner, BenchmarkRun
-from benchmarks.runner.report_generator import ReportGenerator
-from benchmarks.configs.dataset_config import DatasetConfig, QUICK_TEST_CONFIG
+from benchmarking.runner.benchmark_runner import BenchmarkRunner, BenchmarkRun
+from benchmarking.runner.report_generator import ReportGenerator
+from benchmarking.configs.dataset_config import DatasetConfig, QUICK_TEST_CONFIG
 
 
 class TestBenchmarkRun:

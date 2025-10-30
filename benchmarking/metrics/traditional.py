@@ -19,7 +19,10 @@ class TraditionalMetrics:
     
     @staticmethod
     def normalize_answer(s: str) -> str:
-        """Normalize answer text for comparison"""
+        """Normalize answer for comparison"""
+        if s is None:
+            return ""
+        
         def remove_articles(text):
             return re.sub(r'\b(a|an|the)\b', ' ', text)
         

@@ -1,0 +1,512 @@
+{
+  "dataset_samples": [
+    {
+      "id": "ms_marco_0",
+      "query_id": 19699,
+      "query": "what is rba",
+      "answer": "Results-Based Accountability is a disciplined way of thinking and taking action that communities can use to improve the lives of children, youth, families, adults and the community as a whole.",
+      "all_answers": [
+        "Results-Based Accountability is a disciplined way of thinking and taking action that communities can use to improve the lives of children, youth, families, adults and the community as a whole."
+      ],
+      "passages": [
+        {
+          "id": "ms_marco_passage_0_0",
+          "text": "Since 2007, the RBA's outstanding reputation has been affected by the 'Securency' or NPA scandal. These RBA subsidiaries were involved in bribing overseas officials so that Australia might win lucrative note-printing contracts. The assets of the bank include the gold and foreign exchange reserves of Australia, which is estimated to have a net worth of A$101 billion. Nearly 94% of the RBA's employees work at its headquarters in Sydney, New South Wales and at the Business Resumption Site.",
+          "url": "https://en.wikipedia.org/wiki/Reserve_Bank_of_Australia",
+          "is_selected": 0,
+          "index": 0
+        },
+        {
+          "id": "ms_marco_passage_0_1",
+          "text": "The Reserve Bank of Australia (RBA) came into being on 14 January 1960 as Australia 's central bank and banknote issuing authority, when the Reserve Bank Act 1959 removed the central banking functions from the Commonwealth Bank. The assets of the bank include the gold and foreign exchange reserves of Australia, which is estimated to have a net worth of A$101 billion. Nearly 94% of the RBA's employees work at its headquarters in Sydney, New South Wales and at the Business Resumption Site.",
+          "url": "https://en.wikipedia.org/wiki/Reserve_Bank_of_Australia",
+          "is_selected": 0,
+          "index": 1
+        },
+        {
+          "id": "ms_marco_passage_0_2",
+          "text": "RBA Recognized with the 2014 Microsoft US Regional Partner of the ... by PR Newswire. Contract Awarded for supply and support the. Securitisations System used for risk management and analysis.",
+          "url": "http://acronyms.thefreedictionary.com/RBA",
+          "is_selected": 0,
+          "index": 2
+        },
+        {
+          "id": "ms_marco_passage_0_3",
+          "text": "The inner workings of a rebuildable atomizer are surprisingly simple. The coil inside the RBA is made of some type of resistance wire, normally Kanthal or nichrome. When a current is applied to the coil (resistance wire), it heats up and the heated coil then vaporizes the eliquid. 1 The bottom feed RBA is, perhaps, the easiest of all RBA types to build, maintain, and use. 2  It is filled from below, much like bottom coil clearomizer. 3  Bottom feed RBAs can utilize cotton instead of silica for the wick. 4  The Genesis, or genny, is a top feed RBA that utilizes a short woven mesh wire.",
+          "url": "https://www.slimvapepen.com/rebuildable-atomizer-rba/",
+          "is_selected": 0,
+          "index": 3
+        },
+        {
+          "id": "ms_marco_passage_0_4",
+          "text": "Results-Based Accountability® (also known as RBA) is a disciplined way of thinking and taking action that communities can use to improve the lives of children, youth, families, adults and the community as a whole. RBA is also used by organizations to improve the performance of their programs. RBA improves the lives of children, families, and communities and the performance of programs because RBA: 1  Gets from talk to action quickly; 2  Is a simple, common sense process that everyone can understand; 3  Helps groups to surface and challenge assumptions that can be barriers to innovation;",
+          "url": "http://rba-africa.com/about/what-is-rba/",
+          "is_selected": 0,
+          "index": 4
+        },
+        {
+          "id": "ms_marco_passage_0_5",
+          "text": "Results-Based Accountability® (also known as RBA) is a disciplined way of thinking and taking action that communities can use to improve the lives of children, youth, families, adults and the community as a whole. RBA is also used by organizations to improve the performance of their programs. Creating Community Impact with RBA. Community impact focuses on conditions of well-being for children, families and the community as a whole that a group of leaders is working collectively to improve. For example: “Residents with good jobs,” “Children ready for school,” or “A safe and clean neighborhood”.",
+          "url": "http://resultsleadership.org/what-is-results-based-accountability-rba/",
+          "is_selected": 1,
+          "index": 5
+        },
+        {
+          "id": "ms_marco_passage_0_6",
+          "text": "RBA uses a data-driven, decision-making process to help communities and organizations get beyond talking about problems to taking action to solve problems. It is a simple, common sense framework that everyone can understand. RBA starts with ends and works backward, towards means. The “end” or difference you are trying to make looks slightly different if you are working on a broad community level or are focusing on your specific program or organization. RBA improves the lives of children, families, and communities and the performance of programs because RBA: 1  Gets from talk to action quickly; 2  Is a simple, common sense process that everyone can understand; 3  Helps groups to surface and challenge assumptions that can be barriers to innovation;",
+          "url": "http://rba-africa.com/about/what-is-rba/",
+          "is_selected": 0,
+          "index": 6
+        },
+        {
+          "id": "ms_marco_passage_0_7",
+          "text": "vs. NetIQ Identity Manager. Risk-based authentication (RBA) is a method of applying varying levels of stringency to authentication processes based on the likelihood that access to a given system could result in its being compromised. Risk-based authentication can be categorized as either user-dependent or transaction-dependent. User-dependent RBA processes employ the same authentication for every session initiated by a given user; the exact credentials that the site demands depend on who the user is.",
+          "url": "http://searchsecurity.techtarget.com/definition/risk-based-authentication-RBA",
+          "is_selected": 0,
+          "index": 7
+        },
+        {
+          "id": "ms_marco_passage_0_8",
+          "text": "A rebuildable atomizer (RBA), often referred to as simply a “rebuildable,” is just a special type of atomizer used in the Vape Pen and Mod Industry that connects to a personal vaporizer. 1 The bottom feed RBA is, perhaps, the easiest of all RBA types to build, maintain, and use. 2  It is filled from below, much like bottom coil clearomizer. 3  Bottom feed RBAs can utilize cotton instead of silica for the wick. 4  The Genesis, or genny, is a top feed RBA that utilizes a short woven mesh wire.",
+          "url": "https://www.slimvapepen.com/rebuildable-atomizer-rba/",
+          "is_selected": 0,
+          "index": 8
+        },
+        {
+          "id": "ms_marco_passage_0_9",
+          "text": "Get To Know Us. RBA is a digital and technology consultancy with roots in strategy, design and technology. Our team of specialists help progressive companies deliver modern digital experiences backed by proven technology engineering.",
+          "url": "http://www.rbaconsulting.com/",
+          "is_selected": 0,
+          "index": 9
+        }
+      ],
+      "source_type": "ms_marco",
+      "metadata": {
+        "original_id": "",
+        "num_passages": 10,
+        "num_answers": 1
+      }
+    }
+  ],
+  "query_results": [
+    {
+      "query_id": 19699,
+      "query": "what is rba",
+      "reference_answer": "Results-Based Accountability is a disciplined way of thinking and taking action that communities can use to improve the lives of children, youth, families, adults and the community as a whole.",
+      "mode_results": {
+        "naive": {
+          "query_id": "19699_naive",
+          "query": "what is rba",
+          "mode": "naive",
+          "top_k": 10,
+          "response": "RBA can refer to several different entities or concepts, depending on the context. Here are the most notable interpretations:\n\n1. **Results-Based Accountability® (RBA)**:\n   - This is a disciplined approach utilized by communities and organizations to enhance the lives of individuals and improve program performance. RBA focuses on using a data-driven decision-making process to shift from merely discussing problems to actively solving them. It emphasizes starting with desired outcomes and then determining the means to achieve them. RBA aims to promote community impact, such as ensuring \"children ready for school\" or \"a safe and clean neighborhood\" (References: [1], [2], [3]).\n\n2. **Reserve Bank of Australia (RBA)**:\n   - Established on January 14, 1960, the Reserve Bank of Australia serves as the nation's central bank and banknote issuing authority. The bank’s estimated net worth is approximately A$101 billion, which includes the gold and foreign exchange reserves of Australia. The majority of its employees are located at its headquarters in Sydney, New South Wales (Reference: [8]).\n\n3. **Rebuildable Atomizer (RBA)**:\n   - In the vaping industry, an RBA is a special type of atomizer used in devices like Vape Pens and Mods, allowing users to build and maintain their coils. It can be of various types, including bottom feed and Genesis (genny) RBAs, which have unique filling and maintenance methods (References: [6], [7]).\n\nDepending on your interest, each of these definitions holds significance in its respective field. If you need more detailed information about any specific interpretation, please let me know! \n\n### References\n- [1] Results-Based Accountability® (also known as RBA)\n- [2] RBA uses a data-driven, decision-making process\n- [3] Creating Community Impact with RBA\n- [8] The Reserve Bank of Australia (RBA) came into being on 14 January 1960\n- [6] A rebuildable atomizer (RBA)\n",
+          "duration_seconds": 9.200787782669067,
+          "timestamp": 1761838349.923807,
+          "graph_stats": {
+            "num_nodes": 182,
+            "num_edges": 170,
+            "avg_degree": 1.8681318681318682,
+            "density": 0.010321170542165017,
+            "num_entities": 43,
+            "num_relations": 43
+          }
+        },
+        "local": {
+          "query_id": "19699_local",
+          "query": "what is rba",
+          "mode": "local",
+          "top_k": 10,
+          "response": "The **Reserve Bank of Australia (RBA)** is the central bank of Australia, which plays a critical role in managing the nation's currency and monetary policy. Established on **14 January 1960**, the RBA was created following the transfer of central banking functions from the Commonwealth Bank under the Reserve Bank Act 1959. \n\n### Key Functions and Significance:\n- **Monetary Policy Management**: The RBA is responsible for setting monetary policy to maintain economic stability within Australia.\n- **Currency Issuance**: It issues Australian banknotes and manages the country’s supply of money.\n- **Financial Assets**: The RBA holds significant financial assets, including gold and foreign exchange reserves, with an estimated net worth of **A$101 billion**.\n- **Operational Headquarters**: Nearly **94% of RBA's employees** work at its headquarters located in **Sydney, New South Wales**.\n\nDespite its vital role, the RBA's reputation has faced challenges, particularly due to the **Securency** scandal, which involved allegations of bribing foreign officials for note-printing contracts.\n\n### Local Impact:\nIn addition to its larger economic responsibilities, the RBA also strives to improve the well-being of families and communities through various initiatives and programs.\n\n### Organizations Related to RBA:\n- **Commonwealth Bank**: Central banking functions were previously managed by the Commonwealth Bank before being transferred to the RBA.\n\nIn summary, the RBA is pivotal in shaping Australia's monetary landscape and is instrumental in ensuring economic stability across the nation.\n\n### References\n\n- [1] The Reserve Bank of Australia: Roles and Functions\n- [2] Establishment and History of RBA\n- [3] RBA and its Financial Assets\n- [4] RBA Headquarters and Employee Distribution\n- [5] Challenges to RBA's Reputation",
+          "duration_seconds": 10.213351726531982,
+          "timestamp": 1761838360.1371586,
+          "graph_stats": {
+            "num_nodes": 182,
+            "num_edges": 170,
+            "avg_degree": 1.8681318681318682,
+            "density": 0.010321170542165017,
+            "num_entities": 43,
+            "num_relations": 43
+          }
+        },
+        "global": {
+          "query_id": "19699_global",
+          "query": "what is rba",
+          "mode": "global",
+          "top_k": 10,
+          "response": "The RBA, or Reserve Bank of Australia, is the central bank of Australia. Established on **14 January 1960**, the RBA is primarily responsible for issuing banknotes and managing the country's monetary policy. The bank aims to promote the stability of the currency, full employment, and the economic prosperity and welfare of the Australian people.\n\nKey aspects of the RBA include:\n\n- **Location**: The RBA's headquarters is situated in **Sydney**, New South Wales, where nearly **94%** of its employees are based. \n- **Net Worth**: The bank has an estimated net worth of approximately **A$101 billion**, which serves as its gold and foreign exchange reserves.\n- **Reputation**: Its reputation has been notably affected by the 'Securency' scandal, where subsidiaries were involved in bribing overseas officials to secure lucrative contracts for producing banknotes.\n- **Community Focus**: The RBA uses a data-driven, decision-making process to aid communities and organizations in solving problems and enhancing community welfare.\n\nIn summary, the RBA plays a critical role in managing Australia's financial stability and economic health.\n\n### References\n\n- [5] The Reserve Bank of Australia (RBA) came into being on 14 January 1960...\n- [6] Since 2007, the RBA's outstanding reputation has been affected by the 'Securency' or NPA scandal...\n- [4] RBA uses a data-driven, decision-making process to help communities and organizations...",
+          "duration_seconds": 8.45872163772583,
+          "timestamp": 1761838368.5958803,
+          "graph_stats": {
+            "num_nodes": 182,
+            "num_edges": 170,
+            "avg_degree": 1.8681318681318682,
+            "density": 0.010321170542165017,
+            "num_entities": 43,
+            "num_relations": 43
+          }
+        },
+        "hybrid": {
+          "query_id": "19699_hybrid",
+          "query": "what is rba",
+          "mode": "hybrid",
+          "top_k": 10,
+          "response": "The **Reserve Bank of Australia (RBA)** is Australia’s central bank, established on **14 January 1960**. Its primary responsibilities include issuing banknotes and managing the country’s monetary policy. The RBA plays a crucial role in managing Australia's financial assets, which encompass significant gold and foreign exchange reserves, and it has an estimated net worth of **A$101 billion**.\n\nThe RBA's headquarters is located in **Sydney**, New South Wales, where nearly **94%** of its employees work. The bank's reputation was notably impacted by the **Securency** scandal, which involved its subsidiaries bribing foreign officials to secure lucrative note-printing contracts.\n\nThe RBA is also actively engaged in community initiatives through a structured methodology known as **Results-Based Accountability** (RBA). This approach helps enhance the well-being of children, families, and the broader community, facilitating actionable decision-making.\n\n### References\n\n- [1] The Reserve Bank of Australia (RBA) came into being on 14 January 1960 as Australia 's central bank and banknote issuing authority, when the Reserve Bank Act 1959 removed the central banking functions from the Commonwealth Bank. \n- [2] Since 2007, the RBA's outstanding reputation has been affected by the 'Securency' or NPA scandal. These RBA subsidiaries were involved in bribing overseas officials so that Australia might win lucrative note-printing contracts. \n- [3] The assets of the bank include the gold and foreign exchange reserves of Australia, which is estimated to have a net worth of A$101 billion.\n- [4] RBA uses a data-driven, decision-making process to help communities and organizations get beyond talking about problems to taking action to solve problems. \n- [5] Results-Based Accountability® (also known as RBA) is a disciplined way of thinking and taking action that communities can use to improve the lives of children, youth, families, adults and the community as a whole.",
+          "duration_seconds": 11.554512023925781,
+          "timestamp": 1761838380.1503923,
+          "graph_stats": {
+            "num_nodes": 182,
+            "num_edges": 170,
+            "avg_degree": 1.8681318681318682,
+            "density": 0.010321170542165017,
+            "num_entities": 43,
+            "num_relations": 43
+          }
+        }
+      },
+      "metadata": {
+        "original_id": "",
+        "num_passages": 10,
+        "num_answers": 1
+      }
+    }
+  ],
+  "metrics": {
+    "traditional": {
+      "19699_naive": {
+        "rouge": {
+          "rouge-1": {
+            "p": 0.07262569832402235,
+            "r": 0.5416666666666666,
+            "f": 0.12807881773399016
+          },
+          "rouge-2": {
+            "p": 0.008097165991902834,
+            "r": 0.08,
+            "f": 0.014705882352941175
+          },
+          "rouge-l": {
+            "p": 0.03773584905660377,
+            "r": 0.38461538461538464,
+            "f": 0.06872852233676977
+          }
+        },
+        "bleu": 0.05660377358490566,
+        "f1": 0.10309278350515465,
+        "exact_match": 0.0,
+        "containment": {
+          "exact_substring": 0.0,
+          "normalized_substring": 0.0,
+          "token_overlap_ratio": 0.5416666666666666,
+          "all_tokens_present": 0.0
+        }
+      },
+      "19699_local": {
+        "rouge": {
+          "rouge-1": {
+            "p": 0.04895104895104895,
+            "r": 0.2916666666666667,
+            "f": 0.08383233532934131
+          },
+          "rouge-2": {
+            "p": 0.004739336492890996,
+            "r": 0.04,
+            "f": 0.00847457627118644
+          },
+          "rouge-l": {
+            "p": 0.03463203463203463,
+            "r": 0.3076923076923077,
+            "f": 0.0622568093385214
+          }
+        },
+        "bleu": 0.03896103896103896,
+        "f1": 0.07003891050583658,
+        "exact_match": 0.0,
+        "containment": {
+          "exact_substring": 0.0,
+          "normalized_substring": 0.0,
+          "token_overlap_ratio": 0.2916666666666667,
+          "all_tokens_present": 0.0
+        }
+      },
+      "19699_global": {
+        "rouge": {
+          "rouge-1": {
+            "p": 0.0603448275862069,
+            "r": 0.2916666666666667,
+            "f": 0.1
+          },
+          "rouge-2": {
+            "p": 0.0,
+            "r": 0.0,
+            "f": 0.0
+          },
+          "rouge-l": {
+            "p": 0.03783783783783784,
+            "r": 0.2692307692307692,
+            "f": 0.06635071090047394
+          }
+        },
+        "bleu": 0.04864864864864865,
+        "f1": 0.08530805687203792,
+        "exact_match": 0.0,
+        "containment": {
+          "exact_substring": 0.0,
+          "normalized_substring": 0.0,
+          "token_overlap_ratio": 0.2916666666666667,
+          "all_tokens_present": 0.0
+        }
+      },
+      "19699_hybrid": {
+        "rouge": {
+          "rouge-1": {
+            "p": 0.15286624203821655,
+            "r": 1.0,
+            "f": 0.26519337016574585
+          },
+          "rouge-2": {
+            "p": 0.1038961038961039,
+            "r": 0.96,
+            "f": 0.1875
+          },
+          "rouge-l": {
+            "p": 0.10077519379844961,
+            "r": 1.0,
+            "f": 0.18309859154929578
+          }
+        },
+        "bleu": 0.10077519379844961,
+        "f1": 0.18309859154929578,
+        "exact_match": 0.0,
+        "containment": {
+          "exact_substring": 0.0,
+          "normalized_substring": 0.0,
+          "token_overlap_ratio": 1.0,
+          "all_tokens_present": 1.0
+        }
+      }
+    },
+    "retrieval": {},
+    "efficiency": {
+      "19699_naive": {
+        "latency_seconds": 9.200787782669067,
+        "mode": "naive"
+      },
+      "19699_local": {
+        "latency_seconds": 10.213351726531982,
+        "mode": "local"
+      },
+      "19699_global": {
+        "latency_seconds": 8.45872163772583,
+        "mode": "global"
+      },
+      "19699_hybrid": {
+        "latency_seconds": 11.554512023925781,
+        "mode": "hybrid"
+      }
+    },
+    "graph": {
+      "19699_naive": {
+        "has_references": true,
+        "reference_count": 6,
+        "entity_density": 0.16095890410958905,
+        "unique_token_ratio": 0.702054794520548
+      },
+      "19699_local": {
+        "has_references": true,
+        "reference_count": 5,
+        "entity_density": 0.2593984962406015,
+        "unique_token_ratio": 0.6240601503759399
+      },
+      "19699_global": {
+        "has_references": true,
+        "reference_count": 3,
+        "entity_density": 0.17209302325581396,
+        "unique_token_ratio": 0.627906976744186
+      },
+      "19699_hybrid": {
+        "has_references": true,
+        "reference_count": 5,
+        "entity_density": 0.15120274914089346,
+        "unique_token_ratio": 0.6288659793814433
+      },
+      "_global_stats": {
+        "num_nodes": 182,
+        "num_edges": 170,
+        "num_entities": 43,
+        "num_relations": 43,
+        "avg_degree": 1.8681318681318682,
+        "density": 0.010321170542165017
+      }
+    },
+    "semantic": {
+      "19699_naive": {
+        "similarity": 0.2523074448108673
+      },
+      "19699_local": {
+        "similarity": 0.03348365053534508
+      },
+      "19699_global": {
+        "similarity": 0.12809352576732635
+      },
+      "19699_hybrid": {
+        "similarity": 0.1953219175338745
+      }
+    },
+    "llm_judge": {
+      "19699_naive": {
+        "correctness": 5,
+        "completeness": 5,
+        "faithfulness": 5,
+        "conciseness": 4,
+        "explanation": "The predicted answer accurately covers multiple interpretations of RBA, including Results-Based Accountability, the Reserve Bank of Australia, and Rebuildable Atomizers, providing a comprehensive and factually correct response. It is slightly verbose due to the inclusion of multiple definitions.",
+        "error": false
+      },
+      "19699_local": {
+        "correctness": 1,
+        "completeness": 1,
+        "faithfulness": 1,
+        "conciseness": 2,
+        "explanation": "The predicted answer is entirely incorrect as it discusses the Reserve Bank of Australia instead of Results-Based Accountability, which is the correct interpretation of 'RBA' in the context of the question.",
+        "error": false
+      },
+      "19699_global": {
+        "correctness": 1,
+        "completeness": 1,
+        "faithfulness": 1,
+        "conciseness": 2,
+        "explanation": "The predicted answer incorrectly identifies RBA as the Reserve Bank of Australia instead of Results-Based Accountability, which is the correct interpretation of 'RBA' in the context of the question.",
+        "error": false
+      },
+      "19699_hybrid": {
+        "correctness": 3,
+        "completeness": 3,
+        "faithfulness": 4,
+        "conciseness": 3,
+        "explanation": "The answer provides accurate information about the Reserve Bank of Australia but also includes details about Results-Based Accountability that are not directly relevant to the question, leading to partial completeness.",
+        "error": false
+      }
+    },
+    "aggregated": {
+      "naive": {
+        "rouge-1": 0.12807881773399016,
+        "rouge-2": 0.014705882352941175,
+        "rouge-l": 0.06872852233676977,
+        "bleu": 0.05660377358490566,
+        "f1": 0.10309278350515465,
+        "exact_match_rate": 0.0,
+        "containment": {
+          "exact_substring": 0.0,
+          "normalized_substring": 0.0,
+          "token_overlap_ratio": 0.5416666666666666,
+          "all_tokens_present": 0.0
+        },
+        "count": 1,
+        "semantic_similarity": 0.2523074448108673,
+        "graph_quality": {
+          "avg_references": 6.0,
+          "entity_density": 0.16095890410958905,
+          "unique_token_ratio": 0.702054794520548,
+          "reference_usage_rate": 1.0
+        },
+        "llm_judge": {
+          "correctness": 5.0,
+          "completeness": 5.0,
+          "faithfulness": 5.0,
+          "conciseness": 4.0,
+          "overall": 4.75
+        },
+        "avg_latency_seconds": 9.200787782669067
+      },
+      "local": {
+        "rouge-1": 0.08383233532934131,
+        "rouge-2": 0.00847457627118644,
+        "rouge-l": 0.0622568093385214,
+        "bleu": 0.03896103896103896,
+        "f1": 0.07003891050583658,
+        "exact_match_rate": 0.0,
+        "containment": {
+          "exact_substring": 0.0,
+          "normalized_substring": 0.0,
+          "token_overlap_ratio": 0.2916666666666667,
+          "all_tokens_present": 0.0
+        },
+        "count": 1,
+        "semantic_similarity": 0.03348365053534508,
+        "graph_quality": {
+          "avg_references": 5.0,
+          "entity_density": 0.2593984962406015,
+          "unique_token_ratio": 0.6240601503759399,
+          "reference_usage_rate": 1.0
+        },
+        "llm_judge": {
+          "correctness": 1.0,
+          "completeness": 1.0,
+          "faithfulness": 1.0,
+          "conciseness": 2.0,
+          "overall": 1.25
+        },
+        "avg_latency_seconds": 10.213351726531982
+      },
+      "global": {
+        "rouge-1": 0.1,
+        "rouge-2": 0.0,
+        "rouge-l": 0.06635071090047394,
+        "bleu": 0.04864864864864865,
+        "f1": 0.08530805687203792,
+        "exact_match_rate": 0.0,
+        "containment": {
+          "exact_substring": 0.0,
+          "normalized_substring": 0.0,
+          "token_overlap_ratio": 0.2916666666666667,
+          "all_tokens_present": 0.0
+        },
+        "count": 1,
+        "semantic_similarity": 0.12809352576732635,
+        "graph_quality": {
+          "avg_references": 3.0,
+          "entity_density": 0.17209302325581396,
+          "unique_token_ratio": 0.627906976744186,
+          "reference_usage_rate": 1.0
+        },
+        "llm_judge": {
+          "correctness": 1.0,
+          "completeness": 1.0,
+          "faithfulness": 1.0,
+          "conciseness": 2.0,
+          "overall": 1.25
+        },
+        "avg_latency_seconds": 8.45872163772583
+      },
+      "hybrid": {
+        "rouge-1": 0.26519337016574585,
+        "rouge-2": 0.1875,
+        "rouge-l": 0.18309859154929578,
+        "bleu": 0.10077519379844961,
+        "f1": 0.18309859154929578,
+        "exact_match_rate": 0.0,
+        "containment": {
+          "exact_substring": 0.0,
+          "normalized_substring": 0.0,
+          "token_overlap_ratio": 1.0,
+          "all_tokens_present": 1.0
+        },
+        "count": 1,
+        "semantic_similarity": 0.1953219175338745,
+        "graph_quality": {
+          "avg_references": 5.0,
+          "entity_density": 0.15120274914089346,
+          "unique_token_ratio": 0.6288659793814433,
+          "reference_usage_rate": 1.0
+        },
+        "llm_judge": {
+          "correctness": 3.0,
+          "completeness": 3.0,
+          "faithfulness": 4.0,
+          "conciseness": 3.0,
+          "overall": 3.25
+        },
+        "avg_latency_seconds": 11.554512023925781
+      }
+    }
+  }
+}

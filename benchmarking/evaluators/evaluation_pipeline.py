@@ -18,6 +18,7 @@ import time
 from pathlib import Path
 from typing import List, Dict, Any, Optional
 import json
+from datetime import datetime
 
 from ..benchmark_datasets.loaders import BenchmarkDataManager
 from ..benchmark_datasets.document_adapter import LightRAGDocumentAdapter
@@ -198,6 +199,11 @@ class EvaluationPipeline:
     
     async def _ingest_documents(self) -> Dict[str, Any]:
         """Ingest documents into LightRAG"""
+        logger.info(f"  Documents to ingest: {len(self.documents)}")
+        if self.documents:
+            first_doc = self.documents[0]
+            logger.info(f"  First document keys: {list(first_doc.keys())}")
+            logger.info(f"  First document has text: {'text' in first_doc}, length: {len(first_doc.get('text', ''))}")
         return await self.evaluator.ingest_documents(self.documents)
     
     async def _execute_queries(self, modes: List[str]) -> List[Dict[str, Any]]:
@@ -535,10 +541,19 @@ class EvaluationPipeline:
         }
     
     def save_results(self, output_path: Optional[Path] = None):
-        """Save evaluation results to JSON"""
-        output_path = output_path or (self.config.working_dir / "evaluation_summary.json")
+        """Save evaluation results to JSON with timestamp"""
+        if output_path is None:
+            output_path = self.config.working_dir / "evaluation_summary.json"
+        
+        # Add timestamp to filename if not explicitly provided
+        # and the path doesn't already have a timestamp
+        output_path = Path(output_path)
+        if output_path.stem == "evaluation_summary" or not any(char.isdigit() for char in output_path.stem):
+            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+            output_path = output_path.parent / f"{output_path.stem}_{timestamp}{output_path.suffix}"
         
         summary = {
+            'timestamp': datetime.now().isoformat(),
             'dataset_samples': self.dataset_samples,
             'query_results': self.query_results,
             'metrics': self.metrics_results
@@ -548,6 +563,7 @@ class EvaluationPipeline:
             json.dump(summary, f, indent=2, ensure_ascii=False)
         
         logger.info(f"💾 Saved evaluation results to {output_path}")
+        return output_path
     
     def print_summary(self):
         """Print evaluation summary"""

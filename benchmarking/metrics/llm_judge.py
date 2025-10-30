@@ -23,7 +23,10 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Initialize OpenAI client with API key from environment
-openai_client = AsyncOpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+# Store at module level but don't create connection until first use
+_openai_api_key = os.getenv("OPENAI_API_KEY")
+if not _openai_api_key:
+    raise ValueError("OPENAI_API_KEY not found in .env file")
 
 logger = logging.getLogger(__name__)
 
@@ -52,6 +55,7 @@ class LLMJudge:
         self.temperature = temperature
         self.max_concurrent = max_concurrent
         self.semaphore = asyncio.Semaphore(max_concurrent)
+        self.client = AsyncOpenAI(api_key=_openai_api_key)
         
         logger.info(f"✅ LLM Judge initialized: {model}")
     
@@ -145,7 +149,7 @@ Respond with ONLY the JSON object, no additional text.
         max_retries = 3
         for attempt in range(max_retries):
             try:
-                response = await openai_client.chat.completions.create(
+                response = await self.client.chat.completions.create(
                     model=self.model,
                     messages=[{"role": "user", "content": prompt}],
                     temperature=self.temperature

@@ -14,10 +14,10 @@ import sys
 # Add project root to path
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
-from benchmarks.evaluators.lightrag_evaluator import LightRAGEvaluator
-from benchmarks.evaluators.evaluation_pipeline import EvaluationPipeline
-from benchmarks.configs.dataset_config import DatasetConfig
-from benchmarks.utils.errors import EvaluationError
+from benchmarking.evaluators.lightrag_evaluator import LightRAGEvaluator
+from benchmarking.evaluators.evaluation_pipeline import EvaluationPipeline
+from benchmarking.configs.dataset_config import DatasetConfig
+from benchmarking.utils.errors import EvaluationError
 
 
 class TestLightRAGEvaluator:

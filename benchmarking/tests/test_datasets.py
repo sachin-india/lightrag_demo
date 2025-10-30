@@ -16,10 +16,10 @@ import sys
 # Add project root to path
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
-from benchmarks.benchmark_datasets.loaders import MSMarcoLoader, HotpotQALoader, BenchmarkDataManager
-from benchmarks.benchmark_datasets.document_adapter import LightRAGDocumentAdapter
-from benchmarks.configs.dataset_config import DatasetConfig, QUICK_TEST_CONFIG
-from benchmarks.utils.errors import DatasetError
+from benchmarking.benchmark_datasets.loaders import MSMarcoLoader, HotpotQALoader, BenchmarkDataManager
+from benchmarking.benchmark_datasets.document_adapter import LightRAGDocumentAdapter
+from benchmarking.configs.dataset_config import DatasetConfig, QUICK_TEST_CONFIG
+from benchmarking.utils.errors import DatasetError
 
 
 class TestDatasetLoaders:

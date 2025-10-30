@@ -25,6 +25,7 @@ import xml.etree.ElementTree as ET
 
 from lightrag import LightRAG, QueryParam
 from lightrag.llm.openai import gpt_4o_mini_complete, openai_embed
+from lightrag.kg.shared_storage import initialize_pipeline_status
 from dotenv import load_dotenv
 
 from ..utils.logging import get_logger
@@ -87,6 +88,12 @@ class LightRAGEvaluator:
                     llm_model_func=gpt_4o_mini_complete,
                     embedding_func=openai_embed
                 )
+                
+                # Initialize storages (REQUIRED for LightRAG v1.4.9.5+)
+                await self.rag.initialize_storages()
+                
+                # Initialize pipeline status (REQUIRED for document ingestion)
+                await initialize_pipeline_status()
                 
                 # Check if graph exists
                 await self._load_graph_stats()
@@ -204,13 +211,18 @@ class LightRAGEvaluator:
                                 doc_id = doc.get('id', f'doc_{doc.get("index", 0)}')
                                 text = doc.get('text', '')
                                 
-                                if not text.strip():
+                                # Debug logging
+                                if not text or not text.strip():
+                                    logger.warning(f"⚠️  Skipping empty document: {doc_id}, text length: {len(text)}, keys: {list(doc.keys())}")
                                     return {'status': 'skipped', 'id': doc_id, 'reason': 'empty'}
                                 
+                                logger.info(f"📝 Ingesting {doc_id}: {len(text)} chars")
                                 await self.rag.ainsert(text)
+                                logger.info(f"✅ Successfully ingested {doc_id}")
                                 return {'status': 'success', 'id': doc_id}
                                 
                             except Exception as e:
+                                logger.error(f"❌ Failed to ingest {doc_id}: {type(e).__name__}: {e}")
                                 return {'status': 'failed', 'id': doc_id, 'error': str(e)}
                         
                         # Process in smaller concurrent groups to avoid overwhelming the system

@@ -1,6 +1,14 @@
 """
 Full Benchmark with All Metrics
 Runs comprehensive evaluation with all new metrics on both datasets
+
+After OpenAI replacement, this script uses:
+- Standard OpenAI API (gpt-4o-mini for LLM Judge)
+- LightRAG with OpenAI embeddings
+- All metric modules validated with integration tests
+
+Quick test: Set limits to 5 for ~7 minute run
+Full test: Set limits to 50 for ~60-90 minute run
 """
 
 import asyncio
@@ -9,8 +17,8 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
-from benchmarks.evaluators.evaluation_pipeline import EvaluationPipeline
-from benchmarks.configs.dataset_config import DatasetConfig
+from benchmarking.evaluators.evaluation_pipeline import EvaluationPipeline
+from benchmarking.configs.dataset_config import DatasetConfig
 
 async def main():
     print("\n" + "="*80)
@@ -21,8 +29,8 @@ async def main():
     # Configuration: Adjust these limits for different benchmark sizes
     # Quick test: 5 samples per dataset (~7 minutes)
     # Comprehensive: 50 samples per dataset (~60-90 minutes)
-    MS_MARCO_LIMIT = 50  # Change to 5 for quick test
-    HOTPOT_QA_LIMIT = 50  # Change to 5 for quick test
+    MS_MARCO_LIMIT = 5
+    HOTPOT_QA_LIMIT = 5
     
     total_samples = MS_MARCO_LIMIT + HOTPOT_QA_LIMIT
     estimated_time_min = total_samples * 0.6  # ~0.6 min per sample
@@ -33,7 +41,7 @@ async def main():
     print(f"   • Total Samples: {total_samples}")
     print(f"   • Query Modes: naive, local, global, hybrid")
     print(f"   • Metrics: Traditional, Containment, Semantic, Graph, LLM-as-Judge")
-    print(f"   • Storage: benchmarks/benchmark_storage")
+    print(f"   • Storage: benchmarking/benchmark_storage")
     print(f"   • Estimated Time: {int(estimated_time_min)}-{int(estimated_time_max)} minutes")
     print()
     
@@ -46,14 +54,14 @@ async def main():
         datasets=['ms_marco'],
         ms_marco_limit=MS_MARCO_LIMIT,
         hotpot_qa_limit=0,
-        working_dir="benchmarks/benchmark_storage/ms_marco",
+        working_dir="benchmarking/benchmark_storage/ms_marco",
         verbose=True
     )
     
     ms_marco_pipeline = EvaluationPipeline(config=ms_marco_config)
     
     print("\n📊 Running MS MARCO evaluation...")
-    print("   This will calculate all metrics including LLM-as-Judge (GPT-4o)...")
+    print("   This will calculate all metrics including LLM-as-Judge (GPT-4o-mini via OpenAI)...")
     ms_marco_summary = await ms_marco_pipeline.run_full_evaluation(
         modes=["naive", "local", "global", "hybrid"],
         clear_existing=False  # Use existing graph if available
@@ -63,7 +71,7 @@ async def main():
     print("MS MARCO RESULTS:")
     print("-"*80)
     ms_marco_pipeline.print_summary()
-    ms_marco_pipeline.save_results("benchmarks/results/ms_marco_results.json")
+    ms_marco_result_path = ms_marco_pipeline.save_results("benchmarking/results/ms_marco_results.json")
     
     # Run HotpotQA benchmark
     print("\n\n" + "="*80)
@@ -74,14 +82,14 @@ async def main():
         datasets=['hotpot_qa'],
         ms_marco_limit=0,
         hotpot_qa_limit=HOTPOT_QA_LIMIT,
-        working_dir="benchmarks/benchmark_storage/hotpot_qa",
+        working_dir="benchmarking/benchmark_storage/hotpot_qa",
         verbose=True
     )
     
     hotpot_pipeline = EvaluationPipeline(config=hotpot_config)
     
     print("\n📊 Running HotpotQA evaluation...")
-    print("   This will calculate all metrics including LLM-as-Judge (GPT-4o)...")
+    print("   This will calculate all metrics including LLM-as-Judge (GPT-4o-mini via OpenAI)...")
     hotpot_summary = await hotpot_pipeline.run_full_evaluation(
         modes=["naive", "local", "global", "hybrid"],
         clear_existing=False  # Use existing graph if available
@@ -91,7 +99,7 @@ async def main():
     print("HOTPOTQA RESULTS:")
     print("-"*80)
     hotpot_pipeline.print_summary()
-    hotpot_pipeline.save_results("benchmarks/results/hotpot_qa_results.json")
+    hotpot_result_path = hotpot_pipeline.save_results("benchmarking/results/hotpot_qa_results.json")
     
     # Cross-dataset comparison
     print("\n\n" + "="*80)
@@ -154,15 +162,32 @@ async def main():
             hp_overall = hp_judge.get('overall', 0)
             print(f"{'  Overall Quality':<30} {ms_overall:>15.2f} {hp_overall:>15.2f} {('MS MARCO' if ms_overall > hp_overall else 'HotpotQA'):>12}")
     
-    # Final summary
     print("\n\n" + "="*80)
     print("BENCHMARK COMPLETE")
     print("="*80)
     print("\n✅ All evaluations completed successfully!")
     print("\n📊 Results saved to:")
-    print("   • benchmarks/results/ms_marco_results.json")
-    print("   • benchmarks/results/hotpot_qa_results.json")
-    print("   • benchmarks/benchmark_storage/evaluation_summary.json")
+    print(f"   • {ms_marco_result_path}")
+    print(f"   • {hotpot_result_path}")
+    
+    # Generate reports
+    print("\n📝 Generating reports...")
+    try:
+        # Use simple report generator instead
+        import subprocess
+        result = subprocess.run(
+            [sys.executable, "benchmarking/simple_report_generator.py"],
+            capture_output=True,
+            text=True,
+            encoding='utf-8'
+        )
+        if result.returncode == 0:
+            print(result.stdout)
+        else:
+            print(f"   ⚠️  Report generation had issues: {result.stderr}")
+    except Exception as e:
+        print(f"   ⚠️  Report generation skipped: {e}")
+    
     print("\n💡 Key Finding:")
     print("   Traditional metrics (ROUGE, BLEU) often underestimate LightRAG quality")
     print("   Modern metrics (LLM-as-Judge, Containment, Semantic) provide better assessment")

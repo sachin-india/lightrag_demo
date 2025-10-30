@@ -57,11 +57,13 @@ class BenchmarkLogger:
     """Enhanced logger for benchmark operations"""
     
     def __init__(self, name: str, log_dir: Optional[Path] = None, 
+                 log_file: Optional[Path] = None,
                  debug_mode: bool = False, verbose: bool = True):
         self.logger = logging.getLogger(name)
         self.operation_stack = []
         self.performance_data = {}
-        self.log_dir = log_dir or Path("benchmarks/results/logs")
+        self.log_dir = log_dir or Path("benchmarking/logs")
+        self.log_file = log_file  # Optional shared log file
         
         if not self.logger.handlers:
             self._setup_logger(debug_mode, verbose)
@@ -96,7 +98,12 @@ class BenchmarkLogger:
         if self.log_dir:
             self.log_dir.mkdir(parents=True, exist_ok=True)
             
-            log_file = self.log_dir / f"benchmark_{datetime.now().strftime('%Y%m%d_%H%M%S')}.log"
+            # Use shared log file if provided, otherwise create new one
+            if self.log_file:
+                log_file = self.log_file
+            else:
+                log_file = self.log_dir / f"benchmark_{datetime.now().strftime('%Y%m%d_%H%M%S')}.log"
+            
             file_handler = logging.FileHandler(log_file, encoding='utf-8')
             file_formatter = logging.Formatter(
                 '%(asctime)s %(levelname)-8s [%(name)s] %(message)s'
@@ -194,10 +201,23 @@ class BenchmarkLogger:
 
 # Global logger instances
 _loggers: Dict[str, BenchmarkLogger] = {}
+_shared_log_file = None  # Shared log file path across all loggers
 
 
 def get_logger(name: str = "benchmark", **kwargs) -> BenchmarkLogger:
     """Get logger instance for given name"""
+    global _shared_log_file
+    
+    # Create shared log file on first call
+    if _shared_log_file is None:
+        log_dir = Path("benchmarking/logs")
+        log_dir.mkdir(parents=True, exist_ok=True)
+        _shared_log_file = log_dir / f"benchmark_{datetime.now().strftime('%Y%m%d_%H%M%S')}.log"
+    
+    # Pass shared log file to all loggers
+    if 'log_file' not in kwargs:
+        kwargs['log_file'] = _shared_log_file
+    
     if name not in _loggers:
         _loggers[name] = BenchmarkLogger(name, **kwargs)
     return _loggers[name]
