@@ -1,29 +1,29 @@
 """
 LLM-as-Judge metrics for evaluating RAG responses using GPT-4
 
-Uses Alloy LLM handler to evaluate responses on multiple dimensions:
+Uses OpenAI API to evaluate responses on multiple dimensions:
 - Correctness: Factual accuracy of the answer
 - Completeness: Coverage of the question requirements  
 - Faithfulness: Grounding in provided context (no hallucinations)
 - Conciseness: Appropriate detail level without excessive verbosity
 
-Integrates with Intel's Alloy platform for LLM access.
+Replaced Intel Alloy integration with standard OpenAI AsyncClient.
 """
 
 import asyncio
 import json
 import re
-import sys
-from pathlib import Path
+import os
 from typing import Dict, Any, List, Optional
 import logging
+from openai import AsyncOpenAI
+from dotenv import load_dotenv
 
-# Add parent directory to path for alloy imports
-sys.path.insert(0, str(Path(__file__).parent.parent.parent))
+# Load environment variables from .env file
+load_dotenv()
 
-# Import Alloy LLM handler (cannot be modified, use as-is)
-from alloy.llm import chat
-from alloy.llm.workflow import WorkflowSession, generate_workflow_session_id
+# Initialize OpenAI client with API key from environment
+openai_client = AsyncOpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 logger = logging.getLogger(__name__)
 
@@ -37,14 +37,14 @@ class LLMJudge:
     """
     
     def __init__(self, 
-                 model: str = "openai-azure-gpt4o",
+                 model: str = "gpt-4o-mini",
                  temperature: float = 0.0,
                  max_concurrent: int = 8):
         """
         Initialize LLM Judge
         
         Args:
-            model: Alloy model to use (default: GPT-4o for best judgment quality)
+            model: OpenAI model to use (default: gpt-4o-mini for cost-effective judgment)
             temperature: Temperature for generation (0.0 for consistency)
             max_concurrent: Maximum concurrent LLM calls (increased from 3 to 8 for faster evaluation)
         """
@@ -52,9 +52,6 @@ class LLMJudge:
         self.temperature = temperature
         self.max_concurrent = max_concurrent
         self.semaphore = asyncio.Semaphore(max_concurrent)
-        
-        # Workflow tracking for all judge evaluations
-        self.workflow_id = "benchmark_llm_judge"
         
         logger.info(f"✅ LLM Judge initialized: {model}")
     
@@ -134,34 +131,34 @@ Respond with ONLY the JSON object, no additional text.
         
         return prompt
     
-    async def _call_alloy_async(self, prompt: str, session_id: str) -> str:
+    async def _call_openai_async(self, prompt: str, session_id: str) -> str:
         """
-        Async wrapper around Alloy's synchronous chat function
+        Call OpenAI API asynchronously with retries
         
         Args:
             prompt: Prompt to send
-            session_id: Workflow session ID for tracking
+            session_id: Session ID for tracking (logged but not sent to API)
             
         Returns:
-            Response string from Alloy LLM
+            Response string from OpenAI
         """
-        loop = asyncio.get_event_loop()
-        
-        # Run sync chat function in thread pool executor to make it async
-        response = await loop.run_in_executor(
-            None,
-            lambda: chat(
-                prompt=prompt,
-                model=self.model,
-                type="azure",
-                temperature=self.temperature,
-                max_retries=3,
-                workflow_id=self.workflow_id,
-                workflow_session_id=session_id
-            )
-        )
-        
-        return response
+        max_retries = 3
+        for attempt in range(max_retries):
+            try:
+                response = await openai_client.chat.completions.create(
+                    model=self.model,
+                    messages=[{"role": "user", "content": prompt}],
+                    temperature=self.temperature
+                )
+                return response.choices[0].message.content
+            
+            except Exception as e:
+                logger.warning(f"OpenAI API call failed (attempt {attempt+1}/{max_retries}): {e}")
+                if attempt == max_retries - 1:
+                    error_msg = f"Error: OpenAI API failed after {max_retries} retries: {str(e)}"
+                    logger.error(error_msg)
+                    return error_msg
+                await asyncio.sleep(2 ** attempt)  # Exponential backoff
     
     def _parse_judge_response(self, response: str) -> Dict[str, Any]:
         """
@@ -239,16 +236,16 @@ Respond with ONLY the JSON object, no additional text.
             reference_answer: Ground truth answer
             predicted_answer: System's predicted answer
             context: Optional retrieved context
-            session_id: Optional workflow session ID (generated if not provided)
+            session_id: Optional session ID for tracking (deprecated, kept for compatibility)
             
         Returns:
             Dictionary with scores for each dimension
         """
         # Use semaphore to limit concurrent LLM calls
         async with self.semaphore:
-            # Generate session ID if not provided
+            # Generate simple session ID for logging
             if session_id is None:
-                session_id = generate_workflow_session_id()
+                session_id = f"judge_{asyncio.current_task().get_name()}"
             
             # Build prompt
             prompt = self._build_judge_prompt(
@@ -258,8 +255,8 @@ Respond with ONLY the JSON object, no additional text.
                 context=context
             )
             
-            # Call Alloy LLM asynchronously
-            response = await self._call_alloy_async(prompt, session_id)
+            # Call OpenAI API asynchronously
+            response = await self._call_openai_async(prompt, session_id)
             
             # Parse and return scores
             scores = self._parse_judge_response(response)
@@ -275,14 +272,15 @@ Respond with ONLY the JSON object, no additional text.
         Args:
             evaluations: List of dicts with 'query', 'reference_answer', 
                         'predicted_answer', and optional 'context'
-            session_id: Optional workflow session ID for grouping
+            session_id: Optional session ID for grouping (deprecated, kept for compatibility)
             
         Returns:
             List of score dictionaries
         """
-        # Generate session ID for this batch
+        # Generate session ID for this batch (simple timestamp-based)
         if session_id is None:
-            session_id = generate_workflow_session_id()
+            import time
+            session_id = f"batch_{int(time.time())}"
         
         logger.info(f"🤖 Evaluating {len(evaluations)} responses with LLM judge...")
         
