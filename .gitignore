@@ -79,6 +79,13 @@ Desktop.ini
 ## PDF files (too large for git, users should add their own)
 #pdfs/*.pdf
 
+# Benchmarking system artifacts (if/when integrated)
+benchmarking/benchmark_storage/
+benchmarking/cache/
+benchmarking/results/
+benchmarking/logs/
+benchmarking/reports/
+
 # Keep folder structure but ignore content
 !pdfs/.gitkeep
 !knowledgebase/.gitkeep
