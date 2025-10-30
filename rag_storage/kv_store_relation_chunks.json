@@ -1,0 +1,5509 @@
+{
+  "Remdesivir<SEP>SARS-CoV-2 Polymerase": {
+    "chunk_ids": [
+      "chunk-0f080134bfa565ca2ca485938ce85ec1"
+    ],
+    "count": 1,
+    "create_time": 1761791273,
+    "update_time": 1761791273,
+    "_id": "Remdesivir<SEP>SARS-CoV-2 Polymerase"
+  },
+  "Baricitinib<SEP>Kalil AC": {
+    "chunk_ids": [
+      "chunk-0f080134bfa565ca2ca485938ce85ec1"
+    ],
+    "count": 1,
+    "create_time": 1761791273,
+    "update_time": 1761791273,
+    "_id": "Baricitinib<SEP>Kalil AC"
+  },
+  "COVID-19<SEP>N Engl J Med": {
+    "chunk_ids": [
+      "chunk-0f080134bfa565ca2ca485938ce85ec1"
+    ],
+    "count": 1,
+    "create_time": 1761791273,
+    "update_time": 1761791273,
+    "_id": "COVID-19<SEP>N Engl J Med"
+  },
+  "BCN-PEP-CoV2 Research Group<SEP>Hydroxychloroquine": {
+    "chunk_ids": [
+      "chunk-0f080134bfa565ca2ca485938ce85ec1",
+      "chunk-a2bf94dfda652964087a535f4138f69b"
+    ],
+    "count": 2,
+    "create_time": 1761791273,
+    "update_time": 1761791273,
+    "_id": "BCN-PEP-CoV2 Research Group<SEP>Hydroxychloroquine"
+  },
+  "Cao B<SEP>Lopinavir-Ritonavir": {
+    "chunk_ids": [
+      "chunk-0f080134bfa565ca2ca485938ce85ec1"
+    ],
+    "count": 1,
+    "create_time": 1761791273,
+    "update_time": 1761791273,
+    "_id": "Cao B<SEP>Lopinavir-Ritonavir"
+  },
+  "ACTT-2 Study Group Members<SEP>Kalil AC": {
+    "chunk_ids": [
+      "chunk-0f080134bfa565ca2ca485938ce85ec1"
+    ],
+    "count": 1,
+    "create_time": 1761791273,
+    "update_time": 1761791273,
+    "_id": "ACTT-2 Study Group Members<SEP>Kalil AC"
+  },
+  "Lopinavir-Ritonavir<SEP>Wang Y": {
+    "chunk_ids": [
+      "chunk-0f080134bfa565ca2ca485938ce85ec1"
+    ],
+    "count": 1,
+    "create_time": 1761791273,
+    "update_time": 1761791273,
+    "_id": "Lopinavir-Ritonavir<SEP>Wang Y"
+  },
+  "OVID-Vac<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-fc104ffbeb7ccb0418a3795f253b7df8"
+    ],
+    "count": 1,
+    "create_time": 1761791273,
+    "update_time": 1761791273,
+    "_id": "OVID-Vac<SEP>SARS-CoV-2"
+  },
+  "ACTT-2 Study Group Members<SEP>Mehta AK": {
+    "chunk_ids": [
+      "chunk-0f080134bfa565ca2ca485938ce85ec1"
+    ],
+    "count": 1,
+    "create_time": 1761791274,
+    "update_time": 1761791274,
+    "_id": "ACTT-2 Study Group Members<SEP>Mehta AK"
+  },
+  "COVE Study Group<SEP>mRNA-1273": {
+    "chunk_ids": [
+      "chunk-fc104ffbeb7ccb0418a3795f253b7df8",
+      "chunk-bcf2fae51213896d1bf2c29dfc9f1a2d"
+    ],
+    "count": 2,
+    "create_time": 1761791274,
+    "update_time": 1761791274,
+    "_id": "COVE Study Group<SEP>mRNA-1273"
+  },
+  "SARS-CoV-2<SEP>mRNA Vaccines": {
+    "chunk_ids": [
+      "chunk-fc104ffbeb7ccb0418a3795f253b7df8"
+    ],
+    "count": 1,
+    "create_time": 1761791274,
+    "update_time": 1761791274,
+    "_id": "SARS-CoV-2<SEP>mRNA Vaccines"
+  },
+  "COVID-19<SEP>Lopinavir-Ritonavir": {
+    "chunk_ids": [
+      "chunk-0f080134bfa565ca2ca485938ce85ec1"
+    ],
+    "count": 1,
+    "create_time": 1761791274,
+    "update_time": 1761791274,
+    "_id": "COVID-19<SEP>Lopinavir-Ritonavir"
+  },
+  "COVID-19<SEP>Hydroxychloroquine": {
+    "chunk_ids": [
+      "chunk-0f080134bfa565ca2ca485938ce85ec1",
+      "chunk-f542171328bc39729060fbc8ff577681"
+    ],
+    "count": 2,
+    "create_time": 1761791275,
+    "update_time": 1761791275,
+    "_id": "COVID-19<SEP>Hydroxychloroquine"
+  },
+  "Rabies<SEP>mRNA Vaccines": {
+    "chunk_ids": [
+      "chunk-fc104ffbeb7ccb0418a3795f253b7df8"
+    ],
+    "count": 1,
+    "create_time": 1761791275,
+    "update_time": 1761791275,
+    "_id": "Rabies<SEP>mRNA Vaccines"
+  },
+  "Angiotensin-Converting Enzyme 2<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-98ac72e5523a2d04c4d2212f1d927f7e"
+    ],
+    "count": 1,
+    "create_time": 1761791275,
+    "update_time": 1761791275,
+    "_id": "Angiotensin-Converting Enzyme 2<SEP>SARS-CoV-2"
+  },
+  "Zika<SEP>mRNA Vaccines": {
+    "chunk_ids": [
+      "chunk-fc104ffbeb7ccb0418a3795f253b7df8"
+    ],
+    "count": 1,
+    "create_time": 1761791275,
+    "update_time": 1761791275,
+    "_id": "Zika<SEP>mRNA Vaccines"
+  },
+  "SARS-CoV-2<SEP>Wuhan": {
+    "chunk_ids": [
+      "chunk-98ac72e5523a2d04c4d2212f1d927f7e",
+      "chunk-8da47fd3ab04bfda61202cc5b44306a4"
+    ],
+    "count": 2,
+    "create_time": 1761791275,
+    "update_time": 1761791275,
+    "_id": "SARS-CoV-2<SEP>Wuhan"
+  },
+  "SARS-CoV<SEP>Severe Acute Respiratory Syndrome": {
+    "chunk_ids": [
+      "chunk-98ac72e5523a2d04c4d2212f1d927f7e"
+    ],
+    "count": 1,
+    "create_time": 1761791275,
+    "update_time": 1761791275,
+    "_id": "SARS-CoV<SEP>Severe Acute Respiratory Syndrome"
+  },
+  "BNT162b2<SEP>COVID-19": {
+    "chunk_ids": [
+      "chunk-fc104ffbeb7ccb0418a3795f253b7df8"
+    ],
+    "count": 1,
+    "create_time": 1761791275,
+    "update_time": 1761791275,
+    "_id": "BNT162b2<SEP>COVID-19"
+  },
+  "SARS-CoV-2<SEP>Triveri A": {
+    "chunk_ids": [
+      "chunk-98ac72e5523a2d04c4d2212f1d927f7e"
+    ],
+    "count": 1,
+    "create_time": 1761791275,
+    "update_time": 1761791275,
+    "_id": "SARS-CoV-2<SEP>Triveri A"
+  },
+  "Influenza A<SEP>mRNA Vaccines": {
+    "chunk_ids": [
+      "chunk-fc104ffbeb7ccb0418a3795f253b7df8"
+    ],
+    "count": 1,
+    "create_time": 1761791275,
+    "update_time": 1761791275,
+    "_id": "Influenza A<SEP>mRNA Vaccines"
+  },
+  "BNT162b2<SEP>mRNA-1273": {
+    "chunk_ids": [
+      "chunk-fc104ffbeb7ccb0418a3795f253b7df8"
+    ],
+    "count": 1,
+    "create_time": 1761791275,
+    "update_time": 1761791275,
+    "_id": "BNT162b2<SEP>mRNA-1273"
+  },
+  "Ding Y<SEP>SARS-CoV": {
+    "chunk_ids": [
+      "chunk-98ac72e5523a2d04c4d2212f1d927f7e"
+    ],
+    "count": 1,
+    "create_time": 1761791276,
+    "update_time": 1761791276,
+    "_id": "Ding Y<SEP>SARS-CoV"
+  },
+  "Gu J<SEP>SARS": {
+    "chunk_ids": [
+      "chunk-98ac72e5523a2d04c4d2212f1d927f7e"
+    ],
+    "count": 1,
+    "create_time": 1761791276,
+    "update_time": 1761791276,
+    "_id": "Gu J<SEP>SARS"
+  },
+  "B.1.1.7 Variant<SEP>Remdesivir": {
+    "chunk_ids": [
+      "chunk-51f69829efd648a30ff1473dea354390",
+      "chunk-f773b3825a5d702479233be92ad1c099"
+    ],
+    "count": 2,
+    "create_time": 1761791276,
+    "update_time": 1761791276,
+    "_id": "B.1.1.7 Variant<SEP>Remdesivir"
+  },
+  "SARS-CoV-2<SEP>Serapian SA": {
+    "chunk_ids": [
+      "chunk-98ac72e5523a2d04c4d2212f1d927f7e"
+    ],
+    "count": 1,
+    "create_time": 1761791276,
+    "update_time": 1761791276,
+    "_id": "SARS-CoV-2<SEP>Serapian SA"
+  },
+  "Molnupiravir<SEP>SARS-CoV-2 Variants": {
+    "chunk_ids": [
+      "chunk-51f69829efd648a30ff1473dea354390",
+      "chunk-6537690b487b6e3ab7d5ee5af21c0f15"
+    ],
+    "count": 2,
+    "create_time": 1761791276,
+    "update_time": 1761791276,
+    "_id": "Molnupiravir<SEP>SARS-CoV-2 Variants"
+  },
+  "B.1.351 Variant<SEP>Remdesivir": {
+    "chunk_ids": [
+      "chunk-51f69829efd648a30ff1473dea354390",
+      "chunk-f773b3825a5d702479233be92ad1c099"
+    ],
+    "count": 2,
+    "create_time": 1761791276,
+    "update_time": 1761791276,
+    "_id": "B.1.351 Variant<SEP>Remdesivir"
+  },
+  "COVID-19<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-98ac72e5523a2d04c4d2212f1d927f7e",
+      "chunk-8da47fd3ab04bfda61202cc5b44306a4",
+      "chunk-1bd5e90caf2bb8e64acc9e5ab28dcff2",
+      "chunk-fbd439f210751f278e08778f5add0bb7",
+      "chunk-c9bb134c549ef99824593cc9b842ed83"
+    ],
+    "count": 5,
+    "create_time": 1761791276,
+    "update_time": 1761791276,
+    "_id": "COVID-19<SEP>SARS-CoV-2"
+  },
+  "Marchetti F<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-98ac72e5523a2d04c4d2212f1d927f7e"
+    ],
+    "count": 1,
+    "create_time": 1761791277,
+    "update_time": 1761791277,
+    "_id": "Marchetti F<SEP>SARS-CoV-2"
+  },
+  "COVID-19<SEP>Neuroinvasive Potential": {
+    "chunk_ids": [
+      "chunk-98ac72e5523a2d04c4d2212f1d927f7e"
+    ],
+    "count": 1,
+    "create_time": 1761791277,
+    "update_time": 1761791277,
+    "_id": "COVID-19<SEP>Neuroinvasive Potential"
+  },
+  "Paxlovid<SEP>SARS-CoV-2 Variants": {
+    "chunk_ids": [
+      "chunk-51f69829efd648a30ff1473dea354390"
+    ],
+    "count": 1,
+    "create_time": 1761791277,
+    "update_time": 1761791277,
+    "_id": "Paxlovid<SEP>SARS-CoV-2 Variants"
+  },
+  "COVID-19 Vaccines<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-51f69829efd648a30ff1473dea354390"
+    ],
+    "count": 1,
+    "create_time": 1761791277,
+    "update_time": 1761791277,
+    "_id": "COVID-19 Vaccines<SEP>SARS-CoV-2"
+  },
+  "PCR Primers<SEP>VOCs": {
+    "chunk_ids": [
+      "chunk-ab3e854c0000cad5901402bd6d215800"
+    ],
+    "count": 1,
+    "create_time": 1761791277,
+    "update_time": 1761791277,
+    "_id": "PCR Primers<SEP>VOCs"
+  },
+  "PCR-Based Tests<SEP>SARS-CoV-2 Variants": {
+    "chunk_ids": [
+      "chunk-ab3e854c0000cad5901402bd6d215800"
+    ],
+    "count": 1,
+    "create_time": 1761791278,
+    "update_time": 1761791278,
+    "_id": "PCR-Based Tests<SEP>SARS-CoV-2 Variants"
+  },
+  "RNA-Dependent RNA Polymerase<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-51f69829efd648a30ff1473dea354390",
+      "chunk-24854732d58a0cfe449336f2148986eb"
+    ],
+    "count": 2,
+    "create_time": 1761791278,
+    "update_time": 1761791278,
+    "_id": "RNA-Dependent RNA Polymerase<SEP>SARS-CoV-2"
+  },
+  "ACE2<SEP>SARS-CoV": {
+    "chunk_ids": [
+      "chunk-0a60b0692db3daf8de021fda40a42927"
+    ],
+    "count": 1,
+    "create_time": 1761791278,
+    "update_time": 1761791278,
+    "_id": "ACE2<SEP>SARS-CoV"
+  },
+  "Omicron Variant<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-ab3e854c0000cad5901402bd6d215800",
+      "chunk-62c1a16d82b02fe9ac82ef46c947532d"
+    ],
+    "count": 2,
+    "create_time": 1761791278,
+    "update_time": 1761791278,
+    "_id": "Omicron Variant<SEP>SARS-CoV-2"
+  },
+  "Genome Sequencing<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-ab3e854c0000cad5901402bd6d215800"
+    ],
+    "count": 1,
+    "create_time": 1761791278,
+    "update_time": 1761791278,
+    "_id": "Genome Sequencing<SEP>SARS-CoV-2"
+  },
+  "Omicron Variant<SEP>PCR Primers": {
+    "chunk_ids": [
+      "chunk-ab3e854c0000cad5901402bd6d215800"
+    ],
+    "count": 1,
+    "create_time": 1761791278,
+    "update_time": 1761791278,
+    "_id": "Omicron Variant<SEP>PCR Primers"
+  },
+  "Authors of the Manuscript<SEP>Qatar National Library": {
+    "chunk_ids": [
+      "chunk-0a60b0692db3daf8de021fda40a42927"
+    ],
+    "count": 1,
+    "create_time": 1761791278,
+    "update_time": 1761791278,
+    "_id": "Authors of the Manuscript<SEP>Qatar National Library"
+  },
+  "LAMP<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-ab3e854c0000cad5901402bd6d215800"
+    ],
+    "count": 1,
+    "create_time": 1761791279,
+    "update_time": 1761791279,
+    "_id": "LAMP<SEP>SARS-CoV-2"
+  },
+  "CRISPR<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-ab3e854c0000cad5901402bd6d215800"
+    ],
+    "count": 1,
+    "create_time": 1761791279,
+    "update_time": 1761791279,
+    "_id": "CRISPR<SEP>SARS-CoV-2"
+  },
+  "B.1.1.7<SEP>Spike Protein Substitutions": {
+    "chunk_ids": [
+      "chunk-011e180e8a15a1d31d1e61e1c124eb17"
+    ],
+    "count": 1,
+    "create_time": 1761791279,
+    "update_time": 1761791279,
+    "_id": "B.1.1.7<SEP>Spike Protein Substitutions"
+  },
+  "B.1.351<SEP>Spike Protein Substitutions": {
+    "chunk_ids": [
+      "chunk-011e180e8a15a1d31d1e61e1c124eb17"
+    ],
+    "count": 1,
+    "create_time": 1761791280,
+    "update_time": 1761791280,
+    "_id": "B.1.351<SEP>Spike Protein Substitutions"
+  },
+  "P.1<SEP>Spike Protein Substitutions": {
+    "chunk_ids": [
+      "chunk-011e180e8a15a1d31d1e61e1c124eb17"
+    ],
+    "count": 1,
+    "create_time": 1761791280,
+    "update_time": 1761791280,
+    "_id": "P.1<SEP>Spike Protein Substitutions"
+  },
+  "Central Nervous System<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-0a60b0692db3daf8de021fda40a42927"
+    ],
+    "count": 1,
+    "create_time": 1761791280,
+    "update_time": 1761791280,
+    "_id": "Central Nervous System<SEP>SARS-CoV-2"
+  },
+  "B.1.617.2<SEP>Spike Protein Substitutions": {
+    "chunk_ids": [
+      "chunk-011e180e8a15a1d31d1e61e1c124eb17"
+    ],
+    "count": 1,
+    "create_time": 1761791280,
+    "update_time": 1761791280,
+    "_id": "B.1.617.2<SEP>Spike Protein Substitutions"
+  },
+  "B.1.1.529<SEP>Spike Protein Substitutions": {
+    "chunk_ids": [
+      "chunk-011e180e8a15a1d31d1e61e1c124eb17"
+    ],
+    "count": 1,
+    "create_time": 1761791281,
+    "update_time": 1761791281,
+    "_id": "B.1.1.529<SEP>Spike Protein Substitutions"
+  },
+  "COVID-19 Pandemic<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-0a60b0692db3daf8de021fda40a42927"
+    ],
+    "count": 1,
+    "create_time": 1761791281,
+    "update_time": 1761791281,
+    "_id": "COVID-19 Pandemic<SEP>SARS-CoV-2"
+  },
+  "B.1.525<SEP>Spike Protein Substitutions": {
+    "chunk_ids": [
+      "chunk-011e180e8a15a1d31d1e61e1c124eb17"
+    ],
+    "count": 1,
+    "create_time": 1761791281,
+    "update_time": 1761791281,
+    "_id": "B.1.525<SEP>Spike Protein Substitutions"
+  },
+  "Medullary Neurons<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-0a60b0692db3daf8de021fda40a42927"
+    ],
+    "count": 1,
+    "create_time": 1761791281,
+    "update_time": 1761791281,
+    "_id": "Medullary Neurons<SEP>SARS-CoV-2"
+  },
+  "COVID-19 Pandemic<SEP>Healthcare Workers": {
+    "chunk_ids": [
+      "chunk-0a60b0692db3daf8de021fda40a42927"
+    ],
+    "count": 1,
+    "create_time": 1761791281,
+    "update_time": 1761791281,
+    "_id": "COVID-19 Pandemic<SEP>Healthcare Workers"
+  },
+  "COVE Study<SEP>Moderna COVID-19 Vaccine Candidate": {
+    "chunk_ids": [
+      "chunk-a74440dec970c1b665115bec7710e2c8"
+    ],
+    "count": 1,
+    "create_time": 1761791281,
+    "update_time": 1761791281,
+    "_id": "COVE Study<SEP>Moderna COVID-19 Vaccine Candidate"
+  },
+  "B.1.526<SEP>Spike Protein Substitutions": {
+    "chunk_ids": [
+      "chunk-011e180e8a15a1d31d1e61e1c124eb17"
+    ],
+    "count": 1,
+    "create_time": 1761791281,
+    "update_time": 1761791281,
+    "_id": "B.1.526<SEP>Spike Protein Substitutions"
+  },
+  "BNT162b2<SEP>FDA": {
+    "chunk_ids": [
+      "chunk-a74440dec970c1b665115bec7710e2c8",
+      "chunk-504266ce396b2ee303462fca7cecde6e",
+      "chunk-bcf2fae51213896d1bf2c29dfc9f1a2d"
+    ],
+    "count": 3,
+    "create_time": 1761791281,
+    "update_time": 1761791281,
+    "_id": "BNT162b2<SEP>FDA"
+  },
+  "B.1.617.1<SEP>Spike Protein Substitutions": {
+    "chunk_ids": [
+      "chunk-011e180e8a15a1d31d1e61e1c124eb17"
+    ],
+    "count": 1,
+    "create_time": 1761791281,
+    "update_time": 1761791281,
+    "_id": "B.1.617.1<SEP>Spike Protein Substitutions"
+  },
+  "BNT162b2<SEP>SIREN Study": {
+    "chunk_ids": [
+      "chunk-a74440dec970c1b665115bec7710e2c8"
+    ],
+    "count": 1,
+    "create_time": 1761791282,
+    "update_time": 1761791282,
+    "_id": "BNT162b2<SEP>SIREN Study"
+  },
+  "COVID-19 Pandemic<SEP>Neurologic Symptoms": {
+    "chunk_ids": [
+      "chunk-0a60b0692db3daf8de021fda40a42927"
+    ],
+    "count": 1,
+    "create_time": 1761791282,
+    "update_time": 1761791282,
+    "_id": "COVID-19 Pandemic<SEP>Neurologic Symptoms"
+  },
+  "COVE Study<SEP>mRNA-1273": {
+    "chunk_ids": [
+      "chunk-a74440dec970c1b665115bec7710e2c8"
+    ],
+    "count": 1,
+    "create_time": 1761791282,
+    "update_time": 1761791282,
+    "_id": "COVE Study<SEP>mRNA-1273"
+  },
+  "BNT162b2<SEP>Thompson MG": {
+    "chunk_ids": [
+      "chunk-a74440dec970c1b665115bec7710e2c8"
+    ],
+    "count": 1,
+    "create_time": 1761791282,
+    "update_time": 1761791282,
+    "_id": "BNT162b2<SEP>Thompson MG"
+  },
+  "Acute Cerebrovascular Disease<SEP>COVID-19 Pandemic": {
+    "chunk_ids": [
+      "chunk-0a60b0692db3daf8de021fda40a42927"
+    ],
+    "count": 1,
+    "create_time": 1761791282,
+    "update_time": 1761791282,
+    "_id": "Acute Cerebrovascular Disease<SEP>COVID-19 Pandemic"
+  },
+  "BNT162b2<SEP>Burgess JL": {
+    "chunk_ids": [
+      "chunk-a74440dec970c1b665115bec7710e2c8"
+    ],
+    "count": 1,
+    "create_time": 1761791282,
+    "update_time": 1761791282,
+    "_id": "BNT162b2<SEP>Burgess JL"
+  },
+  "BNT162b2<SEP>Naleway AL": {
+    "chunk_ids": [
+      "chunk-a74440dec970c1b665115bec7710e2c8"
+    ],
+    "count": 1,
+    "create_time": 1761791282,
+    "update_time": 1761791282,
+    "_id": "BNT162b2<SEP>Naleway AL"
+  },
+  "B.1.525<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-b494139a91f9118736292a4317ea00c8"
+    ],
+    "count": 1,
+    "create_time": 1761791282,
+    "update_time": 1761791282,
+    "_id": "B.1.525<SEP>SARS-CoV-2"
+  },
+  "BNT162b2<SEP>Hall VJ": {
+    "chunk_ids": [
+      "chunk-a74440dec970c1b665115bec7710e2c8"
+    ],
+    "count": 1,
+    "create_time": 1761791283,
+    "update_time": 1761791283,
+    "_id": "BNT162b2<SEP>Hall VJ"
+  },
+  "B.1.526<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-b494139a91f9118736292a4317ea00c8"
+    ],
+    "count": 1,
+    "create_time": 1761791283,
+    "update_time": 1761791283,
+    "_id": "B.1.526<SEP>SARS-CoV-2"
+  },
+  "BNT162b2<SEP>Foulkes S": {
+    "chunk_ids": [
+      "chunk-a74440dec970c1b665115bec7710e2c8"
+    ],
+    "count": 1,
+    "create_time": 1761791283,
+    "update_time": 1761791283,
+    "_id": "BNT162b2<SEP>Foulkes S"
+  },
+  "BNT162b2<SEP>Saei A": {
+    "chunk_ids": [
+      "chunk-a74440dec970c1b665115bec7710e2c8"
+    ],
+    "count": 1,
+    "create_time": 1761791283,
+    "update_time": 1761791283,
+    "_id": "BNT162b2<SEP>Saei A"
+  },
+  "B.1.617.1<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-b494139a91f9118736292a4317ea00c8"
+    ],
+    "count": 1,
+    "create_time": 1761791283,
+    "update_time": 1761791283,
+    "_id": "B.1.617.1<SEP>SARS-CoV-2"
+  },
+  "Nasopharyngeal Swab<SEP>Nucleic Acid-Based Detection": {
+    "chunk_ids": [
+      "chunk-b494139a91f9118736292a4317ea00c8"
+    ],
+    "count": 1,
+    "create_time": 1761791283,
+    "update_time": 1761791283,
+    "_id": "Nasopharyngeal Swab<SEP>Nucleic Acid-Based Detection"
+  },
+  "C.37<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-b494139a91f9118736292a4317ea00c8"
+    ],
+    "count": 1,
+    "create_time": 1761791284,
+    "update_time": 1761791284,
+    "_id": "C.37<SEP>SARS-CoV-2"
+  },
+  "BNT162b2<SEP>Lopez Bernal J": {
+    "chunk_ids": [
+      "chunk-a74440dec970c1b665115bec7710e2c8"
+    ],
+    "count": 1,
+    "create_time": 1761791284,
+    "update_time": 1761791284,
+    "_id": "BNT162b2<SEP>Lopez Bernal J"
+  },
+  "Omicron Variant<SEP>Real-Time PCR Technology": {
+    "chunk_ids": [
+      "chunk-b494139a91f9118736292a4317ea00c8"
+    ],
+    "count": 1,
+    "create_time": 1761791284,
+    "update_time": 1761791284,
+    "_id": "Omicron Variant<SEP>Real-Time PCR Technology"
+  },
+  "B.1.621<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-b494139a91f9118736292a4317ea00c8"
+    ],
+    "count": 1,
+    "create_time": 1761791284,
+    "update_time": 1761791284,
+    "_id": "B.1.621<SEP>SARS-CoV-2"
+  },
+  "Nucleic Acid-Based Detection<SEP>Real-Time PCR Technology": {
+    "chunk_ids": [
+      "chunk-b494139a91f9118736292a4317ea00c8"
+    ],
+    "count": 1,
+    "create_time": 1761791284,
+    "update_time": 1761791284,
+    "_id": "Nucleic Acid-Based Detection<SEP>Real-Time PCR Technology"
+  },
+  "Andrews N<SEP>BNT162b2": {
+    "chunk_ids": [
+      "chunk-a74440dec970c1b665115bec7710e2c8"
+    ],
+    "count": 1,
+    "create_time": 1761791284,
+    "update_time": 1761791284,
+    "_id": "Andrews N<SEP>BNT162b2"
+  },
+  "Brown MJ<SEP>N Engl J Med": {
+    "chunk_ids": [
+      "chunk-ce5654da6d9426c044b695106c4aa2b8"
+    ],
+    "count": 1,
+    "create_time": 1761791284,
+    "update_time": 1761791284,
+    "_id": "Brown MJ<SEP>N Engl J Med"
+  },
+  "P.3<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-b494139a91f9118736292a4317ea00c8"
+    ],
+    "count": 1,
+    "create_time": 1761791284,
+    "update_time": 1761791284,
+    "_id": "P.3<SEP>SARS-CoV-2"
+  },
+  "D614G<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-b494139a91f9118736292a4317ea00c8",
+      "chunk-dc9977325cdee13a132c8b548d9e9b97"
+    ],
+    "count": 2,
+    "create_time": 1761791285,
+    "update_time": 1761791285,
+    "_id": "D614G<SEP>SARS-CoV-2"
+  },
+  "Gordon CJ<SEP>J Biol Chem": {
+    "chunk_ids": [
+      "chunk-ce5654da6d9426c044b695106c4aa2b8"
+    ],
+    "count": 1,
+    "create_time": 1761791285,
+    "update_time": 1761791285,
+    "_id": "Gordon CJ<SEP>J Biol Chem"
+  },
+  "N501Y<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-b494139a91f9118736292a4317ea00c8"
+    ],
+    "count": 1,
+    "create_time": 1761791285,
+    "update_time": 1761791285,
+    "_id": "N501Y<SEP>SARS-CoV-2"
+  },
+  "Clin Drug Investig<SEP>Zhang S": {
+    "chunk_ids": [
+      "chunk-ce5654da6d9426c044b695106c4aa2b8"
+    ],
+    "count": 1,
+    "create_time": 1761791285,
+    "update_time": 1761791285,
+    "_id": "Clin Drug Investig<SEP>Zhang S"
+  },
+  "Alazawi W<SEP>N Engl J Med": {
+    "chunk_ids": [
+      "chunk-ce5654da6d9426c044b695106c4aa2b8"
+    ],
+    "count": 1,
+    "create_time": 1761791285,
+    "update_time": 1761791285,
+    "_id": "Alazawi W<SEP>N Engl J Med"
+  },
+  "COVINTOC<SEP>Soin AS": {
+    "chunk_ids": [
+      "chunk-ce5654da6d9426c044b695106c4aa2b8"
+    ],
+    "count": 1,
+    "create_time": 1761791285,
+    "update_time": 1761791285,
+    "_id": "COVINTOC<SEP>Soin AS"
+  },
+  "E484K<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-b494139a91f9118736292a4317ea00c8",
+      "chunk-dc9977325cdee13a132c8b548d9e9b97"
+    ],
+    "count": 2,
+    "create_time": 1761791285,
+    "update_time": 1761791285,
+    "_id": "E484K<SEP>SARS-CoV-2"
+  },
+  "Kanoni S<SEP>N Engl J Med": {
+    "chunk_ids": [
+      "chunk-ce5654da6d9426c044b695106c4aa2b8"
+    ],
+    "count": 1,
+    "create_time": 1761791286,
+    "update_time": 1761791286,
+    "_id": "Kanoni S<SEP>N Engl J Med"
+  },
+  "Interleukin-6 Receptor Antagonists<SEP>Tocilizumab": {
+    "chunk_ids": [
+      "chunk-ce5654da6d9426c044b695106c4aa2b8"
+    ],
+    "count": 1,
+    "create_time": 1761791286,
+    "update_time": 1761791286,
+    "_id": "Interleukin-6 Receptor Antagonists<SEP>Tocilizumab"
+  },
+  "BNT162b2 Vaccine<SEP>FDA": {
+    "chunk_ids": [
+      "chunk-2415f0ecad61f32f0f796518d46fff67"
+    ],
+    "count": 1,
+    "create_time": 1761791286,
+    "update_time": 1761791286,
+    "_id": "BNT162b2 Vaccine<SEP>FDA"
+  },
+  "P681H<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-b494139a91f9118736292a4317ea00c8"
+    ],
+    "count": 1,
+    "create_time": 1761791286,
+    "update_time": 1761791286,
+    "_id": "P681H<SEP>SARS-CoV-2"
+  },
+  "COVINTOC<SEP>Kumar K": {
+    "chunk_ids": [
+      "chunk-ce5654da6d9426c044b695106c4aa2b8"
+    ],
+    "count": 1,
+    "create_time": 1761791286,
+    "update_time": 1761791286,
+    "_id": "COVINTOC<SEP>Kumar K"
+  },
+  "COVID-19<SEP>mRNA-1273 Vaccine": {
+    "chunk_ids": [
+      "chunk-2415f0ecad61f32f0f796518d46fff67"
+    ],
+    "count": 1,
+    "create_time": 1761791286,
+    "update_time": 1761791286,
+    "_id": "COVID-19<SEP>mRNA-1273 Vaccine"
+  },
+  "Inactivated Virus Vaccines<SEP>Live Attenuated Virus Vaccines": {
+    "chunk_ids": [
+      "chunk-2415f0ecad61f32f0f796518d46fff67"
+    ],
+    "count": 1,
+    "create_time": 1761791286,
+    "update_time": 1761791286,
+    "_id": "Inactivated Virus Vaccines<SEP>Live Attenuated Virus Vaccines"
+  },
+  "Phase I Clinical Trial<SEP>mRNA-1273 Vaccine": {
+    "chunk_ids": [
+      "chunk-2415f0ecad61f32f0f796518d46fff67"
+    ],
+    "count": 1,
+    "create_time": 1761791286,
+    "update_time": 1761791286,
+    "_id": "Phase I Clinical Trial<SEP>mRNA-1273 Vaccine"
+  },
+  "BNT162b2 Vaccine<SEP>COVID-19": {
+    "chunk_ids": [
+      "chunk-2415f0ecad61f32f0f796518d46fff67"
+    ],
+    "count": 1,
+    "create_time": 1761791286,
+    "update_time": 1761791286,
+    "_id": "BNT162b2 Vaccine<SEP>COVID-19"
+  },
+  "COVINTOC<SEP>Choudhary NS": {
+    "chunk_ids": [
+      "chunk-ce5654da6d9426c044b695106c4aa2b8"
+    ],
+    "count": 1,
+    "create_time": 1761791286,
+    "update_time": 1761791286,
+    "_id": "COVINTOC<SEP>Choudhary NS"
+  },
+  "Cui J<SEP>Nat Rev Microbiol": {
+    "chunk_ids": [
+      "chunk-0783a0a835b268a035494c1cf8ad3ee5"
+    ],
+    "count": 1,
+    "create_time": 1761791286,
+    "update_time": 1761791286,
+    "_id": "Cui J<SEP>Nat Rev Microbiol"
+  },
+  "COVID-19 mRNA Vaccines<SEP>mRNA-1273 Vaccine": {
+    "chunk_ids": [
+      "chunk-2415f0ecad61f32f0f796518d46fff67"
+    ],
+    "count": 1,
+    "create_time": 1761791286,
+    "update_time": 1761791286,
+    "_id": "COVID-19 mRNA Vaccines<SEP>mRNA-1273 Vaccine"
+  },
+  "Li F<SEP>Nat Rev Microbiol": {
+    "chunk_ids": [
+      "chunk-0783a0a835b268a035494c1cf8ad3ee5"
+    ],
+    "count": 1,
+    "create_time": 1761791286,
+    "update_time": 1761791286,
+    "_id": "Li F<SEP>Nat Rev Microbiol"
+  },
+  "Chan JF<SEP>Lancet": {
+    "chunk_ids": [
+      "chunk-0783a0a835b268a035494c1cf8ad3ee5"
+    ],
+    "count": 1,
+    "create_time": 1761791286,
+    "update_time": 1761791286,
+    "_id": "Chan JF<SEP>Lancet"
+  },
+  "BNT162b2 Vaccine<SEP>India Variant (B.1.617.2)": {
+    "chunk_ids": [
+      "chunk-2415f0ecad61f32f0f796518d46fff67"
+    ],
+    "count": 1,
+    "create_time": 1761791286,
+    "update_time": 1761791286,
+    "_id": "BNT162b2 Vaccine<SEP>India Variant (B.1.617.2)"
+  },
+  "N Engl J Med<SEP>Phan LT": {
+    "chunk_ids": [
+      "chunk-0783a0a835b268a035494c1cf8ad3ee5"
+    ],
+    "count": 1,
+    "create_time": 1761791286,
+    "update_time": 1761791286,
+    "_id": "N Engl J Med<SEP>Phan LT"
+  },
+  "JAMA<SEP>Wang D": {
+    "chunk_ids": [
+      "chunk-0783a0a835b268a035494c1cf8ad3ee5"
+    ],
+    "count": 1,
+    "create_time": 1761791286,
+    "update_time": 1761791286,
+    "_id": "JAMA<SEP>Wang D"
+  },
+  "COVID-19 Variants<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-0783a0a835b268a035494c1cf8ad3ee5",
+      "chunk-ce3bd37fe1aaaf4844a65730510fce83"
+    ],
+    "count": 2,
+    "create_time": 1761791287,
+    "update_time": 1761791287,
+    "_id": "COVID-19 Variants<SEP>SARS-CoV-2"
+  },
+  "Nat Rev Microbiol<SEP>Shi ZL": {
+    "chunk_ids": [
+      "chunk-0783a0a835b268a035494c1cf8ad3ee5"
+    ],
+    "count": 1,
+    "create_time": 1761791287,
+    "update_time": 1761791287,
+    "_id": "Nat Rev Microbiol<SEP>Shi ZL"
+  },
+  "Dina Moustafa Abo El-Ella<SEP>Translational Cancer Research Facility": {
+    "chunk_ids": [
+      "chunk-0783a0a835b268a035494c1cf8ad3ee5"
+    ],
+    "count": 1,
+    "create_time": 1761791287,
+    "update_time": 1761791287,
+    "_id": "Dina Moustafa Abo El-Ella<SEP>Translational Cancer Research Facility"
+  },
+  "BNT162b2 Vaccine<SEP>COVID-19 mRNA Vaccines": {
+    "chunk_ids": [
+      "chunk-2415f0ecad61f32f0f796518d46fff67"
+    ],
+    "count": 1,
+    "create_time": 1761791287,
+    "update_time": 1761791287,
+    "_id": "BNT162b2 Vaccine<SEP>COVID-19 mRNA Vaccines"
+  },
+  "Hamad General Hospital<SEP>Shahab Uddin": {
+    "chunk_ids": [
+      "chunk-0783a0a835b268a035494c1cf8ad3ee5"
+    ],
+    "count": 1,
+    "create_time": 1761791287,
+    "update_time": 1761791287,
+    "_id": "Hamad General Hospital<SEP>Shahab Uddin"
+  },
+  "NVX-CoV2373<SEP>Novavax": {
+    "chunk_ids": [
+      "chunk-c5934df4a227a1b2ad45cbefd136bd04"
+    ],
+    "count": 1,
+    "create_time": 1761791287,
+    "update_time": 1761791287,
+    "_id": "NVX-CoV2373<SEP>Novavax"
+  },
+  "Matrix-M<SEP>NVX-CoV2373": {
+    "chunk_ids": [
+      "chunk-c5934df4a227a1b2ad45cbefd136bd04",
+      "chunk-6537690b487b6e3ab7d5ee5af21c0f15"
+    ],
+    "count": 2,
+    "create_time": 1761791288,
+    "update_time": 1761791288,
+    "_id": "Matrix-M<SEP>NVX-CoV2373"
+  },
+  "NVX-CoV2373<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-c5934df4a227a1b2ad45cbefd136bd04"
+    ],
+    "count": 1,
+    "create_time": 1761791288,
+    "update_time": 1761791288,
+    "_id": "NVX-CoV2373<SEP>SARS-CoV-2"
+  },
+  "NVX-CoV2373<SEP>Phase 1-2 Clinical Trial": {
+    "chunk_ids": [
+      "chunk-c5934df4a227a1b2ad45cbefd136bd04"
+    ],
+    "count": 1,
+    "create_time": 1761791288,
+    "update_time": 1761791288,
+    "_id": "NVX-CoV2373<SEP>Phase 1-2 Clinical Trial"
+  },
+  "Takwa Bedhiafi<SEP>Translational Cancer Research Facility": {
+    "chunk_ids": [
+      "chunk-0783a0a835b268a035494c1cf8ad3ee5"
+    ],
+    "count": 1,
+    "create_time": 1761791288,
+    "update_time": 1761791288,
+    "_id": "Takwa Bedhiafi<SEP>Translational Cancer Research Facility"
+  },
+  "Phase 1-2 Clinical Trial<SEP>United Kingdom": {
+    "chunk_ids": [
+      "chunk-c5934df4a227a1b2ad45cbefd136bd04"
+    ],
+    "count": 1,
+    "create_time": 1761791289,
+    "update_time": 1761791289,
+    "_id": "Phase 1-2 Clinical Trial<SEP>United Kingdom"
+  },
+  "Afsheen Raza<SEP>Translational Cancer Research Facility": {
+    "chunk_ids": [
+      "chunk-0783a0a835b268a035494c1cf8ad3ee5"
+    ],
+    "count": 1,
+    "create_time": 1761791289,
+    "update_time": 1761791289,
+    "_id": "Afsheen Raza<SEP>Translational Cancer Research Facility"
+  },
+  "Northern Ireland<SEP>Phase 1-2 Clinical Trial": {
+    "chunk_ids": [
+      "chunk-c5934df4a227a1b2ad45cbefd136bd04"
+    ],
+    "count": 1,
+    "create_time": 1761791289,
+    "update_time": 1761791289,
+    "_id": "Northern Ireland<SEP>Phase 1-2 Clinical Trial"
+  },
+  "Mariam Ali Yousuf Al-Nesf<SEP>Translational Cancer Research Facility": {
+    "chunk_ids": [
+      "chunk-0783a0a835b268a035494c1cf8ad3ee5"
+    ],
+    "count": 1,
+    "create_time": 1761791289,
+    "update_time": 1761791289,
+    "_id": "Mariam Ali Yousuf Al-Nesf<SEP>Translational Cancer Research Facility"
+  },
+  "B.1.1.7<SEP>NVX-CoV2373": {
+    "chunk_ids": [
+      "chunk-c5934df4a227a1b2ad45cbefd136bd04"
+    ],
+    "count": 1,
+    "create_time": 1761791289,
+    "update_time": 1761791289,
+    "_id": "B.1.1.7<SEP>NVX-CoV2373"
+  },
+  "Mexico<SEP>Phase 1-2 Clinical Trial": {
+    "chunk_ids": [
+      "chunk-c5934df4a227a1b2ad45cbefd136bd04"
+    ],
+    "count": 1,
+    "create_time": 1761791289,
+    "update_time": 1761791289,
+    "_id": "Mexico<SEP>Phase 1-2 Clinical Trial"
+  },
+  "NVX-CoV2373<SEP>Protein Subunit Vaccines": {
+    "chunk_ids": [
+      "chunk-c5934df4a227a1b2ad45cbefd136bd04"
+    ],
+    "count": 1,
+    "create_time": 1761791290,
+    "update_time": 1761791290,
+    "_id": "NVX-CoV2373<SEP>Protein Subunit Vaccines"
+  },
+  "Ali Ait Hssain<SEP>Translational Cancer Research Facility": {
+    "chunk_ids": [
+      "chunk-0783a0a835b268a035494c1cf8ad3ee5"
+    ],
+    "count": 1,
+    "create_time": 1761791290,
+    "update_time": 1761791290,
+    "_id": "Ali Ait Hssain<SEP>Translational Cancer Research Facility"
+  },
+  "Phase 1-2 Clinical Trial<SEP>Puerto Rico": {
+    "chunk_ids": [
+      "chunk-c5934df4a227a1b2ad45cbefd136bd04"
+    ],
+    "count": 1,
+    "create_time": 1761791290,
+    "update_time": 1761791290,
+    "_id": "Phase 1-2 Clinical Trial<SEP>Puerto Rico"
+  },
+  "Baculovirus-Spodoptera Frugiperda (Sf9)<SEP>NVX-CoV2373": {
+    "chunk_ids": [
+      "chunk-c5934df4a227a1b2ad45cbefd136bd04"
+    ],
+    "count": 1,
+    "create_time": 1761791290,
+    "update_time": 1761791290,
+    "_id": "Baculovirus-Spodoptera Frugiperda (Sf9)<SEP>NVX-CoV2373"
+  },
+  "QF<SEP>VP": {
+    "chunk_ids": [
+      "chunk-cc5ee4ccea3edd4e63785b4c4aa8e45e"
+    ],
+    "count": 1,
+    "create_time": 1761791290,
+    "update_time": 1761791290,
+    "_id": "QF<SEP>VP"
+  },
+  "Said Dermime<SEP>Translational Cancer Research Facility": {
+    "chunk_ids": [
+      "chunk-0783a0a835b268a035494c1cf8ad3ee5"
+    ],
+    "count": 1,
+    "create_time": 1761791290,
+    "update_time": 1761791290,
+    "_id": "Said Dermime<SEP>Translational Cancer Research Facility"
+  },
+  "Phase 1-2 Clinical Trial<SEP>United States of America": {
+    "chunk_ids": [
+      "chunk-c5934df4a227a1b2ad45cbefd136bd04"
+    ],
+    "count": 1,
+    "create_time": 1761791290,
+    "update_time": 1761791290,
+    "_id": "Phase 1-2 Clinical Trial<SEP>United States of America"
+  },
+  "Funding<SEP>Qatar National Library": {
+    "chunk_ids": [
+      "chunk-cc5ee4ccea3edd4e63785b4c4aa8e45e"
+    ],
+    "count": 1,
+    "create_time": 1761791290,
+    "update_time": 1761791290,
+    "_id": "Funding<SEP>Qatar National Library"
+  },
+  "NVX-CoV2373<SEP>T Cell Response": {
+    "chunk_ids": [
+      "chunk-c5934df4a227a1b2ad45cbefd136bd04"
+    ],
+    "count": 1,
+    "create_time": 1761791290,
+    "update_time": 1761791290,
+    "_id": "NVX-CoV2373<SEP>T Cell Response"
+  },
+  "Gorbalenya AE<SEP>Severe Acute Respiratory Syndrome": {
+    "chunk_ids": [
+      "chunk-cc5ee4ccea3edd4e63785b4c4aa8e45e"
+    ],
+    "count": 1,
+    "create_time": 1761791290,
+    "update_time": 1761791290,
+    "_id": "Gorbalenya AE<SEP>Severe Acute Respiratory Syndrome"
+  },
+  "Novel Coronavirus<SEP>Zhu N": {
+    "chunk_ids": [
+      "chunk-cc5ee4ccea3edd4e63785b4c4aa8e45e"
+    ],
+    "count": 1,
+    "create_time": 1761791290,
+    "update_time": 1761791290,
+    "_id": "Novel Coronavirus<SEP>Zhu N"
+  },
+  "AR<SEP>QF": {
+    "chunk_ids": [
+      "chunk-cc5ee4ccea3edd4e63785b4c4aa8e45e"
+    ],
+    "count": 1,
+    "create_time": 1761791291,
+    "update_time": 1761791291,
+    "_id": "AR<SEP>QF"
+  },
+  "Coronavirus Disease 2019<SEP>Guan WJ": {
+    "chunk_ids": [
+      "chunk-cc5ee4ccea3edd4e63785b4c4aa8e45e"
+    ],
+    "count": 1,
+    "create_time": 1761791291,
+    "update_time": 1761791291,
+    "_id": "Coronavirus Disease 2019<SEP>Guan WJ"
+  },
+  "B Cell Response<SEP>NVX-CoV2373": {
+    "chunk_ids": [
+      "chunk-c5934df4a227a1b2ad45cbefd136bd04"
+    ],
+    "count": 1,
+    "create_time": 1761791291,
+    "update_time": 1761791291,
+    "_id": "B Cell Response<SEP>NVX-CoV2373"
+  },
+  "Chan JF<SEP>Genomic Characterization": {
+    "chunk_ids": [
+      "chunk-cc5ee4ccea3edd4e63785b4c4aa8e45e"
+    ],
+    "count": 1,
+    "create_time": 1761791291,
+    "update_time": 1761791291,
+    "_id": "Chan JF<SEP>Genomic Characterization"
+  },
+  "LZ<SEP>QF": {
+    "chunk_ids": [
+      "chunk-cc5ee4ccea3edd4e63785b4c4aa8e45e"
+    ],
+    "count": 1,
+    "create_time": 1761791291,
+    "update_time": 1761791291,
+    "_id": "LZ<SEP>QF"
+  },
+  "Cultivation of Viruses<SEP>Tyrrell DA": {
+    "chunk_ids": [
+      "chunk-cc5ee4ccea3edd4e63785b4c4aa8e45e"
+    ],
+    "count": 1,
+    "create_time": 1761791291,
+    "update_time": 1761791291,
+    "_id": "Cultivation of Viruses<SEP>Tyrrell DA"
+  },
+  "Huang C<SEP>Novel Coronavirus": {
+    "chunk_ids": [
+      "chunk-cc5ee4ccea3edd4e63785b4c4aa8e45e"
+    ],
+    "count": 1,
+    "create_time": 1761791291,
+    "update_time": 1761791291,
+    "_id": "Huang C<SEP>Novel Coronavirus"
+  },
+  "Coronaviruses<SEP>Perlman S": {
+    "chunk_ids": [
+      "chunk-cc5ee4ccea3edd4e63785b4c4aa8e45e"
+    ],
+    "count": 1,
+    "create_time": 1761791291,
+    "update_time": 1761791291,
+    "_id": "Coronaviruses<SEP>Perlman S"
+  },
+  "SARS-CoV-2 Variants<SEP>WHO": {
+    "chunk_ids": [
+      "chunk-cc5ee4ccea3edd4e63785b4c4aa8e45e",
+      "chunk-cb4a59d1dc3e66480494a802eb5f562f"
+    ],
+    "count": 2,
+    "create_time": 1761791291,
+    "update_time": 1761791291,
+    "_id": "SARS-CoV-2 Variants<SEP>WHO"
+  },
+  "Disclosure Statement<SEP>QF": {
+    "chunk_ids": [
+      "chunk-cc5ee4ccea3edd4e63785b4c4aa8e45e"
+    ],
+    "count": 1,
+    "create_time": 1761791292,
+    "update_time": 1761791292,
+    "_id": "Disclosure Statement<SEP>QF"
+  },
+  "COVID-19<SEP>World Health Organization": {
+    "chunk_ids": [
+      "chunk-8da47fd3ab04bfda61202cc5b44306a4",
+      "chunk-1bd5e90caf2bb8e64acc9e5ab28dcff2"
+    ],
+    "count": 2,
+    "create_time": 1761791292,
+    "update_time": 1761791292,
+    "_id": "COVID-19<SEP>World Health Organization"
+  },
+  "Hubei Province<SEP>Wuhan": {
+    "chunk_ids": [
+      "chunk-8da47fd3ab04bfda61202cc5b44306a4",
+      "chunk-1bd5e90caf2bb8e64acc9e5ab28dcff2"
+    ],
+    "count": 2,
+    "create_time": 1761791292,
+    "update_time": 1761791292,
+    "_id": "Hubei Province<SEP>Wuhan"
+  },
+  "Coronaviridae<SEP>Tyrell and Bynoe": {
+    "chunk_ids": [
+      "chunk-8da47fd3ab04bfda61202cc5b44306a4"
+    ],
+    "count": 1,
+    "create_time": 1761791292,
+    "update_time": 1761791292,
+    "_id": "Coronaviridae<SEP>Tyrell and Bynoe"
+  },
+  "International Committee on Taxonomy of Viruses<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-8da47fd3ab04bfda61202cc5b44306a4"
+    ],
+    "count": 1,
+    "create_time": 1761791292,
+    "update_time": 1761791292,
+    "_id": "International Committee on Taxonomy of Viruses<SEP>SARS-CoV-2"
+  },
+  "CDC<SEP>SARS-CoV-2 Variants": {
+    "chunk_ids": [
+      "chunk-cc5ee4ccea3edd4e63785b4c4aa8e45e",
+      "chunk-cb4a59d1dc3e66480494a802eb5f562f"
+    ],
+    "count": 2,
+    "create_time": 1761791293,
+    "update_time": 1761791293,
+    "_id": "CDC<SEP>SARS-CoV-2 Variants"
+  },
+  "SARS-CoV-2<SEP>Viral Epidemic": {
+    "chunk_ids": [
+      "chunk-8da47fd3ab04bfda61202cc5b44306a4"
+    ],
+    "count": 1,
+    "create_time": 1761791293,
+    "update_time": 1761791293,
+    "_id": "SARS-CoV-2<SEP>Viral Epidemic"
+  },
+  "Chung JR<SEP>Influenza Incidence Surveillance Project": {
+    "chunk_ids": [
+      "chunk-a18a5bbab5af25bc2490ee22a56c55a8",
+      "chunk-f849139a3171d7c3bad48d83b0e56bf7"
+    ],
+    "count": 2,
+    "create_time": 1761791293,
+    "update_time": 1761791293,
+    "_id": "Chung JR<SEP>Influenza Incidence Surveillance Project"
+  },
+  "Flannery B<SEP>US Influenza Vaccine Effectiveness Network": {
+    "chunk_ids": [
+      "chunk-a18a5bbab5af25bc2490ee22a56c55a8"
+    ],
+    "count": 1,
+    "create_time": 1761791293,
+    "update_time": 1761791293,
+    "_id": "Flannery B<SEP>US Influenza Vaccine Effectiveness Network"
+  },
+  "Genomic Characterization<SEP>Lu R": {
+    "chunk_ids": [
+      "chunk-cc5ee4ccea3edd4e63785b4c4aa8e45e"
+    ],
+    "count": 1,
+    "create_time": 1761791293,
+    "update_time": 1761791293,
+    "_id": "Genomic Characterization<SEP>Lu R"
+  },
+  "Jiang R<SEP>Vaccine": {
+    "chunk_ids": [
+      "chunk-a18a5bbab5af25bc2490ee22a56c55a8",
+      "chunk-f849139a3171d7c3bad48d83b0e56bf7"
+    ],
+    "count": 2,
+    "create_time": 1761791293,
+    "update_time": 1761791293,
+    "_id": "Jiang R<SEP>Vaccine"
+  },
+  "Nucleocapsid Protein<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-8da47fd3ab04bfda61202cc5b44306a4",
+      "chunk-0bfad39f2750956a99fee789e546ca9b"
+    ],
+    "count": 2,
+    "create_time": 1761791293,
+    "update_time": 1761791293,
+    "_id": "Nucleocapsid Protein<SEP>SARS-CoV-2"
+  },
+  "Drug Safety<SEP>Human Papillomavirus Vaccines": {
+    "chunk_ids": [
+      "chunk-a18a5bbab5af25bc2490ee22a56c55a8"
+    ],
+    "count": 1,
+    "create_time": 1761791293,
+    "update_time": 1761791293,
+    "_id": "Drug Safety<SEP>Human Papillomavirus Vaccines"
+  },
+  "COVID-19 Candidate Vaccines<SEP>World Health Organization": {
+    "chunk_ids": [
+      "chunk-a18a5bbab5af25bc2490ee22a56c55a8",
+      "chunk-f849139a3171d7c3bad48d83b0e56bf7"
+    ],
+    "count": 2,
+    "create_time": 1761791294,
+    "update_time": 1761791294,
+    "_id": "COVID-19 Candidate Vaccines<SEP>World Health Organization"
+  },
+  "Membrane Glycoprotein<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-8da47fd3ab04bfda61202cc5b44306a4",
+      "chunk-0bfad39f2750956a99fee789e546ca9b"
+    ],
+    "count": 2,
+    "create_time": 1761791294,
+    "update_time": 1761791294,
+    "_id": "Membrane Glycoprotein<SEP>SARS-CoV-2"
+  },
+  "Athletics Championship<SEP>Noah Carter": {
+    "chunk_ids": [
+      "chunk-a18a5bbab5af25bc2490ee22a56c55a8"
+    ],
+    "count": 1,
+    "create_time": 1761791294,
+    "update_time": 1761791294,
+    "_id": "Athletics Championship<SEP>Noah Carter"
+  },
+  "Immunogenicity<SEP>Safety": {
+    "chunk_ids": [
+      "chunk-a18a5bbab5af25bc2490ee22a56c55a8"
+    ],
+    "count": 1,
+    "create_time": 1761791294,
+    "update_time": 1761791294,
+    "_id": "Immunogenicity<SEP>Safety"
+  },
+  "SARS-CoV-2<SEP>Spike Glycoprotein": {
+    "chunk_ids": [
+      "chunk-8da47fd3ab04bfda61202cc5b44306a4",
+      "chunk-0bfad39f2750956a99fee789e546ca9b"
+    ],
+    "count": 2,
+    "create_time": 1761791294,
+    "update_time": 1761791294,
+    "_id": "SARS-CoV-2<SEP>Spike Glycoprotein"
+  },
+  "PCR Fragment<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-90dfb33ebd8b6695b6eb243fc4a55781"
+    ],
+    "count": 1,
+    "create_time": 1761791294,
+    "update_time": 1761791294,
+    "_id": "PCR Fragment<SEP>SARS-CoV-2"
+  },
+  "Immunogenicity<SEP>Phase IV Clinical Trial": {
+    "chunk_ids": [
+      "chunk-a18a5bbab5af25bc2490ee22a56c55a8"
+    ],
+    "count": 1,
+    "create_time": 1761791294,
+    "update_time": 1761791294,
+    "_id": "Immunogenicity<SEP>Phase IV Clinical Trial"
+  },
+  "Immuno-Assay<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-90dfb33ebd8b6695b6eb243fc4a55781"
+    ],
+    "count": 1,
+    "create_time": 1761791295,
+    "update_time": 1761791295,
+    "_id": "Immuno-Assay<SEP>SARS-CoV-2"
+  },
+  "COVID-19<SEP>Remdesivir": {
+    "chunk_ids": [
+      "chunk-90dfb33ebd8b6695b6eb243fc4a55781",
+      "chunk-f542171328bc39729060fbc8ff577681",
+      "chunk-2b577370572f3abc47d20a85c1e6bec3"
+    ],
+    "count": 3,
+    "create_time": 1761791295,
+    "update_time": 1761791295,
+    "_id": "COVID-19<SEP>Remdesivir"
+  },
+  "Anti-SARS-CoV-2 Antibody<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-90dfb33ebd8b6695b6eb243fc4a55781"
+    ],
+    "count": 1,
+    "create_time": 1761791295,
+    "update_time": 1761791295,
+    "_id": "Anti-SARS-CoV-2 Antibody<SEP>SARS-CoV-2"
+  },
+  "Enzyme Linked Immunosorbent Assays (ELISA)<SEP>Immuno-Assay": {
+    "chunk_ids": [
+      "chunk-90dfb33ebd8b6695b6eb243fc4a55781"
+    ],
+    "count": 1,
+    "create_time": 1761791295,
+    "update_time": 1761791295,
+    "_id": "Enzyme Linked Immunosorbent Assays (ELISA)<SEP>Immuno-Assay"
+  },
+  "Clinical Specimens<SEP>Immuno-Assay": {
+    "chunk_ids": [
+      "chunk-90dfb33ebd8b6695b6eb243fc4a55781"
+    ],
+    "count": 1,
+    "create_time": 1761791295,
+    "update_time": 1761791295,
+    "_id": "Clinical Specimens<SEP>Immuno-Assay"
+  },
+  "SARS-CoV-2<SEP>SARS-CoV-2 Variants of Concern (VOCs)": {
+    "chunk_ids": [
+      "chunk-90dfb33ebd8b6695b6eb243fc4a55781"
+    ],
+    "count": 1,
+    "create_time": 1761791295,
+    "update_time": 1761791295,
+    "_id": "SARS-CoV-2<SEP>SARS-CoV-2 Variants of Concern (VOCs)"
+  },
+  "Anti-SARS-CoV-2 Antibody<SEP>IgM": {
+    "chunk_ids": [
+      "chunk-90dfb33ebd8b6695b6eb243fc4a55781"
+    ],
+    "count": 1,
+    "create_time": 1761791295,
+    "update_time": 1761791295,
+    "_id": "Anti-SARS-CoV-2 Antibody<SEP>IgM"
+  },
+  "Cynomolgus Macaque<SEP>NVX-CoV2373": {
+    "chunk_ids": [
+      "chunk-24854732d58a0cfe449336f2148986eb"
+    ],
+    "count": 1,
+    "create_time": 1761791295,
+    "update_time": 1761791295,
+    "_id": "Cynomolgus Macaque<SEP>NVX-CoV2373"
+  },
+  "Immuno-Assay<SEP>Novel Sensor and Biosensor Technologies": {
+    "chunk_ids": [
+      "chunk-90dfb33ebd8b6695b6eb243fc4a55781"
+    ],
+    "count": 1,
+    "create_time": 1761791296,
+    "update_time": 1761791296,
+    "_id": "Immuno-Assay<SEP>Novel Sensor and Biosensor Technologies"
+  },
+  "Anti-SARS-CoV-2 Antibody<SEP>IgG": {
+    "chunk_ids": [
+      "chunk-90dfb33ebd8b6695b6eb243fc4a55781"
+    ],
+    "count": 1,
+    "create_time": 1761791296,
+    "update_time": 1761791296,
+    "_id": "Anti-SARS-CoV-2 Antibody<SEP>IgG"
+  },
+  "Molnupiravir<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-24854732d58a0cfe449336f2148986eb",
+      "chunk-164002d25ffd9cbe6d0d28236e7610f6",
+      "chunk-6537690b487b6e3ab7d5ee5af21c0f15"
+    ],
+    "count": 3,
+    "create_time": 1761791296,
+    "update_time": 1761791296,
+    "_id": "Molnupiravir<SEP>SARS-CoV-2"
+  },
+  "Keech CMD<SEP>NVX-CoV2373": {
+    "chunk_ids": [
+      "chunk-24854732d58a0cfe449336f2148986eb"
+    ],
+    "count": 1,
+    "create_time": 1761791296,
+    "update_time": 1761791296,
+    "_id": "Keech CMD<SEP>NVX-CoV2373"
+  },
+  "Heath PT<SEP>NVX-CoV2373": {
+    "chunk_ids": [
+      "chunk-24854732d58a0cfe449336f2148986eb"
+    ],
+    "count": 1,
+    "create_time": 1761791297,
+    "update_time": 1761791297,
+    "_id": "Heath PT<SEP>NVX-CoV2373"
+  },
+  "Paxlovid<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-24854732d58a0cfe449336f2148986eb",
+      "chunk-6537690b487b6e3ab7d5ee5af21c0f15"
+    ],
+    "count": 2,
+    "create_time": 1761791297,
+    "update_time": 1761791297,
+    "_id": "Paxlovid<SEP>SARS-CoV-2"
+  },
+  "Gordon CJ<SEP>Molnupiravir": {
+    "chunk_ids": [
+      "chunk-24854732d58a0cfe449336f2148986eb"
+    ],
+    "count": 1,
+    "create_time": 1761791297,
+    "update_time": 1761791297,
+    "_id": "Gordon CJ<SEP>Molnupiravir"
+  },
+  "NVX-CoV2373<SEP>New England Journal of Medicine": {
+    "chunk_ids": [
+      "chunk-24854732d58a0cfe449336f2148986eb"
+    ],
+    "count": 1,
+    "create_time": 1761791297,
+    "update_time": 1761791297,
+    "_id": "NVX-CoV2373<SEP>New England Journal of Medicine"
+  },
+  "COVID-19 Vaccine (Vero Cell) Inactivated<SEP>Sinovac": {
+    "chunk_ids": [
+      "chunk-306854c102d9f44210a9fd90efc41b9c"
+    ],
+    "count": 1,
+    "create_time": 1761791297,
+    "update_time": 1761791297,
+    "_id": "COVID-19 Vaccine (Vero Cell) Inactivated<SEP>Sinovac"
+  },
+  "J Biological Chemistry<SEP>Molnupiravir": {
+    "chunk_ids": [
+      "chunk-24854732d58a0cfe449336f2148986eb"
+    ],
+    "count": 1,
+    "create_time": 1761791297,
+    "update_time": 1761791297,
+    "_id": "J Biological Chemistry<SEP>Molnupiravir"
+  },
+  "ChAdOx1 nCoV-19<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-24854732d58a0cfe449336f2148986eb"
+    ],
+    "count": 1,
+    "create_time": 1761791297,
+    "update_time": 1761791297,
+    "_id": "ChAdOx1 nCoV-19<SEP>SARS-CoV-2"
+  },
+  "Molnupiravir<SEP>Nature Structural & Molecular Biology": {
+    "chunk_ids": [
+      "chunk-24854732d58a0cfe449336f2148986eb"
+    ],
+    "count": 1,
+    "create_time": 1761791297,
+    "update_time": 1761791297,
+    "_id": "Molnupiravir<SEP>Nature Structural & Molecular Biology"
+  },
+  "China<SEP>Sinovac": {
+    "chunk_ids": [
+      "chunk-306854c102d9f44210a9fd90efc41b9c"
+    ],
+    "count": 1,
+    "create_time": 1761791298,
+    "update_time": 1761791298,
+    "_id": "China<SEP>Sinovac"
+  },
+  "COVID-19 Vaccine (Vero Cell) Inactivated<SEP>WHO": {
+    "chunk_ids": [
+      "chunk-306854c102d9f44210a9fd90efc41b9c"
+    ],
+    "count": 1,
+    "create_time": 1761791298,
+    "update_time": 1761791298,
+    "_id": "COVID-19 Vaccine (Vero Cell) Inactivated<SEP>WHO"
+  },
+  "Brazil<SEP>COVID-19 Vaccine (Vero Cell) Inactivated": {
+    "chunk_ids": [
+      "chunk-306854c102d9f44210a9fd90efc41b9c",
+      "chunk-5b5dbe63f945f3d4429f1f540c762c40"
+    ],
+    "count": 2,
+    "create_time": 1761791298,
+    "update_time": 1761791298,
+    "_id": "Brazil<SEP>COVID-19 Vaccine (Vero Cell) Inactivated"
+  },
+  "Hamad Bin Khalifa University<SEP>Hamad Medical Corporation": {
+    "chunk_ids": [
+      "chunk-1bd5e90caf2bb8e64acc9e5ab28dcff2"
+    ],
+    "count": 1,
+    "create_time": 1761791298,
+    "update_time": 1761791298,
+    "_id": "Hamad Bin Khalifa University<SEP>Hamad Medical Corporation"
+  },
+  "Sinopharm<SEP>Sinovac": {
+    "chunk_ids": [
+      "chunk-306854c102d9f44210a9fd90efc41b9c"
+    ],
+    "count": 1,
+    "create_time": 1761791298,
+    "update_time": 1761791298,
+    "_id": "Sinopharm<SEP>Sinovac"
+  },
+  "Hamad Medical Corporation<SEP>University of Bern": {
+    "chunk_ids": [
+      "chunk-1bd5e90caf2bb8e64acc9e5ab28dcff2"
+    ],
+    "count": 1,
+    "create_time": 1761791298,
+    "update_time": 1761791298,
+    "_id": "Hamad Medical Corporation<SEP>University of Bern"
+  },
+  "SARS-CoV-2<SEP>Science Translational Medicine": {
+    "chunk_ids": [
+      "chunk-24854732d58a0cfe449336f2148986eb"
+    ],
+    "count": 1,
+    "create_time": 1761791298,
+    "update_time": 1761791298,
+    "_id": "SARS-CoV-2<SEP>Science Translational Medicine"
+  },
+  "COVID-19 Vaccine (Vero Cell) Inactivated<SEP>Turkey": {
+    "chunk_ids": [
+      "chunk-306854c102d9f44210a9fd90efc41b9c",
+      "chunk-5b5dbe63f945f3d4429f1f540c762c40"
+    ],
+    "count": 2,
+    "create_time": 1761791298,
+    "update_time": 1761791298,
+    "_id": "COVID-19 Vaccine (Vero Cell) Inactivated<SEP>Turkey"
+  },
+  "Hamad Medical Corporation<SEP>University of Oxford": {
+    "chunk_ids": [
+      "chunk-1bd5e90caf2bb8e64acc9e5ab28dcff2"
+    ],
+    "count": 1,
+    "create_time": 1761791298,
+    "update_time": 1761791298,
+    "_id": "Hamad Medical Corporation<SEP>University of Oxford"
+  },
+  "Omicron<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-1bd5e90caf2bb8e64acc9e5ab28dcff2"
+    ],
+    "count": 1,
+    "create_time": 1761791299,
+    "update_time": 1761791299,
+    "_id": "Omicron<SEP>SARS-CoV-2"
+  },
+  "COVID-19 Vaccine (Vero Cell) Inactivated<SEP>Macaca Mulatta": {
+    "chunk_ids": [
+      "chunk-306854c102d9f44210a9fd90efc41b9c"
+    ],
+    "count": 1,
+    "create_time": 1761791299,
+    "update_time": 1761791299,
+    "_id": "COVID-19 Vaccine (Vero Cell) Inactivated<SEP>Macaca Mulatta"
+  },
+  "Hamad Medical Corporation<SEP>Said Dermime": {
+    "chunk_ids": [
+      "chunk-1bd5e90caf2bb8e64acc9e5ab28dcff2"
+    ],
+    "count": 1,
+    "create_time": 1761791299,
+    "update_time": 1761791299,
+    "_id": "Hamad Medical Corporation<SEP>Said Dermime"
+  },
+  "Hamad Medical Corporation<SEP>Maysaloun Merhi": {
+    "chunk_ids": [
+      "chunk-1bd5e90caf2bb8e64acc9e5ab28dcff2"
+    ],
+    "count": 1,
+    "create_time": 1761791299,
+    "update_time": 1761791299,
+    "_id": "Hamad Medical Corporation<SEP>Maysaloun Merhi"
+  },
+  "Chimpanzee Vectors<SEP>Ebola Vaccine": {
+    "chunk_ids": [
+      "chunk-0d061c21fc85caf7325966660f802be7"
+    ],
+    "count": 1,
+    "create_time": 1761791299,
+    "update_time": 1761791299,
+    "_id": "Chimpanzee Vectors<SEP>Ebola Vaccine"
+  },
+  "Hamad Medical Corporation<SEP>Sarra Mestiri": {
+    "chunk_ids": [
+      "chunk-1bd5e90caf2bb8e64acc9e5ab28dcff2"
+    ],
+    "count": 1,
+    "create_time": 1761791299,
+    "update_time": 1761791299,
+    "_id": "Hamad Medical Corporation<SEP>Sarra Mestiri"
+  },
+  "Chimpanzee Vectors<SEP>Malaria Vaccine": {
+    "chunk_ids": [
+      "chunk-0d061c21fc85caf7325966660f802be7"
+    ],
+    "count": 1,
+    "create_time": 1761791300,
+    "update_time": 1761791300,
+    "_id": "Chimpanzee Vectors<SEP>Malaria Vaccine"
+  },
+  "Hamad Medical Corporation<SEP>Nassiba Taib": {
+    "chunk_ids": [
+      "chunk-1bd5e90caf2bb8e64acc9e5ab28dcff2"
+    ],
+    "count": 1,
+    "create_time": 1761791300,
+    "update_time": 1761791300,
+    "_id": "Hamad Medical Corporation<SEP>Nassiba Taib"
+  },
+  "Hamad Medical Corporation<SEP>Lobna Al-Zaidan": {
+    "chunk_ids": [
+      "chunk-1bd5e90caf2bb8e64acc9e5ab28dcff2"
+    ],
+    "count": 1,
+    "create_time": 1761791300,
+    "update_time": 1761791300,
+    "_id": "Hamad Medical Corporation<SEP>Lobna Al-Zaidan"
+  },
+  "AZD1222 Vaccine<SEP>World Health Organization": {
+    "chunk_ids": [
+      "chunk-0d061c21fc85caf7325966660f802be7"
+    ],
+    "count": 1,
+    "create_time": 1761791300,
+    "update_time": 1761791300,
+    "_id": "AZD1222 Vaccine<SEP>World Health Organization"
+  },
+  "Chimpanzee Vectors<SEP>HIV Vaccine": {
+    "chunk_ids": [
+      "chunk-0d061c21fc85caf7325966660f802be7"
+    ],
+    "count": 1,
+    "create_time": 1761791300,
+    "update_time": 1761791300,
+    "_id": "Chimpanzee Vectors<SEP>HIV Vaccine"
+  },
+  "AZD1222 Vaccine<SEP>Clinical Trials": {
+    "chunk_ids": [
+      "chunk-0d061c21fc85caf7325966660f802be7",
+      "chunk-0f6cf3a778132d5b8450f1b918dd5c9f"
+    ],
+    "count": 2,
+    "create_time": 1761791300,
+    "update_time": 1761791300,
+    "_id": "AZD1222 Vaccine<SEP>Clinical Trials"
+  },
+  "Chimpanzee Vectors<SEP>Crohn Disease Vaccine": {
+    "chunk_ids": [
+      "chunk-0d061c21fc85caf7325966660f802be7"
+    ],
+    "count": 1,
+    "create_time": 1761791300,
+    "update_time": 1761791300,
+    "_id": "Chimpanzee Vectors<SEP>Crohn Disease Vaccine"
+  },
+  "SARS-CoV-2<SEP>Spike Protein": {
+    "chunk_ids": [
+      "chunk-0d061c21fc85caf7325966660f802be7",
+      "chunk-a06be5698bde2a8fa0e5e10b2d87875c"
+    ],
+    "count": 2,
+    "create_time": 1761791300,
+    "update_time": 1761791300,
+    "_id": "SARS-CoV-2<SEP>Spike Protein"
+  },
+  "Hamad Medical Corporation<SEP>Mona O. Mohsen": {
+    "chunk_ids": [
+      "chunk-1bd5e90caf2bb8e64acc9e5ab28dcff2"
+    ],
+    "count": 1,
+    "create_time": 1761791301,
+    "update_time": 1761791301,
+    "_id": "Hamad Medical Corporation<SEP>Mona O. Mohsen"
+  },
+  "Current Diagnostic Methods<SEP>Falzone L": {
+    "chunk_ids": [
+      "chunk-cb4a59d1dc3e66480494a802eb5f562f"
+    ],
+    "count": 1,
+    "create_time": 1761791301,
+    "update_time": 1761791301,
+    "_id": "Current Diagnostic Methods<SEP>Falzone L"
+  },
+  "AZD1222 Vaccine<SEP>European Countries": {
+    "chunk_ids": [
+      "chunk-0d061c21fc85caf7325966660f802be7"
+    ],
+    "count": 1,
+    "create_time": 1761791301,
+    "update_time": 1761791301,
+    "_id": "AZD1222 Vaccine<SEP>European Countries"
+  },
+  "Mautner L<SEP>Rapid Detection Methods": {
+    "chunk_ids": [
+      "chunk-cb4a59d1dc3e66480494a802eb5f562f"
+    ],
+    "count": 1,
+    "create_time": 1761791301,
+    "update_time": 1761791301,
+    "_id": "Mautner L<SEP>Rapid Detection Methods"
+  },
+  "Broughton JP<SEP>CRISPR-Cas12 Detection": {
+    "chunk_ids": [
+      "chunk-cb4a59d1dc3e66480494a802eb5f562f"
+    ],
+    "count": 1,
+    "create_time": 1761791301,
+    "update_time": 1761791301,
+    "_id": "Broughton JP<SEP>CRISPR-Cas12 Detection"
+  },
+  "Hadi Mohamad Yassine<SEP>Hamad Medical Corporation": {
+    "chunk_ids": [
+      "chunk-1bd5e90caf2bb8e64acc9e5ab28dcff2"
+    ],
+    "count": 1,
+    "create_time": 1761791301,
+    "update_time": 1761791301,
+    "_id": "Hadi Mohamad Yassine<SEP>Hamad Medical Corporation"
+  },
+  "APL Bioeng<SEP>Alpdagtas S": {
+    "chunk_ids": [
+      "chunk-cb4a59d1dc3e66480494a802eb5f562f"
+    ],
+    "count": 1,
+    "create_time": 1761791301,
+    "update_time": 1761791301,
+    "_id": "APL Bioeng<SEP>Alpdagtas S"
+  },
+  "Lancet Infect Dis<SEP>Tsang NNY": {
+    "chunk_ids": [
+      "chunk-cb4a59d1dc3e66480494a802eb5f562f"
+    ],
+    "count": 1,
+    "create_time": 1761791301,
+    "update_time": 1761791301,
+    "_id": "Lancet Infect Dis<SEP>Tsang NNY"
+  },
+  "J Clin Microbiol<SEP>Tahan S": {
+    "chunk_ids": [
+      "chunk-cb4a59d1dc3e66480494a802eb5f562f"
+    ],
+    "count": 1,
+    "create_time": 1761791301,
+    "update_time": 1761791301,
+    "_id": "J Clin Microbiol<SEP>Tahan S"
+  },
+  "Hamad Medical Corporation<SEP>Martin F. Bachmann": {
+    "chunk_ids": [
+      "chunk-1bd5e90caf2bb8e64acc9e5ab28dcff2"
+    ],
+    "count": 1,
+    "create_time": 1761791301,
+    "update_time": 1761791301,
+    "_id": "Hamad Medical Corporation<SEP>Martin F. Bachmann"
+  },
+  "Falzone L<SEP>Int J Mol Med": {
+    "chunk_ids": [
+      "chunk-cb4a59d1dc3e66480494a802eb5f562f"
+    ],
+    "count": 1,
+    "create_time": 1761791301,
+    "update_time": 1761791301,
+    "_id": "Falzone L<SEP>Int J Mol Med"
+  },
+  "Puvar AP<SEP>medRxiv": {
+    "chunk_ids": [
+      "chunk-cb4a59d1dc3e66480494a802eb5f562f"
+    ],
+    "count": 1,
+    "create_time": 1761791301,
+    "update_time": 1761791301,
+    "_id": "Puvar AP<SEP>medRxiv"
+  },
+  "Mautner L<SEP>Virol J": {
+    "chunk_ids": [
+      "chunk-cb4a59d1dc3e66480494a802eb5f562f"
+    ],
+    "count": 1,
+    "create_time": 1761791301,
+    "update_time": 1761791301,
+    "_id": "Mautner L<SEP>Virol J"
+  },
+  "Microbiol Spectr<SEP>Zelyas N": {
+    "chunk_ids": [
+      "chunk-cb4a59d1dc3e66480494a802eb5f562f"
+    ],
+    "count": 1,
+    "create_time": 1761791301,
+    "update_time": 1761791301,
+    "_id": "Microbiol Spectr<SEP>Zelyas N"
+  },
+  "Giovacchini N<SEP>Int J Infect Dis": {
+    "chunk_ids": [
+      "chunk-cb4a59d1dc3e66480494a802eb5f562f"
+    ],
+    "count": 1,
+    "create_time": 1761791302,
+    "update_time": 1761791302,
+    "_id": "Giovacchini N<SEP>Int J Infect Dis"
+  },
+  "Broughton JP<SEP>Nat Biotechnol": {
+    "chunk_ids": [
+      "chunk-cb4a59d1dc3e66480494a802eb5f562f"
+    ],
+    "count": 1,
+    "create_time": 1761791302,
+    "update_time": 1761791302,
+    "_id": "Broughton JP<SEP>Nat Biotechnol"
+  },
+  "La Rosa G<SEP>Water Res": {
+    "chunk_ids": [
+      "chunk-cb4a59d1dc3e66480494a802eb5f562f"
+    ],
+    "count": 1,
+    "create_time": 1761791302,
+    "update_time": 1761791302,
+    "_id": "La Rosa G<SEP>Water Res"
+  },
+  "Acute Respiratory Distress Syndromes<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-0bfad39f2750956a99fee789e546ca9b",
+      "chunk-d57b3ea41472c432630e5f05c35f581f"
+    ],
+    "count": 2,
+    "create_time": 1761791302,
+    "update_time": 1761791302,
+    "_id": "Acute Respiratory Distress Syndromes<SEP>SARS-CoV-2"
+  },
+  "Variants of Interest<SEP>WHO": {
+    "chunk_ids": [
+      "chunk-0bfad39f2750956a99fee789e546ca9b",
+      "chunk-d57b3ea41472c432630e5f05c35f581f"
+    ],
+    "count": 2,
+    "create_time": 1761791302,
+    "update_time": 1761791302,
+    "_id": "Variants of Interest<SEP>WHO"
+  },
+  "Variants of Concern<SEP>WHO": {
+    "chunk_ids": [
+      "chunk-0bfad39f2750956a99fee789e546ca9b",
+      "chunk-d57b3ea41472c432630e5f05c35f581f"
+    ],
+    "count": 2,
+    "create_time": 1761791302,
+    "update_time": 1761791302,
+    "_id": "Variants of Concern<SEP>WHO"
+  },
+  "SARS-CoV-2<SEP>Virulence": {
+    "chunk_ids": [
+      "chunk-0bfad39f2750956a99fee789e546ca9b"
+    ],
+    "count": 1,
+    "create_time": 1761791302,
+    "update_time": 1761791302,
+    "_id": "SARS-CoV-2<SEP>Virulence"
+  },
+  "China<SEP>Sinovac Vaccine": {
+    "chunk_ids": [
+      "chunk-fbd439f210751f278e08778f5add0bb7",
+      "chunk-0c6a11e5028c19780f412657d5fa29c5"
+    ],
+    "count": 2,
+    "create_time": 1761791302,
+    "update_time": 1761791302,
+    "_id": "China<SEP>Sinovac Vaccine"
+  },
+  "COVID-19<SEP>FDA": {
+    "chunk_ids": [
+      "chunk-fbd439f210751f278e08778f5add0bb7",
+      "chunk-0c6a11e5028c19780f412657d5fa29c5"
+    ],
+    "count": 2,
+    "create_time": 1761791302,
+    "update_time": 1761791302,
+    "_id": "COVID-19<SEP>FDA"
+  },
+  "Greek Alphabet<SEP>WHO": {
+    "chunk_ids": [
+      "chunk-0bfad39f2750956a99fee789e546ca9b"
+    ],
+    "count": 1,
+    "create_time": 1761791302,
+    "update_time": 1761791302,
+    "_id": "Greek Alphabet<SEP>WHO"
+  },
+  "Diagnostic Methods<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-0bfad39f2750956a99fee789e546ca9b"
+    ],
+    "count": 1,
+    "create_time": 1761791302,
+    "update_time": 1761791302,
+    "_id": "Diagnostic Methods<SEP>SARS-CoV-2"
+  },
+  "BBIBP-CorV Vaccine<SEP>China": {
+    "chunk_ids": [
+      "chunk-fbd439f210751f278e08778f5add0bb7"
+    ],
+    "count": 1,
+    "create_time": 1761791302,
+    "update_time": 1761791302,
+    "_id": "BBIBP-CorV Vaccine<SEP>China"
+  },
+  "Algeria<SEP>UAE Ministry of Health": {
+    "chunk_ids": [
+      "chunk-fbd439f210751f278e08778f5add0bb7"
+    ],
+    "count": 1,
+    "create_time": 1761791302,
+    "update_time": 1761791302,
+    "_id": "Algeria<SEP>UAE Ministry of Health"
+  },
+  "Morocco<SEP>Sinopharm Vaccine": {
+    "chunk_ids": [
+      "chunk-fbd439f210751f278e08778f5add0bb7"
+    ],
+    "count": 1,
+    "create_time": 1761791302,
+    "update_time": 1761791302,
+    "_id": "Morocco<SEP>Sinopharm Vaccine"
+  },
+  "SARS-CoV<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-0bfad39f2750956a99fee789e546ca9b",
+      "chunk-d57b3ea41472c432630e5f05c35f581f",
+      "chunk-34095163b30b47116fce3d2618689be5"
+    ],
+    "count": 3,
+    "create_time": 1761791303,
+    "update_time": 1761791303,
+    "_id": "SARS-CoV<SEP>SARS-CoV-2"
+  },
+  "COVID-19<SEP>UAE Ministry of Health": {
+    "chunk_ids": [
+      "chunk-fbd439f210751f278e08778f5add0bb7",
+      "chunk-0c6a11e5028c19780f412657d5fa29c5"
+    ],
+    "count": 2,
+    "create_time": 1761791303,
+    "update_time": 1761791303,
+    "_id": "COVID-19<SEP>UAE Ministry of Health"
+  },
+  "BBIBP-CorV Vaccine<SEP>Xia S": {
+    "chunk_ids": [
+      "chunk-fbd439f210751f278e08778f5add0bb7"
+    ],
+    "count": 1,
+    "create_time": 1761791303,
+    "update_time": 1761791303,
+    "_id": "BBIBP-CorV Vaccine<SEP>Xia S"
+  },
+  "MERS-CoV<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-0bfad39f2750956a99fee789e546ca9b",
+      "chunk-d57b3ea41472c432630e5f05c35f581f"
+    ],
+    "count": 2,
+    "create_time": 1761791303,
+    "update_time": 1761791303,
+    "_id": "MERS-CoV<SEP>SARS-CoV-2"
+  },
+  "COVID-19 Vaccine Tracker<SEP>Oxford/AstraZeneca Vaccine": {
+    "chunk_ids": [
+      "chunk-5627384c44748846e3ebfabc500b2f06",
+      "chunk-1f5bd39f94801f6e3906bc498e399298"
+    ],
+    "count": 2,
+    "create_time": 1761791303,
+    "update_time": 1761791303,
+    "_id": "COVID-19 Vaccine Tracker<SEP>Oxford/AstraZeneca Vaccine"
+  },
+  "ChAdOx1 nCoV-19 Vaccine<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-5627384c44748846e3ebfabc500b2f06",
+      "chunk-1f5bd39f94801f6e3906bc498e399298"
+    ],
+    "count": 2,
+    "create_time": 1761791303,
+    "update_time": 1761791303,
+    "_id": "ChAdOx1 nCoV-19 Vaccine<SEP>SARS-CoV-2"
+  },
+  "Blood Clots<SEP>Oxford/AstraZeneca Vaccine": {
+    "chunk_ids": [
+      "chunk-5627384c44748846e3ebfabc500b2f06"
+    ],
+    "count": 1,
+    "create_time": 1761791304,
+    "update_time": 1761791304,
+    "_id": "Blood Clots<SEP>Oxford/AstraZeneca Vaccine"
+  },
+  "ChAdOx1 nCoV-19 Vaccine<SEP>Phase 1/2 Trial": {
+    "chunk_ids": [
+      "chunk-5627384c44748846e3ebfabc500b2f06"
+    ],
+    "count": 1,
+    "create_time": 1761791304,
+    "update_time": 1761791304,
+    "_id": "ChAdOx1 nCoV-19 Vaccine<SEP>Phase 1/2 Trial"
+  },
+  "Ewer KJ<SEP>Folegatti PM": {
+    "chunk_ids": [
+      "chunk-5627384c44748846e3ebfabc500b2f06"
+    ],
+    "count": 1,
+    "create_time": 1761791304,
+    "update_time": 1761791304,
+    "_id": "Ewer KJ<SEP>Folegatti PM"
+  },
+  "BBIBP-CorV Vaccine<SEP>Duan K": {
+    "chunk_ids": [
+      "chunk-fbd439f210751f278e08778f5add0bb7"
+    ],
+    "count": 1,
+    "create_time": 1761791304,
+    "update_time": 1761791304,
+    "_id": "BBIBP-CorV Vaccine<SEP>Duan K"
+  },
+  "Oxford/AstraZeneca Vaccine<SEP>Thromboembolism": {
+    "chunk_ids": [
+      "chunk-5627384c44748846e3ebfabc500b2f06",
+      "chunk-1f5bd39f94801f6e3906bc498e399298"
+    ],
+    "count": 2,
+    "create_time": 1761791304,
+    "update_time": 1761791304,
+    "_id": "Oxford/AstraZeneca Vaccine<SEP>Thromboembolism"
+  },
+  "Guo J<SEP>Mondal M": {
+    "chunk_ids": [
+      "chunk-5627384c44748846e3ebfabc500b2f06"
+    ],
+    "count": 1,
+    "create_time": 1761791304,
+    "update_time": 1761791304,
+    "_id": "Guo J<SEP>Mondal M"
+  },
+  "Aley PK<SEP>Folegatti PM": {
+    "chunk_ids": [
+      "chunk-5627384c44748846e3ebfabc500b2f06"
+    ],
+    "count": 1,
+    "create_time": 1761791304,
+    "update_time": 1761791304,
+    "_id": "Aley PK<SEP>Folegatti PM"
+  },
+  "Lambe T<SEP>Rollier CS": {
+    "chunk_ids": [
+      "chunk-5627384c44748846e3ebfabc500b2f06"
+    ],
+    "count": 1,
+    "create_time": 1761791304,
+    "update_time": 1761791304,
+    "_id": "Lambe T<SEP>Rollier CS"
+  },
+  "Lund LC<SEP>Pottegård A": {
+    "chunk_ids": [
+      "chunk-5627384c44748846e3ebfabc500b2f06"
+    ],
+    "count": 1,
+    "create_time": 1761791304,
+    "update_time": 1761791304,
+    "_id": "Lund LC<SEP>Pottegård A"
+  },
+  "BBIBP-CorV<SEP>Sinopharm": {
+    "chunk_ids": [
+      "chunk-5b5dbe63f945f3d4429f1f540c762c40",
+      "chunk-1f62dd8f4fa706f61d214740d4aca4e3"
+    ],
+    "count": 2,
+    "create_time": 1761791304,
+    "update_time": 1761791304,
+    "_id": "BBIBP-CorV<SEP>Sinopharm"
+  },
+  "BBIBP-CorV Vaccine<SEP>Zhang Y": {
+    "chunk_ids": [
+      "chunk-fbd439f210751f278e08778f5add0bb7"
+    ],
+    "count": 1,
+    "create_time": 1761791304,
+    "update_time": 1761791304,
+    "_id": "BBIBP-CorV Vaccine<SEP>Zhang Y"
+  },
+  "BBIBP-CorV<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-5b5dbe63f945f3d4429f1f540c762c40",
+      "chunk-1f62dd8f4fa706f61d214740d4aca4e3"
+    ],
+    "count": 2,
+    "create_time": 1761791305,
+    "update_time": 1761791305,
+    "_id": "BBIBP-CorV<SEP>SARS-CoV-2"
+  },
+  "Al Kaabi N<SEP>BBIBP-CorV Vaccine": {
+    "chunk_ids": [
+      "chunk-fbd439f210751f278e08778f5add0bb7"
+    ],
+    "count": 1,
+    "create_time": 1761791305,
+    "update_time": 1761791305,
+    "_id": "Al Kaabi N<SEP>BBIBP-CorV Vaccine"
+  },
+  "Amino Acid Mutations<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-d57b3ea41472c432630e5f05c35f581f"
+    ],
+    "count": 1,
+    "create_time": 1761791305,
+    "update_time": 1761791305,
+    "_id": "Amino Acid Mutations<SEP>SARS-CoV-2"
+  },
+  "BBIBP-CorV<SEP>United Arab Emirates (UAE)": {
+    "chunk_ids": [
+      "chunk-5b5dbe63f945f3d4429f1f540c762c40",
+      "chunk-1f62dd8f4fa706f61d214740d4aca4e3"
+    ],
+    "count": 2,
+    "create_time": 1761791305,
+    "update_time": 1761791305,
+    "_id": "BBIBP-CorV<SEP>United Arab Emirates (UAE)"
+  },
+  "AZD1222 Vaccine<SEP>UK": {
+    "chunk_ids": [
+      "chunk-2baf1f4f2648db88606de10f45be0551"
+    ],
+    "count": 1,
+    "create_time": 1761791305,
+    "update_time": 1761791305,
+    "_id": "AZD1222 Vaccine<SEP>UK"
+  },
+  "BBIBP-CorV<SEP>Bahrain": {
+    "chunk_ids": [
+      "chunk-5b5dbe63f945f3d4429f1f540c762c40",
+      "chunk-34095163b30b47116fce3d2618689be5",
+      "chunk-1f62dd8f4fa706f61d214740d4aca4e3"
+    ],
+    "count": 3,
+    "create_time": 1761791305,
+    "update_time": 1761791305,
+    "_id": "BBIBP-CorV<SEP>Bahrain"
+  },
+  "RBD Region<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-d57b3ea41472c432630e5f05c35f581f"
+    ],
+    "count": 1,
+    "create_time": 1761791305,
+    "update_time": 1761791305,
+    "_id": "RBD Region<SEP>SARS-CoV-2"
+  },
+  "AZD1222 Vaccine<SEP>European Medicines Agency": {
+    "chunk_ids": [
+      "chunk-2baf1f4f2648db88606de10f45be0551",
+      "chunk-0f6cf3a778132d5b8450f1b918dd5c9f"
+    ],
+    "count": 2,
+    "create_time": 1761791305,
+    "update_time": 1761791305,
+    "_id": "AZD1222 Vaccine<SEP>European Medicines Agency"
+  },
+  "BBIBP-CorV<SEP>Phase I Trials": {
+    "chunk_ids": [
+      "chunk-5b5dbe63f945f3d4429f1f540c762c40"
+    ],
+    "count": 1,
+    "create_time": 1761791306,
+    "update_time": 1761791306,
+    "_id": "BBIBP-CorV<SEP>Phase I Trials"
+  },
+  "AZD1222 Vaccine<SEP>Thrombocytopenia": {
+    "chunk_ids": [
+      "chunk-2baf1f4f2648db88606de10f45be0551"
+    ],
+    "count": 1,
+    "create_time": 1761791306,
+    "update_time": 1761791306,
+    "_id": "AZD1222 Vaccine<SEP>Thrombocytopenia"
+  },
+  "Gam-COVID-Vac<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-2baf1f4f2648db88606de10f45be0551",
+      "chunk-504266ce396b2ee303462fca7cecde6e",
+      "chunk-0f6cf3a778132d5b8450f1b918dd5c9f"
+    ],
+    "count": 3,
+    "create_time": 1761791306,
+    "update_time": 1761791306,
+    "_id": "Gam-COVID-Vac<SEP>SARS-CoV-2"
+  },
+  "BBIBP-CorV<SEP>Phase II Trials": {
+    "chunk_ids": [
+      "chunk-5b5dbe63f945f3d4429f1f540c762c40"
+    ],
+    "count": 1,
+    "create_time": 1761791306,
+    "update_time": 1761791306,
+    "_id": "BBIBP-CorV<SEP>Phase II Trials"
+  },
+  "Kashir J<SEP>LAMP Assays": {
+    "chunk_ids": [
+      "chunk-461b6d7ef70b2aad9e56e16a8eb85ed7"
+    ],
+    "count": 1,
+    "create_time": 1761791306,
+    "update_time": 1761791306,
+    "_id": "Kashir J<SEP>LAMP Assays"
+  },
+  "La Rosa G<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-461b6d7ef70b2aad9e56e16a8eb85ed7"
+    ],
+    "count": 1,
+    "create_time": 1761791306,
+    "update_time": 1761791306,
+    "_id": "La Rosa G<SEP>SARS-CoV-2"
+  },
+  "Gam-COVID-Vac<SEP>rAd26": {
+    "chunk_ids": [
+      "chunk-2baf1f4f2648db88606de10f45be0551"
+    ],
+    "count": 1,
+    "create_time": 1761791306,
+    "update_time": 1761791306,
+    "_id": "Gam-COVID-Vac<SEP>rAd26"
+  },
+  "CRISPR-Cas13-based diagnostics<SEP>Gao D": {
+    "chunk_ids": [
+      "chunk-461b6d7ef70b2aad9e56e16a8eb85ed7"
+    ],
+    "count": 1,
+    "create_time": 1761791306,
+    "update_time": 1761791306,
+    "_id": "CRISPR-Cas13-based diagnostics<SEP>Gao D"
+  },
+  "Drug Treatment Options<SEP>Robinson J": {
+    "chunk_ids": [
+      "chunk-461b6d7ef70b2aad9e56e16a8eb85ed7"
+    ],
+    "count": 1,
+    "create_time": 1761791306,
+    "update_time": 1761791306,
+    "_id": "Drug Treatment Options<SEP>Robinson J"
+  },
+  "ACTT-2 Study Group<SEP>Kalil AC": {
+    "chunk_ids": [
+      "chunk-461b6d7ef70b2aad9e56e16a8eb85ed7"
+    ],
+    "count": 1,
+    "create_time": 1761791306,
+    "update_time": 1761791306,
+    "_id": "ACTT-2 Study Group<SEP>Kalil AC"
+  },
+  "Morocco<SEP>Sinopharm COVID-19 Vaccine": {
+    "chunk_ids": [
+      "chunk-f94d02beebab98a3e864c2779b99040b",
+      "chunk-0c6a11e5028c19780f412657d5fa29c5",
+      "chunk-c5d32d4ea33d3f509cec33af4a70a104"
+    ],
+    "count": 3,
+    "create_time": 1761791307,
+    "update_time": 1761791307,
+    "_id": "Morocco<SEP>Sinopharm COVID-19 Vaccine"
+  },
+  "Banada P<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-461b6d7ef70b2aad9e56e16a8eb85ed7"
+    ],
+    "count": 1,
+    "create_time": 1761791307,
+    "update_time": 1761791307,
+    "_id": "Banada P<SEP>SARS-CoV-2"
+  },
+  "Gam-COVID-Vac<SEP>rAd5": {
+    "chunk_ids": [
+      "chunk-2baf1f4f2648db88606de10f45be0551"
+    ],
+    "count": 1,
+    "create_time": 1761791307,
+    "update_time": 1761791307,
+    "_id": "Gam-COVID-Vac<SEP>rAd5"
+  },
+  "COVID-19 Vaccination<SEP>Transplant Recipients": {
+    "chunk_ids": [
+      "chunk-f94d02beebab98a3e864c2779b99040b"
+    ],
+    "count": 1,
+    "create_time": 1761791307,
+    "update_time": 1761791307,
+    "_id": "COVID-19 Vaccination<SEP>Transplant Recipients"
+  },
+  "Gam-COVID-Vac<SEP>Phase 1/2 Clinical Trials": {
+    "chunk_ids": [
+      "chunk-2baf1f4f2648db88606de10f45be0551"
+    ],
+    "count": 1,
+    "create_time": 1761791307,
+    "update_time": 1761791307,
+    "_id": "Gam-COVID-Vac<SEP>Phase 1/2 Clinical Trials"
+  },
+  "Algeria<SEP>Sinopharm COVID-19 Vaccine": {
+    "chunk_ids": [
+      "chunk-f94d02beebab98a3e864c2779b99040b"
+    ],
+    "count": 1,
+    "create_time": 1761791307,
+    "update_time": 1761791307,
+    "_id": "Algeria<SEP>Sinopharm COVID-19 Vaccine"
+  },
+  "Immunogenicity<SEP>SARS-CoV-2 Variants": {
+    "chunk_ids": [
+      "chunk-f94d02beebab98a3e864c2779b99040b"
+    ],
+    "count": 1,
+    "create_time": 1761791307,
+    "update_time": 1761791307,
+    "_id": "Immunogenicity<SEP>SARS-CoV-2 Variants"
+  },
+  "Clinical Effectiveness Study<SEP>Transplant Recipients": {
+    "chunk_ids": [
+      "chunk-f94d02beebab98a3e864c2779b99040b",
+      "chunk-c5d32d4ea33d3f509cec33af4a70a104"
+    ],
+    "count": 2,
+    "create_time": 1761791307,
+    "update_time": 1761791307,
+    "_id": "Clinical Effectiveness Study<SEP>Transplant Recipients"
+  },
+  "COVID-19 Vaccination<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-f94d02beebab98a3e864c2779b99040b"
+    ],
+    "count": 1,
+    "create_time": 1761791307,
+    "update_time": 1761791307,
+    "_id": "COVID-19 Vaccination<SEP>SARS-CoV-2"
+  },
+  "Baricitinib<SEP>Remdesivir": {
+    "chunk_ids": [
+      "chunk-f542171328bc39729060fbc8ff577681",
+      "chunk-a2bf94dfda652964087a535f4138f69b",
+      "chunk-2b577370572f3abc47d20a85c1e6bec3"
+    ],
+    "count": 3,
+    "create_time": 1761791307,
+    "update_time": 1761791307,
+    "_id": "Baricitinib<SEP>Remdesivir"
+  },
+  "COVID-19<SEP>Lopinavir": {
+    "chunk_ids": [
+      "chunk-f542171328bc39729060fbc8ff577681",
+      "chunk-2b577370572f3abc47d20a85c1e6bec3",
+      "chunk-27fd707fb557046d91dccc6a9c1e15fd"
+    ],
+    "count": 3,
+    "create_time": 1761791308,
+    "update_time": 1761791308,
+    "_id": "COVID-19<SEP>Lopinavir"
+  },
+  "Serbia<SEP>Sinopharm COVID-19 Vaccine": {
+    "chunk_ids": [
+      "chunk-f94d02beebab98a3e864c2779b99040b"
+    ],
+    "count": 1,
+    "create_time": 1761791308,
+    "update_time": 1761791308,
+    "_id": "Serbia<SEP>Sinopharm COVID-19 Vaccine"
+  },
+  "Breakthrough Infections<SEP>Clinical Effectiveness Study": {
+    "chunk_ids": [
+      "chunk-f94d02beebab98a3e864c2779b99040b"
+    ],
+    "count": 1,
+    "create_time": 1761791308,
+    "update_time": 1761791308,
+    "_id": "Breakthrough Infections<SEP>Clinical Effectiveness Study"
+  },
+  "COVID-19<SEP>Ritonavir": {
+    "chunk_ids": [
+      "chunk-f542171328bc39729060fbc8ff577681",
+      "chunk-27fd707fb557046d91dccc6a9c1e15fd"
+    ],
+    "count": 2,
+    "create_time": 1761791308,
+    "update_time": 1761791308,
+    "_id": "COVID-19<SEP>Ritonavir"
+  },
+  "REMAP-CAP<SEP>Tocilizumab": {
+    "chunk_ids": [
+      "chunk-f542171328bc39729060fbc8ff577681"
+    ],
+    "count": 1,
+    "create_time": 1761791308,
+    "update_time": 1761791308,
+    "_id": "REMAP-CAP<SEP>Tocilizumab"
+  },
+  "Clinical Effectiveness Study<SEP>Immunogenicity": {
+    "chunk_ids": [
+      "chunk-f94d02beebab98a3e864c2779b99040b"
+    ],
+    "count": 1,
+    "create_time": 1761791308,
+    "update_time": 1761791308,
+    "_id": "Clinical Effectiveness Study<SEP>Immunogenicity"
+  },
+  "FDA<SEP>Remdesivir": {
+    "chunk_ids": [
+      "chunk-f542171328bc39729060fbc8ff577681"
+    ],
+    "count": 1,
+    "create_time": 1761791308,
+    "update_time": 1761791308,
+    "_id": "FDA<SEP>Remdesivir"
+  },
+  "REMAP-CAP<SEP>Sarilumab": {
+    "chunk_ids": [
+      "chunk-f542171328bc39729060fbc8ff577681"
+    ],
+    "count": 1,
+    "create_time": 1761791308,
+    "update_time": 1761791308,
+    "_id": "REMAP-CAP<SEP>Sarilumab"
+  },
+  "COVID-19<SEP>Chloroquine": {
+    "chunk_ids": [
+      "chunk-f542171328bc39729060fbc8ff577681"
+    ],
+    "count": 1,
+    "create_time": 1761791308,
+    "update_time": 1761791308,
+    "_id": "COVID-19<SEP>Chloroquine"
+  },
+  "Lancet<SEP>Oxford-AstraZeneca COVID-19 Vaccine": {
+    "chunk_ids": [
+      "chunk-35fdd1bda3fea15e577ab68819cc4db8"
+    ],
+    "count": 1,
+    "create_time": 1761791308,
+    "update_time": 1761791308,
+    "_id": "Lancet<SEP>Oxford-AstraZeneca COVID-19 Vaccine"
+  },
+  "Oxford-AstraZeneca COVID-19 Vaccine<SEP>Pottegård A": {
+    "chunk_ids": [
+      "chunk-35fdd1bda3fea15e577ab68819cc4db8"
+    ],
+    "count": 1,
+    "create_time": 1761791309,
+    "update_time": 1761791309,
+    "_id": "Oxford-AstraZeneca COVID-19 Vaccine<SEP>Pottegård A"
+  },
+  "Logunov DY<SEP>rAd26 and rAd5 Vector-Based COVID-19 Vaccine": {
+    "chunk_ids": [
+      "chunk-35fdd1bda3fea15e577ab68819cc4db8"
+    ],
+    "count": 1,
+    "create_time": 1761791309,
+    "update_time": 1761791309,
+    "_id": "Logunov DY<SEP>rAd26 and rAd5 Vector-Based COVID-19 Vaccine"
+  },
+  "Anywaine Z<SEP>Ebola Vaccines": {
+    "chunk_ids": [
+      "chunk-35fdd1bda3fea15e577ab68819cc4db8"
+    ],
+    "count": 1,
+    "create_time": 1761791309,
+    "update_time": 1761791309,
+    "_id": "Anywaine Z<SEP>Ebola Vaccines"
+  },
+  "COVID-19<SEP>Tocilizumab": {
+    "chunk_ids": [
+      "chunk-f542171328bc39729060fbc8ff577681",
+      "chunk-27fd707fb557046d91dccc6a9c1e15fd"
+    ],
+    "count": 2,
+    "create_time": 1761791309,
+    "update_time": 1761791309,
+    "_id": "COVID-19<SEP>Tocilizumab"
+  },
+  "Respiratory Syncytial Virus Vaccine<SEP>Williams K": {
+    "chunk_ids": [
+      "chunk-35fdd1bda3fea15e577ab68819cc4db8"
+    ],
+    "count": 1,
+    "create_time": 1761791309,
+    "update_time": 1761791309,
+    "_id": "Respiratory Syncytial Virus Vaccine<SEP>Williams K"
+  },
+  "Oxford-AstraZeneca COVID-19 Vaccine<SEP>Thromboembolism": {
+    "chunk_ids": [
+      "chunk-35fdd1bda3fea15e577ab68819cc4db8"
+    ],
+    "count": 1,
+    "create_time": 1761791309,
+    "update_time": 1761791309,
+    "_id": "Oxford-AstraZeneca COVID-19 Vaccine<SEP>Thromboembolism"
+  },
+  "FDA<SEP>Tocilizumab": {
+    "chunk_ids": [
+      "chunk-f542171328bc39729060fbc8ff577681"
+    ],
+    "count": 1,
+    "create_time": 1761791309,
+    "update_time": 1761791309,
+    "_id": "FDA<SEP>Tocilizumab"
+  },
+  "COVID-19<SEP>Sarilumab": {
+    "chunk_ids": [
+      "chunk-f542171328bc39729060fbc8ff577681",
+      "chunk-27fd707fb557046d91dccc6a9c1e15fd"
+    ],
+    "count": 2,
+    "create_time": 1761791309,
+    "update_time": 1761791309,
+    "_id": "COVID-19<SEP>Sarilumab"
+  },
+  "Ad26.ZEBOV and MVA-BN-Filo Ebola Vaccines<SEP>Heterologous Prime-Boost Vaccination": {
+    "chunk_ids": [
+      "chunk-35fdd1bda3fea15e577ab68819cc4db8"
+    ],
+    "count": 1,
+    "create_time": 1761791309,
+    "update_time": 1761791309,
+    "_id": "Ad26.ZEBOV and MVA-BN-Filo Ebola Vaccines<SEP>Heterologous Prime-Boost Vaccination"
+  },
+  "Phase 1/2 Studies<SEP>rAd26 and rAd5 Vector-Based COVID-19 Vaccine": {
+    "chunk_ids": [
+      "chunk-35fdd1bda3fea15e577ab68819cc4db8"
+    ],
+    "count": 1,
+    "create_time": 1761791309,
+    "update_time": 1761791309,
+    "_id": "Phase 1/2 Studies<SEP>rAd26 and rAd5 Vector-Based COVID-19 Vaccine"
+  },
+  "BBIBP-CorV<SEP>UAE": {
+    "chunk_ids": [
+      "chunk-34095163b30b47116fce3d2618689be5"
+    ],
+    "count": 1,
+    "create_time": 1761791309,
+    "update_time": 1761791309,
+    "_id": "BBIBP-CorV<SEP>UAE"
+  },
+  "Argentina<SEP>Sinopharm": {
+    "chunk_ids": [
+      "chunk-34095163b30b47116fce3d2618689be5"
+    ],
+    "count": 1,
+    "create_time": 1761791309,
+    "update_time": 1761791309,
+    "_id": "Argentina<SEP>Sinopharm"
+  },
+  "BNT162b2<SEP>Solid Organ Transplant Recipients (SOTRs)": {
+    "chunk_ids": [
+      "chunk-34095163b30b47116fce3d2618689be5"
+    ],
+    "count": 1,
+    "create_time": 1761791309,
+    "update_time": 1761791309,
+    "_id": "BNT162b2<SEP>Solid Organ Transplant Recipients (SOTRs)"
+  },
+  "Computational Approaches<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-34095163b30b47116fce3d2618689be5"
+    ],
+    "count": 1,
+    "create_time": 1761791309,
+    "update_time": 1761791309,
+    "_id": "Computational Approaches<SEP>SARS-CoV-2"
+  },
+  "B.1.1.7<SEP>Transmissibility": {
+    "chunk_ids": [
+      "chunk-5cb5916ca321946236db8aad9fa33a94"
+    ],
+    "count": 1,
+    "create_time": 1761791309,
+    "update_time": 1761791309,
+    "_id": "B.1.1.7<SEP>Transmissibility"
+  },
+  "B.1.351<SEP>Severity": {
+    "chunk_ids": [
+      "chunk-5cb5916ca321946236db8aad9fa33a94"
+    ],
+    "count": 1,
+    "create_time": 1761791309,
+    "update_time": 1761791309,
+    "_id": "B.1.351<SEP>Severity"
+  },
+  "Antibody Treatments<SEP>B.1.1.529": {
+    "chunk_ids": [
+      "chunk-5cb5916ca321946236db8aad9fa33a94"
+    ],
+    "count": 1,
+    "create_time": 1761791310,
+    "update_time": 1761791310,
+    "_id": "Antibody Treatments<SEP>B.1.1.529"
+  },
+  "Diagnostic Methods<SEP>SARS-CoV-2 Variants": {
+    "chunk_ids": [
+      "chunk-5cb5916ca321946236db8aad9fa33a94"
+    ],
+    "count": 1,
+    "create_time": 1761791310,
+    "update_time": 1761791310,
+    "_id": "Diagnostic Methods<SEP>SARS-CoV-2 Variants"
+  },
+  "P.1<SEP>Transmissibility": {
+    "chunk_ids": [
+      "chunk-5cb5916ca321946236db8aad9fa33a94"
+    ],
+    "count": 1,
+    "create_time": 1761791310,
+    "update_time": 1761791310,
+    "_id": "P.1<SEP>Transmissibility"
+  },
+  "Participants<SEP>Phase 1 Trials": {
+    "chunk_ids": [
+      "chunk-504266ce396b2ee303462fca7cecde6e"
+    ],
+    "count": 1,
+    "create_time": 1761791310,
+    "update_time": 1761791310,
+    "_id": "Participants<SEP>Phase 1 Trials"
+  },
+  "Molecular Testing<SEP>SARS-CoV-2 Variants": {
+    "chunk_ids": [
+      "chunk-5cb5916ca321946236db8aad9fa33a94"
+    ],
+    "count": 1,
+    "create_time": 1761791310,
+    "update_time": 1761791310,
+    "_id": "Molecular Testing<SEP>SARS-CoV-2 Variants"
+  },
+  "SARS-CoV-2<SEP>Transmissibility": {
+    "chunk_ids": [
+      "chunk-5cb5916ca321946236db8aad9fa33a94"
+    ],
+    "count": 1,
+    "create_time": 1761791310,
+    "update_time": 1761791310,
+    "_id": "SARS-CoV-2<SEP>Transmissibility"
+  },
+  "Phase 2 Trials<SEP>Phase 3 Trials": {
+    "chunk_ids": [
+      "chunk-504266ce396b2ee303462fca7cecde6e"
+    ],
+    "count": 1,
+    "create_time": 1761791310,
+    "update_time": 1761791310,
+    "_id": "Phase 2 Trials<SEP>Phase 3 Trials"
+  },
+  "FDA<SEP>mRNA-1273": {
+    "chunk_ids": [
+      "chunk-504266ce396b2ee303462fca7cecde6e",
+      "chunk-bcf2fae51213896d1bf2c29dfc9f1a2d"
+    ],
+    "count": 2,
+    "create_time": 1761791310,
+    "update_time": 1761791310,
+    "_id": "FDA<SEP>mRNA-1273"
+  },
+  "Antigen Testing<SEP>SARS-CoV-2 Variants": {
+    "chunk_ids": [
+      "chunk-5cb5916ca321946236db8aad9fa33a94"
+    ],
+    "count": 1,
+    "create_time": 1761791310,
+    "update_time": 1761791310,
+    "_id": "Antigen Testing<SEP>SARS-CoV-2 Variants"
+  },
+  "Phase 1<SEP>Phase 2": {
+    "chunk_ids": [
+      "chunk-504266ce396b2ee303462fca7cecde6e"
+    ],
+    "count": 1,
+    "create_time": 1761791310,
+    "update_time": 1761791310,
+    "_id": "Phase 1<SEP>Phase 2"
+  },
+  "SARS-CoV-2<SEP>Severity": {
+    "chunk_ids": [
+      "chunk-5cb5916ca321946236db8aad9fa33a94"
+    ],
+    "count": 1,
+    "create_time": 1761791310,
+    "update_time": 1761791310,
+    "_id": "SARS-CoV-2<SEP>Severity"
+  },
+  "Participants<SEP>Phase 2 Trials": {
+    "chunk_ids": [
+      "chunk-504266ce396b2ee303462fca7cecde6e"
+    ],
+    "count": 1,
+    "create_time": 1761791311,
+    "update_time": 1761791311,
+    "_id": "Participants<SEP>Phase 2 Trials"
+  },
+  "rAd26-S<SEP>rAd5-S": {
+    "chunk_ids": [
+      "chunk-504266ce396b2ee303462fca7cecde6e"
+    ],
+    "count": 1,
+    "create_time": 1761791311,
+    "update_time": 1761791311,
+    "_id": "rAd26-S<SEP>rAd5-S"
+  },
+  "No Severe Adverse Reactions<SEP>Phase 1 Trials": {
+    "chunk_ids": [
+      "chunk-504266ce396b2ee303462fca7cecde6e"
+    ],
+    "count": 1,
+    "create_time": 1761791311,
+    "update_time": 1761791311,
+    "_id": "No Severe Adverse Reactions<SEP>Phase 1 Trials"
+  },
+  "SARS-CoV-2 Variants<SEP>Serological Testing": {
+    "chunk_ids": [
+      "chunk-5cb5916ca321946236db8aad9fa33a94"
+    ],
+    "count": 1,
+    "create_time": 1761791311,
+    "update_time": 1761791311,
+    "_id": "SARS-CoV-2 Variants<SEP>Serological Testing"
+  },
+  "Frozen Formulation<SEP>Lyophilized Formulation": {
+    "chunk_ids": [
+      "chunk-504266ce396b2ee303462fca7cecde6e",
+      "chunk-a218174a04fc9428ffade976a83e2c22"
+    ],
+    "count": 2,
+    "create_time": 1761791311,
+    "update_time": 1761791311,
+    "_id": "Frozen Formulation<SEP>Lyophilized Formulation"
+  },
+  "Phase 2<SEP>Phase 3": {
+    "chunk_ids": [
+      "chunk-504266ce396b2ee303462fca7cecde6e"
+    ],
+    "count": 1,
+    "create_time": 1761791311,
+    "update_time": 1761791311,
+    "_id": "Phase 2<SEP>Phase 3"
+  },
+  "ACTT-2 Study<SEP>Kalil AC": {
+    "chunk_ids": [
+      "chunk-a2bf94dfda652964087a535f4138f69b"
+    ],
+    "count": 1,
+    "create_time": 1761791311,
+    "update_time": 1761791311,
+    "_id": "ACTT-2 Study<SEP>Kalil AC"
+  },
+  "Magro G<SEP>Virus Research": {
+    "chunk_ids": [
+      "chunk-a2bf94dfda652964087a535f4138f69b"
+    ],
+    "count": 1,
+    "create_time": 1761791311,
+    "update_time": 1761791311,
+    "_id": "Magro G<SEP>Virus Research"
+  },
+  "Chu CM<SEP>Thorax": {
+    "chunk_ids": [
+      "chunk-a2bf94dfda652964087a535f4138f69b"
+    ],
+    "count": 1,
+    "create_time": 1761791311,
+    "update_time": 1761791311,
+    "_id": "Chu CM<SEP>Thorax"
+  },
+  "ACTT-2 Study<SEP>Patterson TF": {
+    "chunk_ids": [
+      "chunk-a2bf94dfda652964087a535f4138f69b"
+    ],
+    "count": 1,
+    "create_time": 1761791311,
+    "update_time": 1761791311,
+    "_id": "ACTT-2 Study<SEP>Patterson TF"
+  },
+  "Cao B<SEP>N Engl J Med": {
+    "chunk_ids": [
+      "chunk-a2bf94dfda652964087a535f4138f69b"
+    ],
+    "count": 1,
+    "create_time": 1761791311,
+    "update_time": 1761791311,
+    "_id": "Cao B<SEP>N Engl J Med"
+  },
+  "Chloroquine<SEP>Hydroxychloroquine": {
+    "chunk_ids": [
+      "chunk-a2bf94dfda652964087a535f4138f69b"
+    ],
+    "count": 1,
+    "create_time": 1761791311,
+    "update_time": 1761791311,
+    "_id": "Chloroquine<SEP>Hydroxychloroquine"
+  },
+  "COVINTOC<SEP>Tocilizumab": {
+    "chunk_ids": [
+      "chunk-a2bf94dfda652964087a535f4138f69b",
+      "chunk-164002d25ffd9cbe6d0d28236e7610f6"
+    ],
+    "count": 2,
+    "create_time": 1761791311,
+    "update_time": 1761791311,
+    "_id": "COVINTOC<SEP>Tocilizumab"
+  },
+  "J Phys Chem Lett<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-a06be5698bde2a8fa0e5e10b2d87875c"
+    ],
+    "count": 1,
+    "create_time": 1761791311,
+    "update_time": 1761791311,
+    "_id": "J Phys Chem Lett<SEP>SARS-CoV-2"
+  },
+  "Colonic Cells<SEP>SARS-CoV": {
+    "chunk_ids": [
+      "chunk-a06be5698bde2a8fa0e5e10b2d87875c"
+    ],
+    "count": 1,
+    "create_time": 1761791311,
+    "update_time": 1761791311,
+    "_id": "Colonic Cells<SEP>SARS-CoV"
+  },
+  "ACTT-2 Study<SEP>Mehta AK": {
+    "chunk_ids": [
+      "chunk-a2bf94dfda652964087a535f4138f69b"
+    ],
+    "count": 1,
+    "create_time": 1761791311,
+    "update_time": 1761791311,
+    "_id": "ACTT-2 Study<SEP>Mehta AK"
+  },
+  "J Chem Inf Model<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-a06be5698bde2a8fa0e5e10b2d87875c"
+    ],
+    "count": 1,
+    "create_time": 1761791312,
+    "update_time": 1761791312,
+    "_id": "J Chem Inf Model<SEP>SARS-CoV-2"
+  },
+  "COVID-19<SEP>Neurological Manifestations": {
+    "chunk_ids": [
+      "chunk-a06be5698bde2a8fa0e5e10b2d87875c"
+    ],
+    "count": 1,
+    "create_time": 1761791312,
+    "update_time": 1761791312,
+    "_id": "COVID-19<SEP>Neurological Manifestations"
+  },
+  "Angiotensin-Converting Enzyme 2 (ACE2)<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-a06be5698bde2a8fa0e5e10b2d87875c"
+    ],
+    "count": 1,
+    "create_time": 1761791312,
+    "update_time": 1761791312,
+    "_id": "Angiotensin-Converting Enzyme 2 (ACE2)<SEP>SARS-CoV-2"
+  },
+  "J Med Virol<SEP>SARS-CoV": {
+    "chunk_ids": [
+      "chunk-a06be5698bde2a8fa0e5e10b2d87875c"
+    ],
+    "count": 1,
+    "create_time": 1761791312,
+    "update_time": 1761791312,
+    "_id": "J Med Virol<SEP>SARS-CoV"
+  },
+  "Human Coronavirus 229E<SEP>Neurotropism": {
+    "chunk_ids": [
+      "chunk-a06be5698bde2a8fa0e5e10b2d87875c"
+    ],
+    "count": 1,
+    "create_time": 1761791312,
+    "update_time": 1761791312,
+    "_id": "Human Coronavirus 229E<SEP>Neurotropism"
+  },
+  "Human Coronavirus OC43<SEP>Neurons": {
+    "chunk_ids": [
+      "chunk-a06be5698bde2a8fa0e5e10b2d87875c"
+    ],
+    "count": 1,
+    "create_time": 1761791312,
+    "update_time": 1761791312,
+    "_id": "Human Coronavirus OC43<SEP>Neurons"
+  },
+  "Remap-Cap<SEP>Tocilizumab": {
+    "chunk_ids": [
+      "chunk-f773b3825a5d702479233be92ad1c099"
+    ],
+    "count": 1,
+    "create_time": 1761791312,
+    "update_time": 1761791312,
+    "_id": "Remap-Cap<SEP>Tocilizumab"
+  },
+  "China<SEP>SARS-CoV": {
+    "chunk_ids": [
+      "chunk-a06be5698bde2a8fa0e5e10b2d87875c"
+    ],
+    "count": 1,
+    "create_time": 1761791312,
+    "update_time": 1761791312,
+    "_id": "China<SEP>SARS-CoV"
+  },
+  "MIG<SEP>SARS-CoV": {
+    "chunk_ids": [
+      "chunk-a06be5698bde2a8fa0e5e10b2d87875c"
+    ],
+    "count": 1,
+    "create_time": 1761791313,
+    "update_time": 1761791313,
+    "_id": "MIG<SEP>SARS-CoV"
+  },
+  "NHS Guidance<SEP>Remark-Cap": {
+    "chunk_ids": [
+      "chunk-f773b3825a5d702479233be92ad1c099"
+    ],
+    "count": 1,
+    "create_time": 1761791313,
+    "update_time": 1761791313,
+    "_id": "NHS Guidance<SEP>Remark-Cap"
+  },
+  "Remap-Cap<SEP>Sarilumab": {
+    "chunk_ids": [
+      "chunk-f773b3825a5d702479233be92ad1c099"
+    ],
+    "count": 1,
+    "create_time": 1761791313,
+    "update_time": 1761791313,
+    "_id": "Remap-Cap<SEP>Sarilumab"
+  },
+  "Casirivimab<SEP>Imdevimab": {
+    "chunk_ids": [
+      "chunk-f773b3825a5d702479233be92ad1c099"
+    ],
+    "count": 1,
+    "create_time": 1761791313,
+    "update_time": 1761791313,
+    "_id": "Casirivimab<SEP>Imdevimab"
+  },
+  "SARS-CoV<SEP>Severe Acute Respiratory Syndrome (SARS)": {
+    "chunk_ids": [
+      "chunk-a06be5698bde2a8fa0e5e10b2d87875c"
+    ],
+    "count": 1,
+    "create_time": 1761791313,
+    "update_time": 1761791313,
+    "_id": "SARS-CoV<SEP>Severe Acute Respiratory Syndrome (SARS)"
+  },
+  "FDA<SEP>REGEN-COV": {
+    "chunk_ids": [
+      "chunk-f773b3825a5d702479233be92ad1c099",
+      "chunk-27fd707fb557046d91dccc6a9c1e15fd"
+    ],
+    "count": 2,
+    "create_time": 1761791313,
+    "update_time": 1761791313,
+    "_id": "FDA<SEP>REGEN-COV"
+  },
+  "B.1.1.7 Variant<SEP>NSP12": {
+    "chunk_ids": [
+      "chunk-f773b3825a5d702479233be92ad1c099"
+    ],
+    "count": 1,
+    "create_time": 1761791313,
+    "update_time": 1761791313,
+    "_id": "B.1.1.7 Variant<SEP>NSP12"
+  },
+  "RNA-Dependent RNA Polymerase<SEP>Remdesivir": {
+    "chunk_ids": [
+      "chunk-f773b3825a5d702479233be92ad1c099"
+    ],
+    "count": 1,
+    "create_time": 1761791313,
+    "update_time": 1761791313,
+    "_id": "RNA-Dependent RNA Polymerase<SEP>Remdesivir"
+  },
+  "SARS-CoV-2<SEP>SARS-CoV-2 Spike Protein": {
+    "chunk_ids": [
+      "chunk-f773b3825a5d702479233be92ad1c099"
+    ],
+    "count": 1,
+    "create_time": 1761791313,
+    "update_time": 1761791313,
+    "_id": "SARS-CoV-2<SEP>SARS-CoV-2 Spike Protein"
+  },
+  "B.1.351 Variant<SEP>NSP12": {
+    "chunk_ids": [
+      "chunk-f773b3825a5d702479233be92ad1c099"
+    ],
+    "count": 1,
+    "create_time": 1761791313,
+    "update_time": 1761791313,
+    "_id": "B.1.351 Variant<SEP>NSP12"
+  },
+  "Imdevimab<SEP>REGEN-COV": {
+    "chunk_ids": [
+      "chunk-f773b3825a5d702479233be92ad1c099",
+      "chunk-27fd707fb557046d91dccc6a9c1e15fd"
+    ],
+    "count": 2,
+    "create_time": 1761791313,
+    "update_time": 1761791313,
+    "_id": "Imdevimab<SEP>REGEN-COV"
+  },
+  "Lancet<SEP>rAd26 and rAd5 Vector-Based Heterologous Prime-Boost COVID-19 Vaccine": {
+    "chunk_ids": [
+      "chunk-daf403b571f1733c8c38249ab48ad963"
+    ],
+    "count": 1,
+    "create_time": 1761791313,
+    "update_time": 1761791313,
+    "_id": "Lancet<SEP>rAd26 and rAd5 Vector-Based Heterologous Prime-Boost COVID-19 Vaccine"
+  },
+  "Efficacy of SARS-CoV-2 Antiviral Drugs<SEP>Remdesivir": {
+    "chunk_ids": [
+      "chunk-f773b3825a5d702479233be92ad1c099"
+    ],
+    "count": 1,
+    "create_time": 1761791313,
+    "update_time": 1761791313,
+    "_id": "Efficacy of SARS-CoV-2 Antiviral Drugs<SEP>Remdesivir"
+  },
+  "Molnupiravir<SEP>RNA-Dependent RNA Polymerase": {
+    "chunk_ids": [
+      "chunk-f773b3825a5d702479233be92ad1c099"
+    ],
+    "count": 1,
+    "create_time": 1761791313,
+    "update_time": 1761791313,
+    "_id": "Molnupiravir<SEP>RNA-Dependent RNA Polymerase"
+  },
+  "SARS-CoV-2<SEP>Sputnik V Vaccine": {
+    "chunk_ids": [
+      "chunk-daf403b571f1733c8c38249ab48ad963"
+    ],
+    "count": 1,
+    "create_time": 1761791314,
+    "update_time": 1761791314,
+    "_id": "SARS-CoV-2<SEP>Sputnik V Vaccine"
+  },
+  "mRNA Vaccines<SEP>mRNA-Based Therapeutics": {
+    "chunk_ids": [
+      "chunk-daf403b571f1733c8c38249ab48ad963"
+    ],
+    "count": 1,
+    "create_time": 1761791314,
+    "update_time": 1761791314,
+    "_id": "mRNA Vaccines<SEP>mRNA-Based Therapeutics"
+  },
+  "Moderna<SEP>mRNA-1273 SARS-CoV-2 Vaccine": {
+    "chunk_ids": [
+      "chunk-daf403b571f1733c8c38249ab48ad963"
+    ],
+    "count": 1,
+    "create_time": 1761791314,
+    "update_time": 1761791314,
+    "_id": "Moderna<SEP>mRNA-1273 SARS-CoV-2 Vaccine"
+  },
+  "Casirivimab<SEP>REGEN-COV": {
+    "chunk_ids": [
+      "chunk-f773b3825a5d702479233be92ad1c099",
+      "chunk-27fd707fb557046d91dccc6a9c1e15fd"
+    ],
+    "count": 2,
+    "create_time": 1761791314,
+    "update_time": 1761791314,
+    "_id": "Casirivimab<SEP>REGEN-COV"
+  },
+  "BNT162b2 mRNA COVID-19 Vaccine<SEP>BioNTech": {
+    "chunk_ids": [
+      "chunk-daf403b571f1733c8c38249ab48ad963"
+    ],
+    "count": 1,
+    "create_time": 1761791314,
+    "update_time": 1761791314,
+    "_id": "BNT162b2 mRNA COVID-19 Vaccine<SEP>BioNTech"
+  },
+  "Clinical Trial<SEP>rAd26 and rAd5 Vector-Based Heterologous Prime-Boost COVID-19 Vaccine": {
+    "chunk_ids": [
+      "chunk-daf403b571f1733c8c38249ab48ad963"
+    ],
+    "count": 1,
+    "create_time": 1761791314,
+    "update_time": 1761791314,
+    "_id": "Clinical Trial<SEP>rAd26 and rAd5 Vector-Based Heterologous Prime-Boost COVID-19 Vaccine"
+  },
+  "Zika Virus<SEP>mRNA Vaccines": {
+    "chunk_ids": [
+      "chunk-daf403b571f1733c8c38249ab48ad963"
+    ],
+    "count": 1,
+    "create_time": 1761791314,
+    "update_time": 1761791314,
+    "_id": "Zika Virus<SEP>mRNA Vaccines"
+  },
+  "Lancet<SEP>mRNA Rabies Vaccine": {
+    "chunk_ids": [
+      "chunk-daf403b571f1733c8c38249ab48ad963"
+    ],
+    "count": 1,
+    "create_time": 1761791314,
+    "update_time": 1761791314,
+    "_id": "Lancet<SEP>mRNA Rabies Vaccine"
+  },
+  "ACE2<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-1c7d4256e04a0834c64b7e62ef5d3416"
+    ],
+    "count": 1,
+    "create_time": 1761791314,
+    "update_time": 1761791314,
+    "_id": "ACE2<SEP>SARS-CoV-2"
+  },
+  "COVID-19<SEP>Public Health Emergency": {
+    "chunk_ids": [
+      "chunk-1c7d4256e04a0834c64b7e62ef5d3416"
+    ],
+    "count": 1,
+    "create_time": 1761791314,
+    "update_time": 1761791314,
+    "_id": "COVID-19<SEP>Public Health Emergency"
+  },
+  "BNT162b2 mRNA COVID-19 Vaccine<SEP>Pfizer": {
+    "chunk_ids": [
+      "chunk-daf403b571f1733c8c38249ab48ad963"
+    ],
+    "count": 1,
+    "create_time": 1761791314,
+    "update_time": 1761791314,
+    "_id": "BNT162b2 mRNA COVID-19 Vaccine<SEP>Pfizer"
+  },
+  "Central Nervous System (CNS)<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-1c7d4256e04a0834c64b7e62ef5d3416"
+    ],
+    "count": 1,
+    "create_time": 1761791314,
+    "update_time": 1761791314,
+    "_id": "Central Nervous System (CNS)<SEP>SARS-CoV-2"
+  },
+  "B.1.525<SEP>United Kingdom/Nigeria": {
+    "chunk_ids": [
+      "chunk-dc9977325cdee13a132c8b548d9e9b97"
+    ],
+    "count": 1,
+    "create_time": 1761791314,
+    "update_time": 1761791314,
+    "_id": "B.1.525<SEP>United Kingdom/Nigeria"
+  },
+  "COVID-19<SEP>Neurologic Symptoms": {
+    "chunk_ids": [
+      "chunk-1c7d4256e04a0834c64b7e62ef5d3416"
+    ],
+    "count": 1,
+    "create_time": 1761791314,
+    "update_time": 1761791314,
+    "_id": "COVID-19<SEP>Neurologic Symptoms"
+  },
+  "B.1.526<SEP>United States": {
+    "chunk_ids": [
+      "chunk-dc9977325cdee13a132c8b548d9e9b97"
+    ],
+    "count": 1,
+    "create_time": 1761791314,
+    "update_time": 1761791314,
+    "_id": "B.1.526<SEP>United States"
+  },
+  "B.1.617.1<SEP>India": {
+    "chunk_ids": [
+      "chunk-dc9977325cdee13a132c8b548d9e9b97"
+    ],
+    "count": 1,
+    "create_time": 1761791314,
+    "update_time": 1761791314,
+    "_id": "B.1.617.1<SEP>India"
+  },
+  "Healthcare Workers<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-1c7d4256e04a0834c64b7e62ef5d3416"
+    ],
+    "count": 1,
+    "create_time": 1761791315,
+    "update_time": 1761791315,
+    "_id": "Healthcare Workers<SEP>SARS-CoV-2"
+  },
+  "Central Nervous System (CNS)<SEP>SARS-CoV": {
+    "chunk_ids": [
+      "chunk-1c7d4256e04a0834c64b7e62ef5d3416"
+    ],
+    "count": 1,
+    "create_time": 1761791315,
+    "update_time": 1761791315,
+    "_id": "Central Nervous System (CNS)<SEP>SARS-CoV"
+  },
+  "C.37<SEP>Peru": {
+    "chunk_ids": [
+      "chunk-dc9977325cdee13a132c8b548d9e9b97"
+    ],
+    "count": 1,
+    "create_time": 1761791315,
+    "update_time": 1761791315,
+    "_id": "C.37<SEP>Peru"
+  },
+  "B.1.621<SEP>Colombia": {
+    "chunk_ids": [
+      "chunk-dc9977325cdee13a132c8b548d9e9b97"
+    ],
+    "count": 1,
+    "create_time": 1761791315,
+    "update_time": 1761791315,
+    "_id": "B.1.621<SEP>Colombia"
+  },
+  "P.3<SEP>Philippines": {
+    "chunk_ids": [
+      "chunk-dc9977325cdee13a132c8b548d9e9b97"
+    ],
+    "count": 1,
+    "create_time": 1761791315,
+    "update_time": 1761791315,
+    "_id": "P.3<SEP>Philippines"
+  },
+  "Nucleic Acid-Based Detection<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-dc9977325cdee13a132c8b548d9e9b97"
+    ],
+    "count": 1,
+    "create_time": 1761791315,
+    "update_time": 1761791315,
+    "_id": "Nucleic Acid-Based Detection<SEP>SARS-CoV-2"
+  },
+  "Central Nervous System (CNS)<SEP>MERS-CoV": {
+    "chunk_ids": [
+      "chunk-1c7d4256e04a0834c64b7e62ef5d3416"
+    ],
+    "count": 1,
+    "create_time": 1761791315,
+    "update_time": 1761791315,
+    "_id": "Central Nervous System (CNS)<SEP>MERS-CoV"
+  },
+  "Nasopharyngeal Swab<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-dc9977325cdee13a132c8b548d9e9b97"
+    ],
+    "count": 1,
+    "create_time": 1761791315,
+    "update_time": 1761791315,
+    "_id": "Nasopharyngeal Swab<SEP>SARS-CoV-2"
+  },
+  "Phase III Clinical Trials<SEP>mRNA-1273": {
+    "chunk_ids": [
+      "chunk-bcf2fae51213896d1bf2c29dfc9f1a2d"
+    ],
+    "count": 1,
+    "create_time": 1761791316,
+    "update_time": 1761791316,
+    "_id": "Phase III Clinical Trials<SEP>mRNA-1273"
+  },
+  "L452R<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-dc9977325cdee13a132c8b548d9e9b97"
+    ],
+    "count": 1,
+    "create_time": 1761791316,
+    "update_time": 1761791316,
+    "_id": "L452R<SEP>SARS-CoV-2"
+  },
+  "B.1.351<SEP>mRNA-1273": {
+    "chunk_ids": [
+      "chunk-bcf2fae51213896d1bf2c29dfc9f1a2d"
+    ],
+    "count": 1,
+    "create_time": 1761791316,
+    "update_time": 1761791316,
+    "_id": "B.1.351<SEP>mRNA-1273"
+  },
+  "BNT162b2<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-bcf2fae51213896d1bf2c29dfc9f1a2d"
+    ],
+    "count": 1,
+    "create_time": 1761791316,
+    "update_time": 1761791316,
+    "_id": "BNT162b2<SEP>SARS-CoV-2"
+  },
+  "Thompson et al.<SEP>mRNA-1273": {
+    "chunk_ids": [
+      "chunk-bcf2fae51213896d1bf2c29dfc9f1a2d"
+    ],
+    "count": 1,
+    "create_time": 1761791316,
+    "update_time": 1761791316,
+    "_id": "Thompson et al.<SEP>mRNA-1273"
+  },
+  "BNT162b2<SEP>Phase III Clinical Trials": {
+    "chunk_ids": [
+      "chunk-bcf2fae51213896d1bf2c29dfc9f1a2d"
+    ],
+    "count": 1,
+    "create_time": 1761791316,
+    "update_time": 1761791316,
+    "_id": "BNT162b2<SEP>Phase III Clinical Trials"
+  },
+  "COVID-19<SEP>REGEN-COV": {
+    "chunk_ids": [
+      "chunk-164002d25ffd9cbe6d0d28236e7610f6"
+    ],
+    "count": 1,
+    "create_time": 1761791316,
+    "update_time": 1761791316,
+    "_id": "COVID-19<SEP>REGEN-COV"
+  },
+  "B.1.1.7<SEP>BNT162b2": {
+    "chunk_ids": [
+      "chunk-bcf2fae51213896d1bf2c29dfc9f1a2d"
+    ],
+    "count": 1,
+    "create_time": 1761791317,
+    "update_time": 1761791317,
+    "_id": "B.1.1.7<SEP>BNT162b2"
+  },
+  "India<SEP>Tocilizumab": {
+    "chunk_ids": [
+      "chunk-164002d25ffd9cbe6d0d28236e7610f6"
+    ],
+    "count": 1,
+    "create_time": 1761791317,
+    "update_time": 1761791317,
+    "_id": "India<SEP>Tocilizumab"
+  },
+  "SARS-CoV-2<SEP>mRNA-1273": {
+    "chunk_ids": [
+      "chunk-bcf2fae51213896d1bf2c29dfc9f1a2d"
+    ],
+    "count": 1,
+    "create_time": 1761791317,
+    "update_time": 1761791317,
+    "_id": "SARS-CoV-2<SEP>mRNA-1273"
+  },
+  "B.1.617.2<SEP>BNT162b2": {
+    "chunk_ids": [
+      "chunk-bcf2fae51213896d1bf2c29dfc9f1a2d"
+    ],
+    "count": 1,
+    "create_time": 1761791317,
+    "update_time": 1761791317,
+    "_id": "B.1.617.2<SEP>BNT162b2"
+  },
+  "Pharm J<SEP>Tocilizumab": {
+    "chunk_ids": [
+      "chunk-164002d25ffd9cbe6d0d28236e7610f6"
+    ],
+    "count": 1,
+    "create_time": 1761791317,
+    "update_time": 1761791317,
+    "_id": "Pharm J<SEP>Tocilizumab"
+  },
+  "Remdesivir<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-164002d25ffd9cbe6d0d28236e7610f6",
+      "chunk-6537690b487b6e3ab7d5ee5af21c0f15"
+    ],
+    "count": 2,
+    "create_time": 1761791317,
+    "update_time": 1761791317,
+    "_id": "Remdesivir<SEP>SARS-CoV-2"
+  },
+  "BNT162b2<SEP>Polack et al.": {
+    "chunk_ids": [
+      "chunk-bcf2fae51213896d1bf2c29dfc9f1a2d"
+    ],
+    "count": 1,
+    "create_time": 1761791317,
+    "update_time": 1761791317,
+    "_id": "BNT162b2<SEP>Polack et al."
+  },
+  "Antiviral Res<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-164002d25ffd9cbe6d0d28236e7610f6"
+    ],
+    "count": 1,
+    "create_time": 1761791317,
+    "update_time": 1761791317,
+    "_id": "Antiviral Res<SEP>SARS-CoV-2"
+  },
+  "Clin Drug Investig<SEP>Tocilizumab": {
+    "chunk_ids": [
+      "chunk-164002d25ffd9cbe6d0d28236e7610f6"
+    ],
+    "count": 1,
+    "create_time": 1761791317,
+    "update_time": 1761791317,
+    "_id": "Clin Drug Investig<SEP>Tocilizumab"
+  },
+  "Cui J<SEP>Shi ZL": {
+    "chunk_ids": [
+      "chunk-aca59a50b858aa1e41e7e9acf7e566d2"
+    ],
+    "count": 1,
+    "create_time": 1761791317,
+    "update_time": 1761791317,
+    "_id": "Cui J<SEP>Shi ZL"
+  },
+  "Chan JF<SEP>Yuan S": {
+    "chunk_ids": [
+      "chunk-aca59a50b858aa1e41e7e9acf7e566d2"
+    ],
+    "count": 1,
+    "create_time": 1761791317,
+    "update_time": 1761791317,
+    "_id": "Chan JF<SEP>Yuan S"
+  },
+  "Nguyen TV<SEP>Phan LT": {
+    "chunk_ids": [
+      "chunk-aca59a50b858aa1e41e7e9acf7e566d2"
+    ],
+    "count": 1,
+    "create_time": 1761791317,
+    "update_time": 1761791317,
+    "_id": "Nguyen TV<SEP>Phan LT"
+  },
+  "COVID-19<SEP>Wuhan": {
+    "chunk_ids": [
+      "chunk-aca59a50b858aa1e41e7e9acf7e566d2"
+    ],
+    "count": 1,
+    "create_time": 1761791317,
+    "update_time": 1761791317,
+    "_id": "COVID-19<SEP>Wuhan"
+  },
+  "Hu B<SEP>Wang D": {
+    "chunk_ids": [
+      "chunk-aca59a50b858aa1e41e7e9acf7e566d2"
+    ],
+    "count": 1,
+    "create_time": 1761791317,
+    "update_time": 1761791317,
+    "_id": "Hu B<SEP>Wang D"
+  },
+  "Covid-19 Vaccines<SEP>NVX-CoV2373": {
+    "chunk_ids": [
+      "chunk-6537690b487b6e3ab7d5ee5af21c0f15"
+    ],
+    "count": 1,
+    "create_time": 1761791318,
+    "update_time": 1761791318,
+    "_id": "Covid-19 Vaccines<SEP>NVX-CoV2373"
+  },
+  "Remdesivir<SEP>SARS-CoV-2 Variants": {
+    "chunk_ids": [
+      "chunk-6537690b487b6e3ab7d5ee5af21c0f15"
+    ],
+    "count": 1,
+    "create_time": 1761791318,
+    "update_time": 1761791318,
+    "_id": "Remdesivir<SEP>SARS-CoV-2 Variants"
+  },
+  "COVE Study<SEP>Moderna COVID-19 Vaccine": {
+    "chunk_ids": [
+      "chunk-ad9d995908432109592f45ab0eade340"
+    ],
+    "count": 1,
+    "create_time": 1761791318,
+    "update_time": 1761791318,
+    "_id": "COVE Study<SEP>Moderna COVID-19 Vaccine"
+  },
+  "BNT162b2 Vaccine<SEP>Health Care Personnel": {
+    "chunk_ids": [
+      "chunk-ad9d995908432109592f45ab0eade340"
+    ],
+    "count": 1,
+    "create_time": 1761791318,
+    "update_time": 1761791318,
+    "_id": "BNT162b2 Vaccine<SEP>Health Care Personnel"
+  },
+  "138 Hospitalized Patients<SEP>Wang D": {
+    "chunk_ids": [
+      "chunk-aca59a50b858aa1e41e7e9acf7e566d2"
+    ],
+    "count": 1,
+    "create_time": 1761791318,
+    "update_time": 1761791318,
+    "_id": "138 Hospitalized Patients<SEP>Wang D"
+  },
+  "FDA<SEP>Pfizer-BioNTech COVID-19 Vaccine": {
+    "chunk_ids": [
+      "chunk-ad9d995908432109592f45ab0eade340"
+    ],
+    "count": 1,
+    "create_time": 1761791318,
+    "update_time": 1761791318,
+    "_id": "FDA<SEP>Pfizer-BioNTech COVID-19 Vaccine"
+  },
+  "NVX-CoV2373<SEP>Nonhuman Primate Models": {
+    "chunk_ids": [
+      "chunk-6537690b487b6e3ab7d5ee5af21c0f15"
+    ],
+    "count": 1,
+    "create_time": 1761791318,
+    "update_time": 1761791318,
+    "_id": "NVX-CoV2373<SEP>Nonhuman Primate Models"
+  },
+  "B.1.1.7 Variant<SEP>BNT162b2 Vaccine": {
+    "chunk_ids": [
+      "chunk-ad9d995908432109592f45ab0eade340"
+    ],
+    "count": 1,
+    "create_time": 1761791318,
+    "update_time": 1761791318,
+    "_id": "B.1.1.7 Variant<SEP>BNT162b2 Vaccine"
+  },
+  "COVID-19 vaccines<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-ad9d995908432109592f45ab0eade340"
+    ],
+    "count": 1,
+    "create_time": 1761791318,
+    "update_time": 1761791318,
+    "_id": "COVID-19 vaccines<SEP>SARS-CoV-2"
+  },
+  "Manuscript<SEP>Qatar National Library": {
+    "chunk_ids": [
+      "chunk-05b47fbb959b906a23f529ac6d753a35"
+    ],
+    "count": 1,
+    "create_time": 1761791318,
+    "update_time": 1761791318,
+    "_id": "Manuscript<SEP>Qatar National Library"
+  },
+  "COVID-19 Pandemic<SEP>FDA": {
+    "chunk_ids": [
+      "chunk-ad9d995908432109592f45ab0eade340"
+    ],
+    "count": 1,
+    "create_time": 1761791318,
+    "update_time": 1761791318,
+    "_id": "COVID-19 Pandemic<SEP>FDA"
+  },
+  "B.1.351 Variant<SEP>BNT162b2 Vaccine": {
+    "chunk_ids": [
+      "chunk-ad9d995908432109592f45ab0eade340"
+    ],
+    "count": 1,
+    "create_time": 1761791318,
+    "update_time": 1761791318,
+    "_id": "B.1.351 Variant<SEP>BNT162b2 Vaccine"
+  },
+  "Manuscript<SEP>Q. Fernandes": {
+    "chunk_ids": [
+      "chunk-05b47fbb959b906a23f529ac6d753a35"
+    ],
+    "count": 1,
+    "create_time": 1761791319,
+    "update_time": 1761791319,
+    "_id": "Manuscript<SEP>Q. Fernandes"
+  },
+  "Therapeutic Strategies<SEP>Virus": {
+    "chunk_ids": [
+      "chunk-05b47fbb959b906a23f529ac6d753a35"
+    ],
+    "count": 1,
+    "create_time": 1761791319,
+    "update_time": 1761791319,
+    "_id": "Therapeutic Strategies<SEP>Virus"
+  },
+  "B.1.617.2 (Delta) Variant<SEP>BNT162b2 Vaccine": {
+    "chunk_ids": [
+      "chunk-ad9d995908432109592f45ab0eade340"
+    ],
+    "count": 1,
+    "create_time": 1761791319,
+    "update_time": 1761791319,
+    "_id": "B.1.617.2 (Delta) Variant<SEP>BNT162b2 Vaccine"
+  },
+  "Manuscript<SEP>Shahab Uddin": {
+    "chunk_ids": [
+      "chunk-05b47fbb959b906a23f529ac6d753a35"
+    ],
+    "count": 1,
+    "create_time": 1761791319,
+    "update_time": 1761791319,
+    "_id": "Manuscript<SEP>Shahab Uddin"
+  },
+  "Manuscript<SEP>Said Dermime": {
+    "chunk_ids": [
+      "chunk-05b47fbb959b906a23f529ac6d753a35"
+    ],
+    "count": 1,
+    "create_time": 1761791319,
+    "update_time": 1761791319,
+    "_id": "Manuscript<SEP>Said Dermime"
+  },
+  "Manuscript<SEP>QF": {
+    "chunk_ids": [
+      "chunk-05b47fbb959b906a23f529ac6d753a35"
+    ],
+    "count": 1,
+    "create_time": 1761791320,
+    "update_time": 1761791320,
+    "_id": "Manuscript<SEP>QF"
+  },
+  "MM<SEP>Manuscript": {
+    "chunk_ids": [
+      "chunk-05b47fbb959b906a23f529ac6d753a35"
+    ],
+    "count": 1,
+    "create_time": 1761791321,
+    "update_time": 1761791321,
+    "_id": "MM<SEP>Manuscript"
+  },
+  "Manuscript<SEP>SM": {
+    "chunk_ids": [
+      "chunk-05b47fbb959b906a23f529ac6d753a35"
+    ],
+    "count": 1,
+    "create_time": 1761791321,
+    "update_time": 1761791321,
+    "_id": "Manuscript<SEP>SM"
+  },
+  "Manuscript<SEP>NT": {
+    "chunk_ids": [
+      "chunk-05b47fbb959b906a23f529ac6d753a35"
+    ],
+    "count": 1,
+    "create_time": 1761791321,
+    "update_time": 1761791321,
+    "_id": "Manuscript<SEP>NT"
+  },
+  "DM<SEP>Manuscript": {
+    "chunk_ids": [
+      "chunk-05b47fbb959b906a23f529ac6d753a35"
+    ],
+    "count": 1,
+    "create_time": 1761791322,
+    "update_time": 1761791322,
+    "_id": "DM<SEP>Manuscript"
+  },
+  "Manuscript<SEP>TB": {
+    "chunk_ids": [
+      "chunk-05b47fbb959b906a23f529ac6d753a35"
+    ],
+    "count": 1,
+    "create_time": 1761791322,
+    "update_time": 1761791322,
+    "_id": "Manuscript<SEP>TB"
+  },
+  "Manuscript<SEP>VP": {
+    "chunk_ids": [
+      "chunk-05b47fbb959b906a23f529ac6d753a35"
+    ],
+    "count": 1,
+    "create_time": 1761791323,
+    "update_time": 1761791323,
+    "_id": "Manuscript<SEP>VP"
+  },
+  "AR<SEP>Manuscript": {
+    "chunk_ids": [
+      "chunk-05b47fbb959b906a23f529ac6d753a35"
+    ],
+    "count": 1,
+    "create_time": 1761791323,
+    "update_time": 1761791323,
+    "_id": "AR<SEP>Manuscript"
+  },
+  "LZ<SEP>Manuscript": {
+    "chunk_ids": [
+      "chunk-05b47fbb959b906a23f529ac6d753a35"
+    ],
+    "count": 1,
+    "create_time": 1761791323,
+    "update_time": 1761791323,
+    "_id": "LZ<SEP>Manuscript"
+  },
+  "MOM<SEP>Manuscript": {
+    "chunk_ids": [
+      "chunk-05b47fbb959b906a23f529ac6d753a35"
+    ],
+    "count": 1,
+    "create_time": 1761791324,
+    "update_time": 1761791324,
+    "_id": "MOM<SEP>Manuscript"
+  },
+  "Real-Time PCR Technology<SEP>Viral Envelope": {
+    "chunk_ids": [
+      "chunk-f6003fc73508a55817ade571f6742383"
+    ],
+    "count": 1,
+    "create_time": 1761791324,
+    "update_time": 1761791324,
+    "_id": "Real-Time PCR Technology<SEP>Viral Envelope"
+  },
+  "MAN<SEP>Manuscript": {
+    "chunk_ids": [
+      "chunk-05b47fbb959b906a23f529ac6d753a35"
+    ],
+    "count": 1,
+    "create_time": 1761791324,
+    "update_time": 1761791324,
+    "_id": "MAN<SEP>Manuscript"
+  },
+  "Nucleocapsid<SEP>Real-Time PCR Technology": {
+    "chunk_ids": [
+      "chunk-f6003fc73508a55817ade571f6742383"
+    ],
+    "count": 1,
+    "create_time": 1761791324,
+    "update_time": 1761791324,
+    "_id": "Nucleocapsid<SEP>Real-Time PCR Technology"
+  },
+  "Multi-Target Assays<SEP>SARS-CoV-2 Variants": {
+    "chunk_ids": [
+      "chunk-f6003fc73508a55817ade571f6742383"
+    ],
+    "count": 1,
+    "create_time": 1761791324,
+    "update_time": 1761791324,
+    "_id": "Multi-Target Assays<SEP>SARS-CoV-2 Variants"
+  },
+  "Loop-Mediated Isothermal Amplification (LAMP)<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-f6003fc73508a55817ade571f6742383"
+    ],
+    "count": 1,
+    "create_time": 1761791324,
+    "update_time": 1761791324,
+    "_id": "Loop-Mediated Isothermal Amplification (LAMP)<SEP>SARS-CoV-2"
+  },
+  "AA<SEP>Manuscript": {
+    "chunk_ids": [
+      "chunk-05b47fbb959b906a23f529ac6d753a35"
+    ],
+    "count": 1,
+    "create_time": 1761791324,
+    "update_time": 1761791324,
+    "_id": "AA<SEP>Manuscript"
+  },
+  "E154K<SEP>G142D": {
+    "chunk_ids": [
+      "chunk-f6003fc73508a55817ade571f6742383"
+    ],
+    "count": 1,
+    "create_time": 1761791324,
+    "update_time": 1761791324,
+    "_id": "E154K<SEP>G142D"
+  },
+  "HM<SEP>Manuscript": {
+    "chunk_ids": [
+      "chunk-05b47fbb959b906a23f529ac6d753a35"
+    ],
+    "count": 1,
+    "create_time": 1761791325,
+    "update_time": 1761791325,
+    "_id": "HM<SEP>Manuscript"
+  },
+  "D614G<SEP>N501Y": {
+    "chunk_ids": [
+      "chunk-f6003fc73508a55817ade571f6742383"
+    ],
+    "count": 1,
+    "create_time": 1761791325,
+    "update_time": 1761791325,
+    "_id": "D614G<SEP>N501Y"
+  },
+  "D614G<SEP>P681H": {
+    "chunk_ids": [
+      "chunk-f6003fc73508a55817ade571f6742383"
+    ],
+    "count": 1,
+    "create_time": 1761791325,
+    "update_time": 1761791325,
+    "_id": "D614G<SEP>P681H"
+  },
+  "COVID-19<SEP>mRNA Vaccines": {
+    "chunk_ids": [
+      "chunk-76b896a58b69e219292e8f85429f28c9"
+    ],
+    "count": 1,
+    "create_time": 1761791325,
+    "update_time": 1761791325,
+    "_id": "COVID-19<SEP>mRNA Vaccines"
+  },
+  "MB<SEP>Manuscript": {
+    "chunk_ids": [
+      "chunk-05b47fbb959b906a23f529ac6d753a35"
+    ],
+    "count": 1,
+    "create_time": 1761791325,
+    "update_time": 1761791325,
+    "_id": "MB<SEP>Manuscript"
+  },
+  "Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR)<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-f6003fc73508a55817ade571f6742383"
+    ],
+    "count": 1,
+    "create_time": 1761791325,
+    "update_time": 1761791325,
+    "_id": "Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR)<SEP>SARS-CoV-2"
+  },
+  "BNT162b2<SEP>SARS-CoV-2 Spike": {
+    "chunk_ids": [
+      "chunk-76b896a58b69e219292e8f85429f28c9"
+    ],
+    "count": 1,
+    "create_time": 1761791325,
+    "update_time": 1761791325,
+    "_id": "BNT162b2<SEP>SARS-CoV-2 Spike"
+  },
+  "Manuscript<SEP>SU": {
+    "chunk_ids": [
+      "chunk-05b47fbb959b906a23f529ac6d753a35"
+    ],
+    "count": 1,
+    "create_time": 1761791326,
+    "update_time": 1761791326,
+    "_id": "Manuscript<SEP>SU"
+  },
+  "COVID-19<SEP>mRNA-1273": {
+    "chunk_ids": [
+      "chunk-76b896a58b69e219292e8f85429f28c9"
+    ],
+    "count": 1,
+    "create_time": 1761791326,
+    "update_time": 1761791326,
+    "_id": "COVID-19<SEP>mRNA-1273"
+  },
+  "CoronaVac<SEP>Sinovac Biotech Ltd": {
+    "chunk_ids": [
+      "chunk-76b896a58b69e219292e8f85429f28c9"
+    ],
+    "count": 1,
+    "create_time": 1761791326,
+    "update_time": 1761791326,
+    "_id": "CoronaVac<SEP>Sinovac Biotech Ltd"
+  },
+  "Inactivated Virus Vaccines<SEP>WHO": {
+    "chunk_ids": [
+      "chunk-76b896a58b69e219292e8f85429f28c9"
+    ],
+    "count": 1,
+    "create_time": 1761791326,
+    "update_time": 1761791326,
+    "_id": "Inactivated Virus Vaccines<SEP>WHO"
+  },
+  "Influenza<SEP>Whole Virus Vaccines": {
+    "chunk_ids": [
+      "chunk-76b896a58b69e219292e8f85429f28c9"
+    ],
+    "count": 1,
+    "create_time": 1761791326,
+    "update_time": 1761791326,
+    "_id": "Influenza<SEP>Whole Virus Vaccines"
+  },
+  "Manuscript<SEP>SD": {
+    "chunk_ids": [
+      "chunk-05b47fbb959b906a23f529ac6d753a35"
+    ],
+    "count": 1,
+    "create_time": 1761791326,
+    "update_time": 1761791326,
+    "_id": "Manuscript<SEP>SD"
+  },
+  "CD4 T Cells<SEP>mRNA Vaccines": {
+    "chunk_ids": [
+      "chunk-76b896a58b69e219292e8f85429f28c9"
+    ],
+    "count": 1,
+    "create_time": 1761791326,
+    "update_time": 1761791326,
+    "_id": "CD4 T Cells<SEP>mRNA Vaccines"
+  },
+  "BNT162b2<SEP>Neutralizing Antibodies": {
+    "chunk_ids": [
+      "chunk-76b896a58b69e219292e8f85429f28c9",
+      "chunk-79e80c342197e54d6b5f6d848763a310"
+    ],
+    "count": 2,
+    "create_time": 1761791326,
+    "update_time": 1761791326,
+    "_id": "BNT162b2<SEP>Neutralizing Antibodies"
+  },
+  "Poliomyelitis<SEP>Whole Virus Vaccines": {
+    "chunk_ids": [
+      "chunk-76b896a58b69e219292e8f85429f28c9"
+    ],
+    "count": 1,
+    "create_time": 1761791326,
+    "update_time": 1761791326,
+    "_id": "Poliomyelitis<SEP>Whole Virus Vaccines"
+  },
+  "RNA Template<SEP>V-2 Mutagenesis": {
+    "chunk_ids": [
+      "chunk-c0e6aa9f0875f979985d2e25e365e6ae"
+    ],
+    "count": 1,
+    "create_time": 1761791326,
+    "update_time": 1761791326,
+    "_id": "RNA Template<SEP>V-2 Mutagenesis"
+  },
+  "Kabinger F<SEP>Molnupiravir": {
+    "chunk_ids": [
+      "chunk-c0e6aa9f0875f979985d2e25e365e6ae"
+    ],
+    "count": 1,
+    "create_time": 1761791326,
+    "update_time": 1761791326,
+    "_id": "Kabinger F<SEP>Molnupiravir"
+  },
+  "BNT162b2<SEP>Memory T Cells": {
+    "chunk_ids": [
+      "chunk-76b896a58b69e219292e8f85429f28c9"
+    ],
+    "count": 1,
+    "create_time": 1761791326,
+    "update_time": 1761791326,
+    "_id": "BNT162b2<SEP>Memory T Cells"
+  },
+  "Paxlovid<SEP>Sheahan TP": {
+    "chunk_ids": [
+      "chunk-c0e6aa9f0875f979985d2e25e365e6ae"
+    ],
+    "count": 1,
+    "create_time": 1761791326,
+    "update_time": 1761791326,
+    "_id": "Paxlovid<SEP>Sheahan TP"
+  },
+  "Spike Glycoprotein Vaccine Candidate NVX-CoV2373<SEP>Tian JH": {
+    "chunk_ids": [
+      "chunk-c0e6aa9f0875f979985d2e25e365e6ae"
+    ],
+    "count": 1,
+    "create_time": 1761791326,
+    "update_time": 1761791326,
+    "_id": "Spike Glycoprotein Vaccine Candidate NVX-CoV2373<SEP>Tian JH"
+  },
+  "CD8 T Cells<SEP>mRNA Vaccines": {
+    "chunk_ids": [
+      "chunk-76b896a58b69e219292e8f85429f28c9"
+    ],
+    "count": 1,
+    "create_time": 1761791326,
+    "update_time": 1761791326,
+    "_id": "CD8 T Cells<SEP>mRNA Vaccines"
+  },
+  "Keech CMD<SEP>Matrix-M Adjuvant": {
+    "chunk_ids": [
+      "chunk-c0e6aa9f0875f979985d2e25e365e6ae"
+    ],
+    "count": 1,
+    "create_time": 1761791326,
+    "update_time": 1761791326,
+    "_id": "Keech CMD<SEP>Matrix-M Adjuvant"
+  },
+  "Cynomolgus Macaque<SEP>NVX-CoV2373 Vaccine": {
+    "chunk_ids": [
+      "chunk-c0e6aa9f0875f979985d2e25e365e6ae"
+    ],
+    "count": 1,
+    "create_time": 1761791326,
+    "update_time": 1761791326,
+    "_id": "Cynomolgus Macaque<SEP>NVX-CoV2373 Vaccine"
+  },
+  "Baboon<SEP>NevX-CoV2373 Vaccine": {
+    "chunk_ids": [
+      "chunk-c0e6aa9f0875f979985d2e25e365e6ae"
+    ],
+    "count": 1,
+    "create_time": 1761791326,
+    "update_time": 1761791326,
+    "_id": "Baboon<SEP>NevX-CoV2373 Vaccine"
+  },
+  "Human Papillomavirus Infections<SEP>Whole Virus Vaccines": {
+    "chunk_ids": [
+      "chunk-76b896a58b69e219292e8f85429f28c9"
+    ],
+    "count": 1,
+    "create_time": 1761791327,
+    "update_time": 1761791327,
+    "_id": "Human Papillomavirus Infections<SEP>Whole Virus Vaccines"
+  },
+  "ChAdOx1 nCoV-19 Vaccine<SEP>Folegatti PM": {
+    "chunk_ids": [
+      "chunk-c0e6aa9f0875f979985d2e25e365e6ae",
+      "chunk-1f5bd39f94801f6e3906bc498e399298"
+    ],
+    "count": 2,
+    "create_time": 1761791327,
+    "update_time": 1761791327,
+    "_id": "ChAdOx1 nCoV-19 Vaccine<SEP>Folegatti PM"
+  },
+  "NVX-CoV2373<SEP>United Kingdom": {
+    "chunk_ids": [
+      "chunk-c9bb134c549ef99824593cc9b842ed83"
+    ],
+    "count": 1,
+    "create_time": 1761791327,
+    "update_time": 1761791327,
+    "_id": "NVX-CoV2373<SEP>United Kingdom"
+  },
+  "AZD1222<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-c9bb134c549ef99824593cc9b842ed83"
+    ],
+    "count": 1,
+    "create_time": 1761791327,
+    "update_time": 1761791327,
+    "_id": "AZD1222<SEP>SARS-CoV-2"
+  },
+  "NVX-CoV2373<SEP>Northern Ireland": {
+    "chunk_ids": [
+      "chunk-c9bb134c549ef99824593cc9b842ed83"
+    ],
+    "count": 1,
+    "create_time": 1761791327,
+    "update_time": 1761791327,
+    "_id": "NVX-CoV2373<SEP>Northern Ireland"
+  },
+  "Lipid Nanoparticles<SEP>mRNA Vaccine": {
+    "chunk_ids": [
+      "chunk-c9bb134c549ef99824593cc9b842ed83"
+    ],
+    "count": 1,
+    "create_time": 1761791327,
+    "update_time": 1761791327,
+    "_id": "Lipid Nanoparticles<SEP>mRNA Vaccine"
+  },
+  "Comorbidities<SEP>NVX-CoV2373": {
+    "chunk_ids": [
+      "chunk-c9bb134c549ef99824593cc9b842ed83"
+    ],
+    "count": 1,
+    "create_time": 1761791327,
+    "update_time": 1761791327,
+    "_id": "Comorbidities<SEP>NVX-CoV2373"
+  },
+  "CoronaVac<SEP>FDA": {
+    "chunk_ids": [
+      "chunk-f849139a3171d7c3bad48d83b0e56bf7"
+    ],
+    "count": 1,
+    "create_time": 1761791327,
+    "update_time": 1761791327,
+    "_id": "CoronaVac<SEP>FDA"
+  },
+  "Ambrose CS<SEP>Influenza Incidence Surveillance Project": {
+    "chunk_ids": [
+      "chunk-f849139a3171d7c3bad48d83b0e56bf7"
+    ],
+    "count": 1,
+    "create_time": 1761791327,
+    "update_time": 1761791327,
+    "_id": "Ambrose CS<SEP>Influenza Incidence Surveillance Project"
+  },
+  "Flannery B<SEP>Safety": {
+    "chunk_ids": [
+      "chunk-f849139a3171d7c3bad48d83b0e56bf7"
+    ],
+    "count": 1,
+    "create_time": 1761791327,
+    "update_time": 1761791327,
+    "_id": "Flannery B<SEP>Safety"
+  },
+  "Protein Vaccine<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-c9bb134c549ef99824593cc9b842ed83"
+    ],
+    "count": 1,
+    "create_time": 1761791327,
+    "update_time": 1761791327,
+    "_id": "Protein Vaccine<SEP>SARS-CoV-2"
+  },
+  "AZD1222<SEP>CD4 T Cell Response": {
+    "chunk_ids": [
+      "chunk-c9bb134c549ef99824593cc9b842ed83"
+    ],
+    "count": 1,
+    "create_time": 1761791327,
+    "update_time": 1761791327,
+    "_id": "AZD1222<SEP>CD4 T Cell Response"
+  },
+  "Jiang R<SEP>Phase IV Clinical Trial": {
+    "chunk_ids": [
+      "chunk-f849139a3171d7c3bad48d83b0e56bf7"
+    ],
+    "count": 1,
+    "create_time": 1761791327,
+    "update_time": 1761791327,
+    "_id": "Jiang R<SEP>Phase IV Clinical Trial"
+  },
+  "Influenza Vaccine Effectiveness Network<SEP>Noah Carter": {
+    "chunk_ids": [
+      "chunk-f849139a3171d7c3bad48d83b0e56bf7"
+    ],
+    "count": 1,
+    "create_time": 1761791327,
+    "update_time": 1761791327,
+    "_id": "Influenza Vaccine Effectiveness Network<SEP>Noah Carter"
+  },
+  "Revenko H<SEP>Safety": {
+    "chunk_ids": [
+      "chunk-f849139a3171d7c3bad48d83b0e56bf7"
+    ],
+    "count": 1,
+    "create_time": 1761791328,
+    "update_time": 1761791328,
+    "_id": "Revenko H<SEP>Safety"
+  },
+  "Bynoe ML<SEP>Tyrrell DA": {
+    "chunk_ids": [
+      "chunk-62c1a16d82b02fe9ac82ef46c947532d"
+    ],
+    "count": 1,
+    "create_time": 1761791328,
+    "update_time": 1761791328,
+    "_id": "Bynoe ML<SEP>Tyrrell DA"
+  },
+  "AZD1222<SEP>Antibody Dependent Cellular Cytotoxicity": {
+    "chunk_ids": [
+      "chunk-c9bb134c549ef99824593cc9b842ed83"
+    ],
+    "count": 1,
+    "create_time": 1761791328,
+    "update_time": 1761791328,
+    "_id": "AZD1222<SEP>Antibody Dependent Cellular Cytotoxicity"
+  },
+  "Martin MA<SEP>VanInsberghe D": {
+    "chunk_ids": [
+      "chunk-62c1a16d82b02fe9ac82ef46c947532d"
+    ],
+    "count": 1,
+    "create_time": 1761791328,
+    "update_time": 1761791328,
+    "_id": "Martin MA<SEP>VanInsberghe D"
+  },
+  "Falzone L<SEP>Gattuso G": {
+    "chunk_ids": [
+      "chunk-62c1a16d82b02fe9ac82ef46c947532d"
+    ],
+    "count": 1,
+    "create_time": 1761791328,
+    "update_time": 1761791328,
+    "_id": "Falzone L<SEP>Gattuso G"
+  },
+  "Koelle K<SEP>Martin MA": {
+    "chunk_ids": [
+      "chunk-62c1a16d82b02fe9ac82ef46c947532d"
+    ],
+    "count": 1,
+    "create_time": 1761791328,
+    "update_time": 1761791328,
+    "_id": "Koelle K<SEP>Martin MA"
+  },
+  "Alpdagtas S<SEP>Ilhan E": {
+    "chunk_ids": [
+      "chunk-62c1a16d82b02fe9ac82ef46c947532d"
+    ],
+    "count": 1,
+    "create_time": 1761791328,
+    "update_time": 1761791328,
+    "_id": "Alpdagtas S<SEP>Ilhan E"
+  },
+  "AZD1222<SEP>CD8 T Cell Response": {
+    "chunk_ids": [
+      "chunk-c9bb134c549ef99824593cc9b842ed83"
+    ],
+    "count": 1,
+    "create_time": 1761791328,
+    "update_time": 1761791328,
+    "_id": "AZD1222<SEP>CD8 T Cell Response"
+  },
+  "Falzone L<SEP>Tsatsakis A": {
+    "chunk_ids": [
+      "chunk-62c1a16d82b02fe9ac82ef46c947532d"
+    ],
+    "count": 1,
+    "create_time": 1761791328,
+    "update_time": 1761791328,
+    "_id": "Falzone L<SEP>Tsatsakis A"
+  },
+  "So HC<SEP>Tsang NNY": {
+    "chunk_ids": [
+      "chunk-62c1a16d82b02fe9ac82ef46c947532d"
+    ],
+    "count": 1,
+    "create_time": 1761791328,
+    "update_time": 1761791328,
+    "_id": "So HC<SEP>Tsang NNY"
+  },
+  "Parikh BA<SEP>Tahan S": {
+    "chunk_ids": [
+      "chunk-62c1a16d82b02fe9ac82ef46c947532d"
+    ],
+    "count": 1,
+    "create_time": 1761791328,
+    "update_time": 1761791328,
+    "_id": "Parikh BA<SEP>Tahan S"
+  },
+  "Alpdagtas S<SEP>Uysal E": {
+    "chunk_ids": [
+      "chunk-62c1a16d82b02fe9ac82ef46c947532d"
+    ],
+    "count": 1,
+    "create_time": 1761791328,
+    "update_time": 1761791328,
+    "_id": "Alpdagtas S<SEP>Uysal E"
+  },
+  "Baillie CK<SEP>Mautner L": {
+    "chunk_ids": [
+      "chunk-62c1a16d82b02fe9ac82ef46c947532d"
+    ],
+    "count": 1,
+    "create_time": 1761791328,
+    "update_time": 1761791328,
+    "_id": "Baillie CK<SEP>Mautner L"
+  },
+  "Ng KY<SEP>Tsang NNY": {
+    "chunk_ids": [
+      "chunk-62c1a16d82b02fe9ac82ef46c947532d"
+    ],
+    "count": 1,
+    "create_time": 1761791328,
+    "update_time": 1761791328,
+    "_id": "Ng KY<SEP>Tsang NNY"
+  },
+  "Broughton JP<SEP>Deng X": {
+    "chunk_ids": [
+      "chunk-62c1a16d82b02fe9ac82ef46c947532d"
+    ],
+    "count": 1,
+    "create_time": 1761791329,
+    "update_time": 1761791329,
+    "_id": "Broughton JP<SEP>Deng X"
+  },
+  "Droit L<SEP>Tahan S": {
+    "chunk_ids": [
+      "chunk-62c1a16d82b02fe9ac82ef46c947532d"
+    ],
+    "count": 1,
+    "create_time": 1761791329,
+    "update_time": 1761791329,
+    "_id": "Droit L<SEP>Tahan S"
+  },
+  "Chaudhari AM<SEP>Puvar AP": {
+    "chunk_ids": [
+      "chunk-62c1a16d82b02fe9ac82ef46c947532d"
+    ],
+    "count": 1,
+    "create_time": 1761791329,
+    "update_time": 1761791329,
+    "_id": "Chaudhari AM<SEP>Puvar AP"
+  },
+  "Herold HM<SEP>Mautner L": {
+    "chunk_ids": [
+      "chunk-62c1a16d82b02fe9ac82ef46c947532d"
+    ],
+    "count": 1,
+    "create_time": 1761791329,
+    "update_time": 1761791329,
+    "_id": "Herold HM<SEP>Mautner L"
+  },
+  "Pabbaraju K<SEP>Zelyas N": {
+    "chunk_ids": [
+      "chunk-62c1a16d82b02fe9ac82ef46c947532d"
+    ],
+    "count": 1,
+    "create_time": 1761791329,
+    "update_time": 1761791329,
+    "_id": "Pabbaraju K<SEP>Zelyas N"
+  },
+  "Coppi M<SEP>Giovacchini N": {
+    "chunk_ids": [
+      "chunk-62c1a16d82b02fe9ac82ef46c947532d"
+    ],
+    "count": 1,
+    "create_time": 1761791329,
+    "update_time": 1761791329,
+    "_id": "Coppi M<SEP>Giovacchini N"
+  },
+  "Broughton JP<SEP>Yu G": {
+    "chunk_ids": [
+      "chunk-62c1a16d82b02fe9ac82ef46c947532d"
+    ],
+    "count": 1,
+    "create_time": 1761791329,
+    "update_time": 1761791329,
+    "_id": "Broughton JP<SEP>Yu G"
+  },
+  "Puvar AP<SEP>Travadi T": {
+    "chunk_ids": [
+      "chunk-62c1a16d82b02fe9ac82ef46c947532d"
+    ],
+    "count": 1,
+    "create_time": 1761791329,
+    "update_time": 1761791329,
+    "_id": "Puvar AP<SEP>Travadi T"
+  },
+  "B.1.1.7 Variant<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-62c1a16d82b02fe9ac82ef46c947532d"
+    ],
+    "count": 1,
+    "create_time": 1761791329,
+    "update_time": 1761791329,
+    "_id": "B.1.1.7 Variant<SEP>SARS-CoV-2"
+  },
+  "Croxen MA<SEP>Zelyas N": {
+    "chunk_ids": [
+      "chunk-62c1a16d82b02fe9ac82ef46c947532d"
+    ],
+    "count": 1,
+    "create_time": 1761791329,
+    "update_time": 1761791329,
+    "_id": "Croxen MA<SEP>Zelyas N"
+  },
+  "Aiezza N<SEP>Giovacchini N": {
+    "chunk_ids": [
+      "chunk-62c1a16d82b02fe9ac82ef46c947532d"
+    ],
+    "count": 1,
+    "create_time": 1761791329,
+    "update_time": 1761791329,
+    "_id": "Aiezza N<SEP>Giovacchini N"
+  },
+  "Next-Generation Gene Sequencing<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-42afc66a510e32c7e7356f907c3ef8fb"
+    ],
+    "count": 1,
+    "create_time": 1761791329,
+    "update_time": 1761791329,
+    "_id": "Next-Generation Gene Sequencing<SEP>SARS-CoV-2"
+  },
+  "Anti-SARS-CoV-2 Antibody-Based Detection<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-42afc66a510e32c7e7356f907c3ef8fb"
+    ],
+    "count": 1,
+    "create_time": 1761791330,
+    "update_time": 1761791330,
+    "_id": "Anti-SARS-CoV-2 Antibody-Based Detection<SEP>SARS-CoV-2"
+  },
+  "Enzyme Linked Immunosorbent Assays (ELISA)<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-42afc66a510e32c7e7356f907c3ef8fb"
+    ],
+    "count": 1,
+    "create_time": 1761791330,
+    "update_time": 1761791330,
+    "_id": "Enzyme Linked Immunosorbent Assays (ELISA)<SEP>SARS-CoV-2"
+  },
+  "COVID-19 Vaccine (Vero Cell)<SEP>Sinovac Biotech Ltd": {
+    "chunk_ids": [
+      "chunk-aaaa5fb757f39e3e664c7d9b45847f8f"
+    ],
+    "count": 1,
+    "create_time": 1761791330,
+    "update_time": 1761791330,
+    "_id": "COVID-19 Vaccine (Vero Cell)<SEP>Sinovac Biotech Ltd"
+  },
+  "Microarray-Based Technology<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-42afc66a510e32c7e7356f907c3ef8fb"
+    ],
+    "count": 1,
+    "create_time": 1761791330,
+    "update_time": 1761791330,
+    "_id": "Microarray-Based Technology<SEP>SARS-CoV-2"
+  },
+  "COVID-19 Vaccine (Vero Cell)<SEP>SARS-CoV-2 (CN2 strain)": {
+    "chunk_ids": [
+      "chunk-aaaa5fb757f39e3e664c7d9b45847f8f"
+    ],
+    "count": 1,
+    "create_time": 1761791330,
+    "update_time": 1761791330,
+    "_id": "COVID-19 Vaccine (Vero Cell)<SEP>SARS-CoV-2 (CN2 strain)"
+  },
+  "PCR Melting Temperature Assays<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-42afc66a510e32c7e7356f907c3ef8fb"
+    ],
+    "count": 1,
+    "create_time": 1761791331,
+    "update_time": 1761791331,
+    "_id": "PCR Melting Temperature Assays<SEP>SARS-CoV-2"
+  },
+  "Aluminium Hydroxide<SEP>COVID-19 Vaccine (Vero Cell)": {
+    "chunk_ids": [
+      "chunk-aaaa5fb757f39e3e664c7d9b45847f8f"
+    ],
+    "count": 1,
+    "create_time": 1761791331,
+    "update_time": 1761791331,
+    "_id": "Aluminium Hydroxide<SEP>COVID-19 Vaccine (Vero Cell)"
+  },
+  "Brazil<SEP>Clinical Trials": {
+    "chunk_ids": [
+      "chunk-aaaa5fb757f39e3e664c7d9b45847f8f"
+    ],
+    "count": 1,
+    "create_time": 1761791331,
+    "update_time": 1761791331,
+    "_id": "Brazil<SEP>Clinical Trials"
+  },
+  "Clinical Trials<SEP>Turkey": {
+    "chunk_ids": [
+      "chunk-aaaa5fb757f39e3e664c7d9b45847f8f"
+    ],
+    "count": 1,
+    "create_time": 1761791331,
+    "update_time": 1761791331,
+    "_id": "Clinical Trials<SEP>Turkey"
+  },
+  "SARS-CoV-2<SEP>SARS-CoV-2 Antigen": {
+    "chunk_ids": [
+      "chunk-42afc66a510e32c7e7356f907c3ef8fb"
+    ],
+    "count": 1,
+    "create_time": 1761791331,
+    "update_time": 1761791331,
+    "_id": "SARS-CoV-2<SEP>SARS-CoV-2 Antigen"
+  },
+  "COVID-19 Vaccine (Vero Cell)<SEP>Clinical Trials": {
+    "chunk_ids": [
+      "chunk-aaaa5fb757f39e3e664c7d9b45847f8f"
+    ],
+    "count": 1,
+    "create_time": 1761791331,
+    "update_time": 1761791331,
+    "_id": "COVID-19 Vaccine (Vero Cell)<SEP>Clinical Trials"
+  },
+  "COVID-19 Vaccine (Vero Cell) Inactivated<SEP>Phase I Clinical Trial": {
+    "chunk_ids": [
+      "chunk-aaaa5fb757f39e3e664c7d9b45847f8f"
+    ],
+    "count": 1,
+    "create_time": 1761791331,
+    "update_time": 1761791331,
+    "_id": "COVID-19 Vaccine (Vero Cell) Inactivated<SEP>Phase I Clinical Trial"
+  },
+  "Immunofluorescent Assays<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-42afc66a510e32c7e7356f907c3ef8fb"
+    ],
+    "count": 1,
+    "create_time": 1761791331,
+    "update_time": 1761791331,
+    "_id": "Immunofluorescent Assays<SEP>SARS-CoV-2"
+  },
+  "COVID-19 Vaccine (Vero Cell) Inactivated<SEP>Phase II Clinical Trials": {
+    "chunk_ids": [
+      "chunk-aaaa5fb757f39e3e664c7d9b45847f8f"
+    ],
+    "count": 1,
+    "create_time": 1761791332,
+    "update_time": 1761791332,
+    "_id": "COVID-19 Vaccine (Vero Cell) Inactivated<SEP>Phase II Clinical Trials"
+  },
+  "COVID-19 Vaccine (Vero Cell)<SEP>Rhesus Macaca Mulatta": {
+    "chunk_ids": [
+      "chunk-aaaa5fb757f39e3e664c7d9b45847f8f"
+    ],
+    "count": 1,
+    "create_time": 1761791332,
+    "update_time": 1761791332,
+    "_id": "COVID-19 Vaccine (Vero Cell)<SEP>Rhesus Macaca Mulatta"
+  },
+  "Immunochromatographic Assays<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-42afc66a510e32c7e7356f907c3ef8fb",
+      "chunk-2b577370572f3abc47d20a85c1e6bec3"
+    ],
+    "count": 2,
+    "create_time": 1761791332,
+    "update_time": 1761791332,
+    "_id": "Immunochromatographic Assays<SEP>SARS-CoV-2"
+  },
+  "National Center for Cancer Care and Research<SEP>Queenie Fernandes": {
+    "chunk_ids": [
+      "chunk-ce3bd37fe1aaaf4844a65730510fce83"
+    ],
+    "count": 1,
+    "create_time": 1761791332,
+    "update_time": 1761791332,
+    "_id": "National Center for Cancer Care and Research<SEP>Queenie Fernandes"
+  },
+  "National Center for Cancer Care and Research<SEP>Varghese Philipose Inchakalody": {
+    "chunk_ids": [
+      "chunk-ce3bd37fe1aaaf4844a65730510fce83"
+    ],
+    "count": 1,
+    "create_time": 1761791332,
+    "update_time": 1761791332,
+    "_id": "National Center for Cancer Care and Research<SEP>Varghese Philipose Inchakalody"
+  },
+  "Chemiluminescent Immunoassays<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-42afc66a510e32c7e7356f907c3ef8fb"
+    ],
+    "count": 1,
+    "create_time": 1761791332,
+    "update_time": 1761791332,
+    "_id": "Chemiluminescent Immunoassays<SEP>SARS-CoV-2"
+  },
+  "Hamad Medical Corporation<SEP>Takwa Bedhiafi": {
+    "chunk_ids": [
+      "chunk-ce3bd37fe1aaaf4844a65730510fce83"
+    ],
+    "count": 1,
+    "create_time": 1761791332,
+    "update_time": 1761791332,
+    "_id": "Hamad Medical Corporation<SEP>Takwa Bedhiafi"
+  },
+  "COVID-19 Vaccine (Vero Cell) Inactivated<SEP>Hypersensitivity": {
+    "chunk_ids": [
+      "chunk-aaaa5fb757f39e3e664c7d9b45847f8f"
+    ],
+    "count": 1,
+    "create_time": 1761791332,
+    "update_time": 1761791332,
+    "_id": "COVID-19 Vaccine (Vero Cell) Inactivated<SEP>Hypersensitivity"
+  },
+  "Diagnostics<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-ce3bd37fe1aaaf4844a65730510fce83"
+    ],
+    "count": 1,
+    "create_time": 1761791332,
+    "update_time": 1761791332,
+    "_id": "Diagnostics<SEP>SARS-CoV-2"
+  },
+  "Therapeutics<SEP>Vaccines": {
+    "chunk_ids": [
+      "chunk-ce3bd37fe1aaaf4844a65730510fce83"
+    ],
+    "count": 1,
+    "create_time": 1761791332,
+    "update_time": 1761791332,
+    "_id": "Therapeutics<SEP>Vaccines"
+  },
+  "Dina Moustafa Abo El-Ella<SEP>National Center for Cancer Care and Research": {
+    "chunk_ids": [
+      "chunk-ce3bd37fe1aaaf4844a65730510fce83"
+    ],
+    "count": 1,
+    "create_time": 1761791333,
+    "update_time": 1761791333,
+    "_id": "Dina Moustafa Abo El-Ella<SEP>National Center for Cancer Care and Research"
+  },
+  "Doha<SEP>Hamad Medical Corporation": {
+    "chunk_ids": [
+      "chunk-ce3bd37fe1aaaf4844a65730510fce83"
+    ],
+    "count": 1,
+    "create_time": 1761791333,
+    "update_time": 1761791333,
+    "_id": "Doha<SEP>Hamad Medical Corporation"
+  },
+  "COVID-19 Vaccine (Vero Cell) Inactivated<SEP>Two-Dose Immunization Schedule": {
+    "chunk_ids": [
+      "chunk-aaaa5fb757f39e3e664c7d9b45847f8f"
+    ],
+    "count": 1,
+    "create_time": 1761791333,
+    "update_time": 1761791333,
+    "_id": "COVID-19 Vaccine (Vero Cell) Inactivated<SEP>Two-Dose Immunization Schedule"
+  },
+  "Folegatti PM<SEP>Lancet": {
+    "chunk_ids": [
+      "chunk-1f5bd39f94801f6e3906bc498e399298"
+    ],
+    "count": 1,
+    "create_time": 1761791333,
+    "update_time": 1761791333,
+    "_id": "Folegatti PM<SEP>Lancet"
+  },
+  "COVID-19 Variants<SEP>Diagnostics": {
+    "chunk_ids": [
+      "chunk-ce3bd37fe1aaaf4844a65730510fce83"
+    ],
+    "count": 1,
+    "create_time": 1761791333,
+    "update_time": 1761791333,
+    "_id": "COVID-19 Variants<SEP>Diagnostics"
+  },
+  "Development of Novel Vaccine Vectors<SEP>Guo J": {
+    "chunk_ids": [
+      "chunk-1f5bd39f94801f6e3906bc498e399298"
+    ],
+    "count": 1,
+    "create_time": 1761791333,
+    "update_time": 1761791333,
+    "_id": "Development of Novel Vaccine Vectors<SEP>Guo J"
+  },
+  "Ewer KJ<SEP>Viral Vectors as Vaccine Platforms": {
+    "chunk_ids": [
+      "chunk-1f5bd39f94801f6e3906bc498e399298"
+    ],
+    "count": 1,
+    "create_time": 1761791333,
+    "update_time": 1761791333,
+    "_id": "Ewer KJ<SEP>Viral Vectors as Vaccine Platforms"
+  },
+  "Oxford-AstraZeneca Vaccine<SEP>Pottegård A": {
+    "chunk_ids": [
+      "chunk-1f5bd39f94801f6e3906bc498e399298"
+    ],
+    "count": 1,
+    "create_time": 1761791333,
+    "update_time": 1761791333,
+    "_id": "Oxford-AstraZeneca Vaccine<SEP>Pottegård A"
+  },
+  "COVID-19 Vaccine (Vero Cell)<SEP>COVID-19 Vaccine (Vero Cell) Inactivated": {
+    "chunk_ids": [
+      "chunk-aaaa5fb757f39e3e664c7d9b45847f8f"
+    ],
+    "count": 1,
+    "create_time": 1761791333,
+    "update_time": 1761791333,
+    "_id": "COVID-19 Vaccine (Vero Cell)<SEP>COVID-19 Vaccine (Vero Cell) Inactivated"
+  },
+  "Emergency Use Authorization<SEP>Oxford/AstraZeneca Vaccine": {
+    "chunk_ids": [
+      "chunk-1f5bd39f94801f6e3906bc498e399298"
+    ],
+    "count": 1,
+    "create_time": 1761791333,
+    "update_time": 1761791333,
+    "_id": "Emergency Use Authorization<SEP>Oxford/AstraZeneca Vaccine"
+  },
+  "AZD1222 Vaccine<SEP>WHO": {
+    "chunk_ids": [
+      "chunk-0f6cf3a778132d5b8450f1b918dd5c9f"
+    ],
+    "count": 1,
+    "create_time": 1761791333,
+    "update_time": 1761791333,
+    "_id": "AZD1222 Vaccine<SEP>WHO"
+  },
+  "Infected Cells<SEP>Neutrophils": {
+    "chunk_ids": [
+      "chunk-0f6cf3a778132d5b8450f1b918dd5c9f"
+    ],
+    "count": 1,
+    "create_time": 1761791333,
+    "update_time": 1761791333,
+    "_id": "Infected Cells<SEP>Neutrophils"
+  },
+  "AZD1222 Vaccine<SEP>Thrombosis": {
+    "chunk_ids": [
+      "chunk-0f6cf3a778132d5b8450f1b918dd5c9f"
+    ],
+    "count": 1,
+    "create_time": 1761791333,
+    "update_time": 1761791333,
+    "_id": "AZD1222 Vaccine<SEP>Thrombosis"
+  },
+  "Al Kaabi N<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-0c6a11e5028c19780f412657d5fa29c5"
+    ],
+    "count": 1,
+    "create_time": 1761791333,
+    "update_time": 1761791333,
+    "_id": "Al Kaabi N<SEP>SARS-CoV-2"
+  },
+  "Phase-III Trial Results<SEP>Sinovac Vaccine": {
+    "chunk_ids": [
+      "chunk-0c6a11e5028c19780f412657d5fa29c5"
+    ],
+    "count": 1,
+    "create_time": 1761791333,
+    "update_time": 1761791333,
+    "_id": "Phase-III Trial Results<SEP>Sinovac Vaccine"
+  },
+  "COVID-19<SEP>Reports of Suspected Adverse Reaction": {
+    "chunk_ids": [
+      "chunk-0c6a11e5028c19780f412657d5fa29c5"
+    ],
+    "count": 1,
+    "create_time": 1761791333,
+    "update_time": 1761791333,
+    "_id": "COVID-19<SEP>Reports of Suspected Adverse Reaction"
+  },
+  "Eosinophils<SEP>Infected Cells": {
+    "chunk_ids": [
+      "chunk-0f6cf3a778132d5b8450f1b918dd5c9f"
+    ],
+    "count": 1,
+    "create_time": 1761791334,
+    "update_time": 1761791334,
+    "_id": "Eosinophils<SEP>Infected Cells"
+  },
+  "Allplex SARS-CoV-2/FluA/FluB/– RSV Assay<SEP>SARS-CoV-2 VOC-alpha": {
+    "chunk_ids": [
+      "chunk-2e048a55e60c5424d16722fffe73116e"
+    ],
+    "count": 1,
+    "create_time": 1761791334,
+    "update_time": 1761791334,
+    "_id": "Allplex SARS-CoV-2/FluA/FluB/– RSV Assay<SEP>SARS-CoV-2 VOC-alpha"
+  },
+  "COVID-19<SEP>Randomised Clinical Trials": {
+    "chunk_ids": [
+      "chunk-0c6a11e5028c19780f412657d5fa29c5"
+    ],
+    "count": 1,
+    "create_time": 1761791334,
+    "update_time": 1761791334,
+    "_id": "COVID-19<SEP>Randomised Clinical Trials"
+  },
+  "Nested RT-PCR Assays<SEP>SARS-CoV-2 VOC-alpha": {
+    "chunk_ids": [
+      "chunk-2e048a55e60c5424d16722fffe73116e"
+    ],
+    "count": 1,
+    "create_time": 1761791334,
+    "update_time": 1761791334,
+    "_id": "Nested RT-PCR Assays<SEP>SARS-CoV-2 VOC-alpha"
+  },
+  "COVID-19<SEP>LAMP Assays": {
+    "chunk_ids": [
+      "chunk-2e048a55e60c5424d16722fffe73116e"
+    ],
+    "count": 1,
+    "create_time": 1761791334,
+    "update_time": 1761791334,
+    "_id": "COVID-19<SEP>LAMP Assays"
+  },
+  "Reverse Transcriptase PCR Melting-Temperature Assay<SEP>SARS-CoV-2 Variants": {
+    "chunk_ids": [
+      "chunk-2e048a55e60c5424d16722fffe73116e"
+    ],
+    "count": 1,
+    "create_time": 1761791334,
+    "update_time": 1761791334,
+    "_id": "Reverse Transcriptase PCR Melting-Temperature Assay<SEP>SARS-CoV-2 Variants"
+  },
+  "ELISA Test<SEP>SARS-CoV-2 Proteins": {
+    "chunk_ids": [
+      "chunk-2e048a55e60c5424d16722fffe73116e"
+    ],
+    "count": 1,
+    "create_time": 1761791334,
+    "update_time": 1761791334,
+    "_id": "ELISA Test<SEP>SARS-CoV-2 Proteins"
+  },
+  "Infected Cells<SEP>Macrophages": {
+    "chunk_ids": [
+      "chunk-0f6cf3a778132d5b8450f1b918dd5c9f"
+    ],
+    "count": 1,
+    "create_time": 1761791334,
+    "update_time": 1761791334,
+    "_id": "Infected Cells<SEP>Macrophages"
+  },
+  "Automated Western Immunoblotting<SEP>SARS-CoV-2 Antibodies": {
+    "chunk_ids": [
+      "chunk-2e048a55e60c5424d16722fffe73116e"
+    ],
+    "count": 1,
+    "create_time": 1761791334,
+    "update_time": 1761791334,
+    "_id": "Automated Western Immunoblotting<SEP>SARS-CoV-2 Antibodies"
+  },
+  "Infected Cells<SEP>NK Cells": {
+    "chunk_ids": [
+      "chunk-0f6cf3a778132d5b8450f1b918dd5c9f"
+    ],
+    "count": 1,
+    "create_time": 1761791334,
+    "update_time": 1761791334,
+    "_id": "Infected Cells<SEP>NK Cells"
+  },
+  "2019-new Coronavirus<SEP>Remdesivir": {
+    "chunk_ids": [
+      "chunk-2e048a55e60c5424d16722fffe73116e"
+    ],
+    "count": 1,
+    "create_time": 1761791334,
+    "update_time": 1761791334,
+    "_id": "2019-new Coronavirus<SEP>Remdesivir"
+  },
+  "Int J Infect Dis<SEP>Rapid Screening for SARS-CoV-2 Variants": {
+    "chunk_ids": [
+      "chunk-2e048a55e60c5424d16722fffe73116e"
+    ],
+    "count": 1,
+    "create_time": 1761791334,
+    "update_time": 1761791334,
+    "_id": "Int J Infect Dis<SEP>Rapid Screening for SARS-CoV-2 Variants"
+  },
+  "CRISPR-Cas13-based Diagnosis<SEP>J Med Virol": {
+    "chunk_ids": [
+      "chunk-2e048a55e60c5424d16722fffe73116e"
+    ],
+    "count": 1,
+    "create_time": 1761791335,
+    "update_time": 1761791335,
+    "_id": "CRISPR-Cas13-based Diagnosis<SEP>J Med Virol"
+  },
+  "Detection of Coronaviruses<SEP>Intervirology": {
+    "chunk_ids": [
+      "chunk-2e048a55e60c5424d16722fffe73116e"
+    ],
+    "count": 1,
+    "create_time": 1761791335,
+    "update_time": 1761791335,
+    "_id": "Detection of Coronaviruses<SEP>Intervirology"
+  },
+  "J Clin Microbiol<SEP>PCR Melting-Temperature Assay": {
+    "chunk_ids": [
+      "chunk-2e048a55e60c5424d16722fffe73116e"
+    ],
+    "count": 1,
+    "create_time": 1761791335,
+    "update_time": 1761791335,
+    "_id": "J Clin Microbiol<SEP>PCR Melting-Temperature Assay"
+  },
+  "Infect Genet Evol<SEP>Sanger-based Screening": {
+    "chunk_ids": [
+      "chunk-2e048a55e60c5424d16722fffe73116e"
+    ],
+    "count": 1,
+    "create_time": 1761791335,
+    "update_time": 1761791335,
+    "_id": "Infect Genet Evol<SEP>Sanger-based Screening"
+  },
+  "Rapid Screening for SARS-CoV-2 Variants<SEP>Water Research": {
+    "chunk_ids": [
+      "chunk-2e048a55e60c5424d16722fffe73116e"
+    ],
+    "count": 1,
+    "create_time": 1761791335,
+    "update_time": 1761791335,
+    "_id": "Rapid Screening for SARS-CoV-2 Variants<SEP>Water Research"
+  },
+  "Diagnostics<SEP>SARS-CoV-2 Protein Detection": {
+    "chunk_ids": [
+      "chunk-2e048a55e60c5424d16722fffe73116e"
+    ],
+    "count": 1,
+    "create_time": 1761791335,
+    "update_time": 1761791335,
+    "_id": "Diagnostics<SEP>SARS-CoV-2 Protein Detection"
+  },
+  "Automated Western Immunoblotting<SEP>Eur J Clin Microbiol Infect Dis": {
+    "chunk_ids": [
+      "chunk-2e048a55e60c5424d16722fffe73116e"
+    ],
+    "count": 1,
+    "create_time": 1761791335,
+    "update_time": 1761791335,
+    "_id": "Automated Western Immunoblotting<SEP>Eur J Clin Microbiol Infect Dis"
+  },
+  "COVID-19<SEP>CRISPR-Cas13-based Diagnosis": {
+    "chunk_ids": [
+      "chunk-2e048a55e60c5424d16722fffe73116e"
+    ],
+    "count": 1,
+    "create_time": 1761791335,
+    "update_time": 1761791335,
+    "_id": "COVID-19<SEP>CRISPR-Cas13-based Diagnosis"
+  },
+  "Antibodies<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-2b577370572f3abc47d20a85c1e6bec3"
+    ],
+    "count": 1,
+    "create_time": 1761791335,
+    "update_time": 1761791335,
+    "_id": "Antibodies<SEP>SARS-CoV-2"
+  },
+  "Baricitinib<SEP>COVID-19": {
+    "chunk_ids": [
+      "chunk-2b577370572f3abc47d20a85c1e6bec3"
+    ],
+    "count": 1,
+    "create_time": 1761791336,
+    "update_time": 1761791336,
+    "_id": "Baricitinib<SEP>COVID-19"
+  },
+  "Chemiluminescence Assays<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-2b577370572f3abc47d20a85c1e6bec3"
+    ],
+    "count": 1,
+    "create_time": 1761791336,
+    "update_time": 1761791336,
+    "_id": "Chemiluminescence Assays<SEP>SARS-CoV-2"
+  },
+  "Argentina<SEP>BBIBP-CorV": {
+    "chunk_ids": [
+      "chunk-1f62dd8f4fa706f61d214740d4aca4e3"
+    ],
+    "count": 1,
+    "create_time": 1761791336,
+    "update_time": 1761791336,
+    "_id": "Argentina<SEP>BBIBP-CorV"
+  },
+  "ELISA<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-2b577370572f3abc47d20a85c1e6bec3"
+    ],
+    "count": 1,
+    "create_time": 1761791336,
+    "update_time": 1761791336,
+    "_id": "ELISA<SEP>SARS-CoV-2"
+  },
+  "BMJ<SEP>Oxford-AstraZeneca": {
+    "chunk_ids": [
+      "chunk-d300ad0251280be6e2b2d713e9ee6b72"
+    ],
+    "count": 1,
+    "create_time": 1761791336,
+    "update_time": 1761791336,
+    "_id": "BMJ<SEP>Oxford-AstraZeneca"
+  },
+  "BBIBP-CorV<SEP>SOTRs (Solid Organ Transplant Recipients)": {
+    "chunk_ids": [
+      "chunk-1f62dd8f4fa706f61d214740d4aca4e3"
+    ],
+    "count": 1,
+    "create_time": 1761791336,
+    "update_time": 1761791336,
+    "_id": "BBIBP-CorV<SEP>SOTRs (Solid Organ Transplant Recipients)"
+  },
+  "Ebola Vaccines<SEP>Uganda": {
+    "chunk_ids": [
+      "chunk-d300ad0251280be6e2b2d713e9ee6b72"
+    ],
+    "count": 1,
+    "create_time": 1761791336,
+    "update_time": 1761791336,
+    "_id": "Ebola Vaccines<SEP>Uganda"
+  },
+  "Chloroquine<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-2b577370572f3abc47d20a85c1e6bec3",
+      "chunk-27fd707fb557046d91dccc6a9c1e15fd"
+    ],
+    "count": 2,
+    "create_time": 1761791336,
+    "update_time": 1761791336,
+    "_id": "Chloroquine<SEP>SARS-CoV-2"
+  },
+  "Lancet<SEP>Russia": {
+    "chunk_ids": [
+      "chunk-d300ad0251280be6e2b2d713e9ee6b72"
+    ],
+    "count": 1,
+    "create_time": 1761791336,
+    "update_time": 1761791336,
+    "_id": "Lancet<SEP>Russia"
+  },
+  "Denmark<SEP>Oxford-AstraZeneca": {
+    "chunk_ids": [
+      "chunk-d300ad0251280be6e2b2d713e9ee6b72"
+    ],
+    "count": 1,
+    "create_time": 1761791336,
+    "update_time": 1761791336,
+    "_id": "Denmark<SEP>Oxford-AstraZeneca"
+  },
+  "BBIBP-CorV<SEP>Phase III Trials": {
+    "chunk_ids": [
+      "chunk-1f62dd8f4fa706f61d214740d4aca4e3"
+    ],
+    "count": 1,
+    "create_time": 1761791336,
+    "update_time": 1761791336,
+    "_id": "BBIBP-CorV<SEP>Phase III Trials"
+  },
+  "Lancet<SEP>rAd26 and rAd5": {
+    "chunk_ids": [
+      "chunk-d300ad0251280be6e2b2d713e9ee6b72"
+    ],
+    "count": 1,
+    "create_time": 1761791337,
+    "update_time": 1761791337,
+    "_id": "Lancet<SEP>rAd26 and rAd5"
+  },
+  "Norway<SEP>Oxford-AstraZeneca": {
+    "chunk_ids": [
+      "chunk-d300ad0251280be6e2b2d713e9ee6b72"
+    ],
+    "count": 1,
+    "create_time": 1761791337,
+    "update_time": 1761791337,
+    "_id": "Norway<SEP>Oxford-AstraZeneca"
+  },
+  "Recombinant Adenovirus Type 26<SEP>SARS-CoV-2 Vaccine": {
+    "chunk_ids": [
+      "chunk-a218174a04fc9428ffade976a83e2c22"
+    ],
+    "count": 1,
+    "create_time": 1761791337,
+    "update_time": 1761791337,
+    "_id": "Recombinant Adenovirus Type 26<SEP>SARS-CoV-2 Vaccine"
+  },
+  "Remdesivir Triphosphate<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-2b577370572f3abc47d20a85c1e6bec3"
+    ],
+    "count": 1,
+    "create_time": 1761791337,
+    "update_time": 1761791337,
+    "_id": "Remdesivir Triphosphate<SEP>SARS-CoV-2"
+  },
+  "Recombinant Adenovirus Type 5<SEP>SARS-CoV-2 Vaccine": {
+    "chunk_ids": [
+      "chunk-a218174a04fc9428ffade976a83e2c22"
+    ],
+    "count": 1,
+    "create_time": 1761791337,
+    "update_time": 1761791337,
+    "_id": "Recombinant Adenovirus Type 5<SEP>SARS-CoV-2 Vaccine"
+  },
+  "Sputnik V Vaccine<SEP>rAd26 and rAd5": {
+    "chunk_ids": [
+      "chunk-d300ad0251280be6e2b2d713e9ee6b72"
+    ],
+    "count": 1,
+    "create_time": 1761791337,
+    "update_time": 1761791337,
+    "_id": "Sputnik V Vaccine<SEP>rAd26 and rAd5"
+  },
+  "Hydroxychloroquine<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-2b577370572f3abc47d20a85c1e6bec3",
+      "chunk-27fd707fb557046d91dccc6a9c1e15fd"
+    ],
+    "count": 2,
+    "create_time": 1761791337,
+    "update_time": 1761791337,
+    "_id": "Hydroxychloroquine<SEP>SARS-CoV-2"
+  },
+  "Algeria<SEP>China": {
+    "chunk_ids": [
+      "chunk-c5d32d4ea33d3f509cec33af4a70a104"
+    ],
+    "count": 1,
+    "create_time": 1761791337,
+    "update_time": 1761791337,
+    "_id": "Algeria<SEP>China"
+  },
+  "Phase 1/2 Clinical Trials<SEP>SARS-CoV-2 Vaccine": {
+    "chunk_ids": [
+      "chunk-a218174a04fc9428ffade976a83e2c22"
+    ],
+    "count": 1,
+    "create_time": 1761791337,
+    "update_time": 1761791337,
+    "_id": "Phase 1/2 Clinical Trials<SEP>SARS-CoV-2 Vaccine"
+  },
+  "SARS-CoV-2<SEP>Transplant Recipients": {
+    "chunk_ids": [
+      "chunk-c5d32d4ea33d3f509cec33af4a70a104"
+    ],
+    "count": 1,
+    "create_time": 1761791337,
+    "update_time": 1761791337,
+    "_id": "SARS-CoV-2<SEP>Transplant Recipients"
+  },
+  "China<SEP>Serbia": {
+    "chunk_ids": [
+      "chunk-c5d32d4ea33d3f509cec33af4a70a104"
+    ],
+    "count": 1,
+    "create_time": 1761791338,
+    "update_time": 1761791338,
+    "_id": "China<SEP>Serbia"
+  },
+  "Aslam S<SEP>Immunogenicity Study": {
+    "chunk_ids": [
+      "chunk-c5d32d4ea33d3f509cec33af4a70a104"
+    ],
+    "count": 1,
+    "create_time": 1761791338,
+    "update_time": 1761791338,
+    "_id": "Aslam S<SEP>Immunogenicity Study"
+  },
+  "Phase 3 Clinical Trials<SEP>SARS-CoV-2 Vaccine": {
+    "chunk_ids": [
+      "chunk-a218174a04fc9428ffade976a83e2c22"
+    ],
+    "count": 1,
+    "create_time": 1761791338,
+    "update_time": 1761791338,
+    "_id": "Phase 3 Clinical Trials<SEP>SARS-CoV-2 Vaccine"
+  },
+  "IgG Titre<SEP>Phase 1/2 Clinical Trials": {
+    "chunk_ids": [
+      "chunk-a218174a04fc9428ffade976a83e2c22"
+    ],
+    "count": 1,
+    "create_time": 1761791338,
+    "update_time": 1761791338,
+    "_id": "IgG Titre<SEP>Phase 1/2 Clinical Trials"
+  },
+  "Adler E<SEP>Immunogenicity Study": {
+    "chunk_ids": [
+      "chunk-c5d32d4ea33d3f509cec33af4a70a104"
+    ],
+    "count": 1,
+    "create_time": 1761791338,
+    "update_time": 1761791338,
+    "_id": "Adler E<SEP>Immunogenicity Study"
+  },
+  "Clinical Effectiveness Study<SEP>Qin CX": {
+    "chunk_ids": [
+      "chunk-c5d32d4ea33d3f509cec33af4a70a104"
+    ],
+    "count": 1,
+    "create_time": 1761791338,
+    "update_time": 1761791338,
+    "_id": "Clinical Effectiveness Study<SEP>Qin CX"
+  },
+  "REMAP-CAP Trial<SEP>Tocilizumab": {
+    "chunk_ids": [
+      "chunk-27fd707fb557046d91dccc6a9c1e15fd"
+    ],
+    "count": 1,
+    "create_time": 1761791338,
+    "update_time": 1761791338,
+    "_id": "REMAP-CAP Trial<SEP>Tocilizumab"
+  },
+  "Neutralizing Antibodies<SEP>Phase 1/2 Clinical Trials": {
+    "chunk_ids": [
+      "chunk-a218174a04fc9428ffade976a83e2c22"
+    ],
+    "count": 1,
+    "create_time": 1761791338,
+    "update_time": 1761791338,
+    "_id": "Neutralizing Antibodies<SEP>Phase 1/2 Clinical Trials"
+  },
+  "Gam-COVID-Vac<SEP>SARS-CoV-2 Vaccine": {
+    "chunk_ids": [
+      "chunk-a218174a04fc9428ffade976a83e2c22"
+    ],
+    "count": 1,
+    "create_time": 1761791338,
+    "update_time": 1761791338,
+    "_id": "Gam-COVID-Vac<SEP>SARS-CoV-2 Vaccine"
+  },
+  "RNA-Dependent RNA Polymerase (RdRP)<SEP>Remdesivir": {
+    "chunk_ids": [
+      "chunk-27fd707fb557046d91dccc6a9c1e15fd"
+    ],
+    "count": 1,
+    "create_time": 1761791338,
+    "update_time": 1761791338,
+    "_id": "RNA-Dependent RNA Polymerase (RdRP)<SEP>Remdesivir"
+  },
+  "Immunogenicity Study<SEP>Mekeel K": {
+    "chunk_ids": [
+      "chunk-c5d32d4ea33d3f509cec33af4a70a104"
+    ],
+    "count": 1,
+    "create_time": 1761791338,
+    "update_time": 1761791338,
+    "_id": "Immunogenicity Study<SEP>Mekeel K"
+  },
+  "SARS-CoV-2<SEP>new variants": {
+    "chunk_ids": [
+      "chunk-27fd707fb557046d91dccc6a9c1e15fd"
+    ],
+    "count": 1,
+    "create_time": 1761791338,
+    "update_time": 1761791338,
+    "_id": "SARS-CoV-2<SEP>new variants"
+  },
+  "REMAP-CAP Trial<SEP>Sarilumab": {
+    "chunk_ids": [
+      "chunk-27fd707fb557046d91dccc6a9c1e15fd"
+    ],
+    "count": 1,
+    "create_time": 1761791338,
+    "update_time": 1761791338,
+    "_id": "REMAP-CAP Trial<SEP>Sarilumab"
+  },
+  "Neutralizing Antibodies<SEP>Solid Organ Transplant Recipients (SOTRs)": {
+    "chunk_ids": [
+      "chunk-79e80c342197e54d6b5f6d848763a310"
+    ],
+    "count": 1,
+    "create_time": 1761791338,
+    "update_time": 1761791338,
+    "_id": "Neutralizing Antibodies<SEP>Solid Organ Transplant Recipients (SOTRs)"
+  },
+  "SARS-CoV-2<SEP>Vaccines": {
+    "chunk_ids": [
+      "chunk-79e80c342197e54d6b5f6d848763a310"
+    ],
+    "count": 1,
+    "create_time": 1761791339,
+    "update_time": 1761791339,
+    "_id": "SARS-CoV-2<SEP>Vaccines"
+  },
+  "Breakthrough Disease<SEP>Solid Organ Transplant Recipients (SOTRs)": {
+    "chunk_ids": [
+      "chunk-79e80c342197e54d6b5f6d848763a310"
+    ],
+    "count": 1,
+    "create_time": 1761791339,
+    "update_time": 1761791339,
+    "_id": "Breakthrough Disease<SEP>Solid Organ Transplant Recipients (SOTRs)"
+  },
+  "Emerging Variants of Concern (VOCs)<SEP>Neutralizing Antibodies": {
+    "chunk_ids": [
+      "chunk-79e80c342197e54d6b5f6d848763a310"
+    ],
+    "count": 1,
+    "create_time": 1761791339,
+    "update_time": 1761791339,
+    "_id": "Emerging Variants of Concern (VOCs)<SEP>Neutralizing Antibodies"
+  },
+  "COVID-19 Vaccine<SEP>DV": {
+    "chunk_ids": [
+      "chunk-442deee46860f108f0c5389563ea0e97"
+    ],
+    "count": 1,
+    "create_time": 1761791339,
+    "update_time": 1761791339,
+    "_id": "COVID-19 Vaccine<SEP>DV"
+  },
+  "Immuno-Compromised Individuals<SEP>Vaccines": {
+    "chunk_ids": [
+      "chunk-79e80c342197e54d6b5f6d848763a310"
+    ],
+    "count": 1,
+    "create_time": 1761791339,
+    "update_time": 1761791339,
+    "_id": "Immuno-Compromised Individuals<SEP>Vaccines"
+  },
+  "AZD1222<SEP>Neutralizing Antibodies": {
+    "chunk_ids": [
+      "chunk-79e80c342197e54d6b5f6d848763a310"
+    ],
+    "count": 1,
+    "create_time": 1761791339,
+    "update_time": 1761791339,
+    "_id": "AZD1222<SEP>Neutralizing Antibodies"
+  },
+  "CAPTURE Study<SEP>Emerging Variants of Concern (VOCs)": {
+    "chunk_ids": [
+      "chunk-79e80c342197e54d6b5f6d848763a310"
+    ],
+    "count": 1,
+    "create_time": 1761791339,
+    "update_time": 1761791339,
+    "_id": "CAPTURE Study<SEP>Emerging Variants of Concern (VOCs)"
+  },
+  "COVID-19 Vaccine<SEP>Sputnik V": {
+    "chunk_ids": [
+      "chunk-442deee46860f108f0c5389563ea0e97"
+    ],
+    "count": 1,
+    "create_time": 1761791339,
+    "update_time": 1761791339,
+    "_id": "COVID-19 Vaccine<SEP>Sputnik V"
+  },
+  "COVID-19 Vaccine<SEP>mRNA Vaccine": {
+    "chunk_ids": [
+      "chunk-442deee46860f108f0c5389563ea0e97"
+    ],
+    "count": 1,
+    "create_time": 1761791339,
+    "update_time": 1761791339,
+    "_id": "COVID-19 Vaccine<SEP>mRNA Vaccine"
+  },
+  "Computational Approaches<SEP>Emerging Variants of Concern (VOCs)": {
+    "chunk_ids": [
+      "chunk-79e80c342197e54d6b5f6d848763a310"
+    ],
+    "count": 1,
+    "create_time": 1761791339,
+    "update_time": 1761791339,
+    "_id": "Computational Approaches<SEP>Emerging Variants of Concern (VOCs)"
+  },
+  "COVID-19 Vaccine<SEP>Lancet": {
+    "chunk_ids": [
+      "chunk-442deee46860f108f0c5389563ea0e97"
+    ],
+    "count": 1,
+    "create_time": 1761791340,
+    "update_time": 1761791340,
+    "_id": "COVID-19 Vaccine<SEP>Lancet"
+  },
+  "BioNTech<SEP>COVID-19 Vaccine": {
+    "chunk_ids": [
+      "chunk-442deee46860f108f0c5389563ea0e97"
+    ],
+    "count": 1,
+    "create_time": 1761791340,
+    "update_time": 1761791340,
+    "_id": "BioNTech<SEP>COVID-19 Vaccine"
+  },
+  "COVID-19 Vaccine<SEP>SARS-CoV-2": {
+    "chunk_ids": [
+      "chunk-442deee46860f108f0c5389563ea0e97"
+    ],
+    "count": 1,
+    "create_time": 1761791340,
+    "update_time": 1761791340,
+    "_id": "COVID-19 Vaccine<SEP>SARS-CoV-2"
+  },
+  "C4591001 Clinical Trial Group<SEP>COVID-19 Vaccine": {
+    "chunk_ids": [
+      "chunk-442deee46860f108f0c5389563ea0e97"
+    ],
+    "count": 1,
+    "create_time": 1761791341,
+    "update_time": 1761791341,
+    "_id": "C4591001 Clinical Trial Group<SEP>COVID-19 Vaccine"
+  }
+}

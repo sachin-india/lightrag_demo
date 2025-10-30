@@ -72,12 +72,12 @@ Desktop.ini
 *.temp
 *.bak
 
-# LightRAG storage (large binary files)
-rag_storage/
-knowledgebase/__enqueued__/
+## LightRAG storage (large binary files)
+#rag_storage/
+#knowledgebase/__enqueued__/
 
-# PDF files (too large for git, users should add their own)
-pdfs/*.pdf
+## PDF files (too large for git, users should add their own)
+#pdfs/*.pdf
 
 # Keep folder structure but ignore content
 !pdfs/.gitkeep
