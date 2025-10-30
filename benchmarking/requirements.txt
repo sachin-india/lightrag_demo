@@ -1,0 +1,17 @@
+# Benchmarking System Dependencies
+# Install with: pip install -r benchmarking/requirements.txt
+
+# Dataset loading (HuggingFace)
+datasets>=2.14.0
+huggingface_hub>=0.16.0
+
+# Semantic similarity metrics
+sentence-transformers>=2.2.2
+
+# Async file operations
+aiofiles>=23.0.0
+
+# Dependencies already in main project (verify they exist)
+# openai>=1.0.0
+# python-dotenv>=1.0.0
+# lightrag-hku>=1.4.9
