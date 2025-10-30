@@ -1,0 +1,50 @@
+2025-10-30 06:12:53,945 - lightrag - INFO - [_] Loaded graph from ./rag_storage\graph_chunk_entity_relation.graphml with 710 nodes, 603 edges
+2025-10-30 06:12:54,086 - lightrag - INFO - [_] Process 18484 KV load full_docs with 1 records
+2025-10-30 06:12:54,088 - lightrag - INFO - [_] Process 18484 KV load text_chunks with 68 records
+2025-10-30 06:12:54,089 - lightrag - INFO - [_] Process 18484 KV load full_entities with 1 records
+2025-10-30 06:12:54,090 - lightrag - INFO - [_] Process 18484 KV load full_relations with 1 records
+2025-10-30 06:12:54,093 - lightrag - INFO - [_] Process 18484 KV load entity_chunks with 710 records
+2025-10-30 06:12:54,097 - lightrag - INFO - [_] Process 18484 KV load relation_chunks with 603 records
+2025-10-30 06:12:54,137 - lightrag - INFO - [_] Process 18484 KV load llm_response_cache with 148 records
+2025-10-30 06:12:54,137 - lightrag - INFO - [_] Process 18484 doc status load doc_status with 1 records
+2025-10-30 06:12:54,137 - lightrag - INFO - Embedding func: 16 new workers initialized (Timeouts: Func: 60s, Worker: 120s, Health Check: 135s)
+2025-10-30 06:12:56,439 - lightrag - INFO - Query nodes: Delta variant, Omicron variant, Mutation, Transmission rates (top_k:25, cosine:0.2)
+2025-10-30 06:12:56,871 - lightrag - INFO - Local query: 25 entites, 150 relations
+2025-10-30 06:12:56,871 - lightrag - INFO - Query edges: Emerging COVID variants, COVID-19 (top_k:25, cosine:0.2)
+2025-10-30 06:12:57,472 - lightrag - INFO - Global query: 31 entites, 25 relations
+2025-10-30 06:12:57,472 - lightrag - INFO - Raw search results: 43 entities, 152 relations, 0 vector chunks
+2025-10-30 06:12:57,514 - lightrag - INFO - After truncation: 28 entities, 51 relations
+2025-10-30 06:12:57,538 - lightrag - INFO - Selecting 62 from 62 entity-related chunks by vector similarity
+2025-10-30 06:12:57,538 - lightrag - INFO - Find no additional relations-related chunks from 51 relations
+2025-10-30 06:12:57,538 - lightrag - INFO - Round-robin merged chunks: 62 -> 62 (deduplicated 0)
+2025-10-30 06:12:57,549 - lightrag - WARNING - Rerank is enabled but no rerank model is configured. Please set up a rerank model or set enable_rerank=False in query parameters.
+2025-10-30 06:12:57,557 - lightrag - INFO - Final context: 28 entities, 51 relations, 3 chunks
+2025-10-30 06:12:57,558 - lightrag - INFO - Final chunks S+F/O: E5/1 E2/2 E3/3
+2025-10-30 06:12:57,575 - lightrag - INFO -  == LLM cache == Query cache hit, using cached response as query result
+2025-10-30 06:12:58,018 - lightrag - INFO - Query nodes: Variant strains, Testing methods, Diagnostic accuracy, Virus mutations (top_k:25, cosine:0.2)
+2025-10-30 06:12:58,721 - lightrag - INFO - Local query: 25 entites, 127 relations
+2025-10-30 06:12:58,721 - lightrag - INFO - Query edges: Emerging COVID variants, SARS-CoV-2 diagnosis, Effect analysis (top_k:25, cosine:0.2)
+2025-10-30 06:12:59,112 - lightrag - INFO - Global query: 28 entites, 25 relations
+2025-10-30 06:12:59,112 - lightrag - INFO - Raw search results: 41 entities, 129 relations, 0 vector chunks
+2025-10-30 06:12:59,141 - lightrag - INFO - After truncation: 39 entities, 51 relations
+2025-10-30 06:12:59,160 - lightrag - INFO - Selecting 59 from 59 entity-related chunks by vector similarity
+2025-10-30 06:12:59,163 - lightrag - INFO - Find no additional relations-related chunks from 51 relations
+2025-10-30 06:12:59,163 - lightrag - INFO - Round-robin merged chunks: 59 -> 59 (deduplicated 0)
+2025-10-30 06:12:59,171 - lightrag - WARNING - Rerank is enabled but no rerank model is configured. Please set up a rerank model or set enable_rerank=False in query parameters.
+2025-10-30 06:12:59,177 - lightrag - INFO - Final context: 39 entities, 51 relations, 3 chunks
+2025-10-30 06:12:59,177 - lightrag - INFO - Final chunks S+F/O: E4/1 E3/2 E5/3
+2025-10-30 06:12:59,197 - lightrag - INFO -  == LLM cache == Query cache hit, using cached response as query result
+2025-10-30 06:12:59,605 - lightrag - INFO - Query nodes: 1st author, Affiliation, Emerging Covid-19 variants (top_k:25, cosine:0.2)
+2025-10-30 06:12:59,976 - lightrag - INFO - Local query: 25 entites, 24 relations
+2025-10-30 06:12:59,976 - lightrag - INFO - Query edges: Research paper, Covid-19 variants, SARS-COV-2 diagnosis (top_k:25, cosine:0.2)
+2025-10-30 06:13:00,428 - lightrag - INFO - Global query: 33 entites, 25 relations
+2025-10-30 06:13:00,428 - lightrag - INFO - Raw search results: 56 entities, 46 relations, 0 vector chunks
+2025-10-30 06:13:00,465 - lightrag - INFO - After truncation: 41 entities, 46 relations
+2025-10-30 06:13:00,482 - lightrag - INFO - Selecting 58 from 58 entity-related chunks by vector similarity
+2025-10-30 06:13:00,482 - lightrag - INFO - Find no additional relations-related chunks from 46 relations
+2025-10-30 06:13:00,482 - lightrag - INFO - Round-robin merged chunks: 58 -> 58 (deduplicated 0)
+2025-10-30 06:13:00,498 - lightrag - WARNING - Rerank is enabled but no rerank model is configured. Please set up a rerank model or set enable_rerank=False in query parameters.
+2025-10-30 06:13:00,504 - lightrag - INFO - Final context: 41 entities, 46 relations, 4 chunks
+2025-10-30 06:13:00,504 - lightrag - INFO - Final chunks S+F/O: E8/1 E10/2 E8/3 E10/4
+2025-10-30 06:13:00,523 - lightrag - INFO -  == LLM cache == Query cache hit, using cached response as query result
+2025-10-30 06:13:00,535 - lightrag - INFO - Successfully finalized 12 storages

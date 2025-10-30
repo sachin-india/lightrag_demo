@@ -1,0 +1,61 @@
+================================================================================
+LIGHTRAG QUERY RESULTS WITH PERFORMANCE METRICS
+================================================================================
+Configuration: Mode=hybrid, Chunks=12, Tokens=250, Concise=True
+Performance Tracking: True
+================================================================================
+
+Query 1: What are the emerging covid variants?
+
+Answer: Emerging COVID variants include strains classified as Variants of Interest (VOIs) and Variants of Concern (VOCs), such as B.1.1.7 (Alpha), B.1.351 (Beta), P.1 (Gamma), and B.1.617.2 (Delta). These variants have mutations that may affect transmissibility, vaccine effectiveness, and disease severity. 
+
+### References
+- [1] Emerging COVID-19 variants and their impact on SARS-CoV-2 diagnosis_extracted.json
+
+⏱️  Performance Metrics:
+   Latency: 1924.15ms (1.92s)
+   Response Length: 405 chars
+   Answer Words: 53
+   Tokens/Second: 27.54
+--------------------------------------------------------------------------------
+
+Query 2: What are the effect of emerging covid variants on SARS-CoV-2 diagnosis ?
+
+Answer: Emerging COVID variants significantly challenge existing SARS-CoV-2 diagnostic methods, necessitating the development of newer and more adaptive technologies. Variants can alter the reliability of molecular tests, antigen tests, and serological tests, leading to discrepancies in detection rates and responses to treatments and vaccines. 
+
+### References
+
+- [1] Emerging COVID-19 variants and their impact on SARS-CoV-2 diagnosis_extracted.json
+
+⏱️  Performance Metrics:
+   Latency: 1623.32ms (1.62s)
+   Response Length: 444 chars
+   Answer Words: 56
+   Tokens/Second: 34.5
+--------------------------------------------------------------------------------
+
+Query 3: Who is the 1st author and their affiliation of the paper “Emerging Covid-19 variants and their impact on SARS-COV-2 diagnosis” ?
+
+Answer: The first author of the paper “Emerging COVID-19 variants and their impact on SARS-CoV-2 diagnosis” is Queenie Fernandes, affiliated with the Translational Cancer Research Facility, National Center for Cancer Care and Research, Hamad Medical Corporation, Doha, Qatar. 
+
+### References
+
+- [1] Emerging COVID-19 variants and their impact on SARS-CoV-2 diagnosis_extracted.json
+
+⏱️  Performance Metrics:
+   Latency: 1324.24ms (1.32s)
+   Response Length: 374 chars
+   Answer Words: 50
+   Tokens/Second: 37.76
+--------------------------------------------------------------------------------
+
+================================================================================
+📊 PERFORMANCE SUMMARY
+================================================================================
+Total Queries: 3
+Total Time: 4.87s
+Average Latency: 1623.9ms
+Min Latency: 1324.24ms
+Max Latency: 1924.15ms
+Median Latency: 1623.32ms
+================================================================================

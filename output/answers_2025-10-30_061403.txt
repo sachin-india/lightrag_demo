@@ -1,0 +1,69 @@
+================================================================================
+LIGHTRAG QUERY RESULTS WITH PERFORMANCE METRICS
+================================================================================
+Configuration: Mode=local, Chunks=12, Tokens=250, Concise=True
+Performance Tracking: True
+================================================================================
+
+Query 1: What are the emerging covid variants?
+
+Answer: Emerging COVID-19 variants include:
+
+- **B.1.1.7 (Alpha)**: Originated in the United Kingdom, identified in December 2020.
+- **B.1.351 (Beta)**: First detected in South Africa in December 2020.
+- **B.1.617.2 (Delta)**: Emerged in India in May 2021.
+- **B.1.1.529 (Omicron)**: Classified as a Variant of Concern, identified in South Africa in November 2021.
+- **B.1.525 (Eta)**: Identified in the United Kingdom and Nigeria in December 2020.
+
+These variants pose challenges in diagnostics and treatment (reference_id: 1). 
+
+### References
+
+- [1] Emerging COVID-19 variants and their impact on SARS-CoV-2 diagnosis_extracted.json
+
+⏱️  Performance Metrics:
+   Latency: 7164.25ms (7.16s)
+   Response Length: 627 chars
+   Answer Words: 88
+   Tokens/Second: 12.28
+--------------------------------------------------------------------------------
+
+Query 2: What are the effect of emerging covid variants on SARS-CoV-2 diagnosis ?
+
+Answer: Emerging COVID-19 variants have created challenges for SARS-CoV-2 diagnosis by necessitating advancements in diagnostic methods to ensure accurate detection. Variants may result in changes to receptor binding, reduced efficacy of treatments, and decreased neutralization by antibodies, complicating testing methodologies and highlighting the need for adaptive diagnostic technologies. 
+
+### References
+
+- [1] Emerging COVID-19 variants and their impact on SARS-CoV-2 diagnosis_extracted.json
+
+⏱️  Performance Metrics:
+   Latency: 5397.26ms (5.4s)
+   Response Length: 491 chars
+   Answer Words: 60
+   Tokens/Second: 11.12
+--------------------------------------------------------------------------------
+
+Query 3: Who is the 1st author and their affiliation of the paper “Emerging Covid-19 variants and their impact on SARS-COV-2 diagnosis” ?
+
+Answer: The 1st author of the paper "Emerging COVID-19 variants and their impact on SARS-CoV-2 diagnosis" is Queenie Fernandes, who is affiliated with the Translational Cancer Research Facility, National Center for Cancer Care and Research, Hamad Medical Corporation, Doha, Qatar. 
+
+### References
+- [1] Emerging COVID-19 variants and their impact on SARS-CoV-2 diagnosis_extracted.json
+
+⏱️  Performance Metrics:
+   Latency: 5098.24ms (5.1s)
+   Response Length: 378 chars
+   Answer Words: 52
+   Tokens/Second: 10.2
+--------------------------------------------------------------------------------
+
+================================================================================
+📊 PERFORMANCE SUMMARY
+================================================================================
+Total Queries: 3
+Total Time: 17.66s
+Average Latency: 5886.58ms
+Min Latency: 5098.24ms
+Max Latency: 7164.25ms
+Median Latency: 5397.26ms
+================================================================================

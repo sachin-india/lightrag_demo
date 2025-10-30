@@ -1,0 +1,69 @@
+================================================================================
+LIGHTRAG QUERY RESULTS WITH PERFORMANCE METRICS
+================================================================================
+Configuration: Mode=naive, Chunks=12, Tokens=250, Concise=True
+Performance Tracking: True
+================================================================================
+
+Query 1: What are the emerging covid variants?
+
+Answer: The emerging COVID-19 variants include:
+
+- **B.1.1.7** (Alpha) - United Kingdom, December 2020
+- **B.1.351** (Beta) - South Africa, December 2020
+- **P.1** (Gamma) - Brazil, January 2021
+- **B.1.617.2** (Delta) - India, May 2021
+- **B.1.1.529** (Omicron) - South Africa, November 2021
+
+These variants carry various mutations affecting transmissibility and treatments. 
+
+### References
+
+- [1] Emerging COVID-19 variants and their impact on SARS-CoV-2 diagnosis_extracted.json
+
+⏱️  Performance Metrics:
+   Latency: 6201.42ms (6.2s)
+   Response Length: 474 chars
+   Answer Words: 65
+   Tokens/Second: 10.48
+--------------------------------------------------------------------------------
+
+Query 2: What are the effect of emerging covid variants on SARS-CoV-2 diagnosis ?
+
+Answer: Emerging COVID-19 variants challenge the effectiveness of current diagnostic methods, necessitating the development of newer, adaptive technologies. Variants may alter the accuracy of nucleic acid tests, leading to false negatives, and thus, there’s a need for multi-target assays and techniques like PCR and LAMP for reliable detection. 
+
+### References
+
+- [1] Emerging COVID-19 variants and their impact on SARS-CoV-2 diagnosis_extracted.json
+
+⏱️  Performance Metrics:
+   Latency: 3523.6ms (3.52s)
+   Response Length: 444 chars
+   Answer Words: 60
+   Tokens/Second: 17.03
+--------------------------------------------------------------------------------
+
+Query 3: Who is the 1st author and their affiliation of the paper “Emerging Covid-19 variants and their impact on SARS-COV-2 diagnosis” ?
+
+Answer: The 1st author is Queenie Fernandes, affiliated with the Translational Cancer Research Facility, National Center for Cancer Care and Research, Hamad Medical Corporation, Doha, Qatar. 
+
+### References
+- [1] Emerging COVID-19 variants and their impact on SARS-CoV-2 diagnosis, therapeutics and vaccines
+
+⏱️  Performance Metrics:
+   Latency: 3209.92ms (3.21s)
+   Response Length: 300 chars
+   Answer Words: 41
+   Tokens/Second: 12.77
+--------------------------------------------------------------------------------
+
+================================================================================
+📊 PERFORMANCE SUMMARY
+================================================================================
+Total Queries: 3
+Total Time: 12.93s
+Average Latency: 4311.65ms
+Min Latency: 3209.92ms
+Max Latency: 6201.42ms
+Median Latency: 3523.6ms
+================================================================================

@@ -1,0 +1,41 @@
+{
+  "export_time": "2025-10-30T06:14:23.604443",
+  "individual_metrics": [
+    {
+      "query_id": 1,
+      "end_time": "2025-10-30T06:14:13.090497",
+      "latency_ms": 7164.25,
+      "latency_seconds": 7.16,
+      "response_length": 627,
+      "answer_length": 88,
+      "tokens_per_second": 12.28
+    },
+    {
+      "query_id": 2,
+      "end_time": "2025-10-30T06:14:18.487757",
+      "latency_ms": 5397.26,
+      "latency_seconds": 5.4,
+      "response_length": 491,
+      "answer_length": 60,
+      "tokens_per_second": 11.12
+    },
+    {
+      "query_id": 3,
+      "end_time": "2025-10-30T06:14:23.600962",
+      "latency_ms": 5098.24,
+      "latency_seconds": 5.1,
+      "response_length": 378,
+      "answer_length": 52,
+      "tokens_per_second": 10.2
+    }
+  ],
+  "summary": {
+    "total_queries": 3,
+    "total_time_ms": 17659.75,
+    "total_time_seconds": 17.66,
+    "avg_latency_ms": 5886.58,
+    "min_latency_ms": 5098.24,
+    "max_latency_ms": 7164.25,
+    "median_latency_ms": 5397.26
+  }
+}

@@ -248,8 +248,11 @@ def process_all_pdfs_in_folder(pdfs_folder="pdfs"):
         print(f"❌ PDFs folder not found: {pdfs_path}")
         return []
     
-    # Find all PDF files
+    # Find all PDF files (case-insensitive, avoid duplicates)
     pdf_files = list(pdfs_path.glob("*.pdf")) + list(pdfs_path.glob("*.PDF"))
+    # Remove duplicates by converting to set and back (comparing by full path)
+    pdf_files = list(set(str(f) for f in pdf_files))
+    pdf_files = [Path(f) for f in pdf_files]
     
     if not pdf_files:
         print(f"❌ No PDF files found in: {pdfs_path}")

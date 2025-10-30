@@ -1,8 +1,3 @@
-What diagnostic methods are discussed for SARS-CoV-2, and what challenges do emerging variants pose?
-How effective is Remdesivir against major SARS-CoV-2 variants like B.1.1.7 and B.1.351?
-What are the advantages and drawbacks of mRNA vaccines (BNT162b2, mRNA-1273)?
-What clinical findings are reported for inactivated whole-virus vaccines (CoronaVac, BBIBP-CorV)?
-What percentage of hospital-acquired COVID-19 infections affected healthcare workers?
-Who is the 1st author and their affiliation of the paper “Emerging Covid-19 variants and their impact on SARS-COV-2 diagnosis” 
-Is a publication by Robinson J. called “Everything you need to know about the COVID-19 therapy trials” cited in the paper “Emerging Covid-19 variants and their impact on SARS-COV-2 diagnosis” written by Q. Fernandes
-Is a publication by Robinson J. called “Discovery of an essential nucleotidylating activity associated with a newly delineated conserved domain in the RNA polymerase-containing protein of all nidoviruses” cited in the paper “Emerging Covid-19 variants and their impact on SARS-COV-2 diagnosis” written by Q. Fernandes
+What are the emerging covid variants?
+What are the effect of emerging covid variants on SARS-CoV-2 diagnosis ?
+Who is the 1st author and their affiliation of the paper “Emerging Covid-19 variants and their impact on SARS-COV-2 diagnosis” ?
