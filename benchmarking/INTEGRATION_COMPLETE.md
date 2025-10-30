@@ -52,7 +52,7 @@ Successfully integrated the Intel Alloy-based benchmarking system with standard 
 **Test Result:** ✅ Imports successfully, initializes with correct working directory
 
 ### ✅ Phase 5: Integration Testing
-**File:** `benchmarking/test_metrics_only.py`
+**File:** `benchmarking/integration_test_openai_replacement.py`
 
 **Test Results:**
 ```
@@ -82,7 +82,8 @@ Successfully integrated the Intel Alloy-based benchmarking system with standard 
 | `benchmarking/evaluators/lightrag_evaluator.py` | ✅ Modified | Standard LightRAG initialization |
 | `benchmarking/metrics/semantic.py` | ✅ Modified | Removed unicode print statements |
 | `benchmarking/requirements.txt` | ✅ Created | Isolated benchmarking dependencies |
-| `benchmarking/test_metrics_only.py` | ✅ Created | Integration test suite |
+| `benchmarking/integration_test_openai_replacement.py` | ✅ Created | Main integration test suite |
+| `benchmarking/integration_test_efficiency_metrics.py` | ✅ Created | Efficiency metrics test |
 | `BENCHMARKING_ANALYSIS.md` | ✅ Created | Analysis and integration plan |
 
 ## Commits on benchmark-integration Branch

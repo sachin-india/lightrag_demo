@@ -1,8 +1,20 @@
 """
-Simple Integration Test - Just test all metric modules work
-No document ingestion, just test metric calculations
+Integration Test - OpenAI Replacement Validation
 
-Run from project root: python benchmarking/test_metrics_only.py
+Validates that all metric modules work correctly after replacing Intel Alloy
+with standard OpenAI API. This is an integration test that makes real API calls.
+
+Type: Integration Test (not unit test)
+- Tests multiple components working together
+- Makes real OpenAI API calls (costs money)
+- Downloads sentence-transformer models (~90MB)
+- Validates end-to-end metric calculation flows
+
+Run from project root: python benchmarking/integration_test_openai_replacement.py
+
+Requirements:
+- OPENAI_API_KEY in .env file
+- Internet connection for API calls and model downloads
 """
 
 import asyncio
@@ -45,9 +57,29 @@ async def main():
     print(f"   OK Semantic Similarity: {scores['semantic_similarity']:.3f}")
     print()
     
-    # 3. Test Efficiency Metrics (skip - needs context manager usage)
+    # 3. Test Efficiency Metrics
     print("[3/4] Testing Efficiency Metrics...")
-    print("   OK (Skipped - context manager design)")
+    eff_metrics = EfficiencyMetrics()
+    
+    # Use context manager properly
+    query_metrics_list = []
+    with eff_metrics.measure_query("test_query_1") as qm:
+        import time
+        time.sleep(0.05)  # Simulate query work
+        eff_metrics.record_api_call("embedding", count=2)
+        eff_metrics.record_api_call("chat", count=1)
+    query_metrics_list.append(qm)
+    
+    with eff_metrics.measure_query("test_query_2") as qm:
+        time.sleep(0.03)
+        eff_metrics.record_api_call("embedding", count=1)
+    query_metrics_list.append(qm)
+    
+    # Aggregate results
+    summary = eff_metrics.aggregate_query_metrics(query_metrics_list)
+    print(f"   OK Total Queries: {summary['total_queries']}")
+    print(f"   OK Avg Latency: {summary['latency_stats']['total']['mean']:.3f}s")
+    print(f"   OK Throughput: {summary['throughput_qps']:.2f} qps")
     print()
     
     # 4. Test LLM Judge (OpenAI)
